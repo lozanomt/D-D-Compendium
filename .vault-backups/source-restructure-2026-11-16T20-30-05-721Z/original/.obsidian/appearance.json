@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Transparent",
+  "accentColor": "#d4cece",
+  "interfaceFontFamily": "Century Schoolbook,Century,Times New Roman",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "dnd-2024-book",
+    "dndbeyond-compact"
+  ]
+}

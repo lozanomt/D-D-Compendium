@@ -1,0 +1,84 @@
+/* Omni Infobox layout, revision 2.
+   Reserve space for the card AND constrain the inner editor/reading content.
+   Direct-child detection also works before the plugin's layout classes refresh. */
+.has-infobox {
+    --omni-card-width: 280px;
+    --omni-card-space: 312px;
+}
+
+:is(.has-infobox.infobox-docked,
+    .has-infobox:has(> .infobox-panel:not(.infobox-panel-inline))) > .view-content {
+    box-sizing: border-box !important;
+    width: calc(100% - var(--omni-card-space)) !important;
+    max-width: calc(100% - var(--omni-card-space)) !important;
+    min-width: 0 !important;
+    margin-right: var(--omni-card-space) !important;
+    overflow: hidden;
+}
+
+/* Support versions that attach the card to .view-content itself. */
+.view-content:is(.has-infobox.infobox-docked,
+    .has-infobox:has(> .infobox-panel:not(.infobox-panel-inline)))
+    > :is(.markdown-reading-view, .markdown-source-view) {
+    box-sizing: border-box !important;
+    width: calc(100% - var(--omni-card-space)) !important;
+    max-width: calc(100% - var(--omni-card-space)) !important;
+    min-width: 0 !important;
+    margin-right: var(--omni-card-space) !important;
+}
+
+.has-infobox > .infobox-panel:not(.infobox-panel-inline) {
+    width: var(--omni-card-width) !important;
+    max-width: var(--omni-card-width) !important;
+    right: 16px !important;
+    box-sizing: border-box;
+}
+
+/* Obsidian's inner sizers can otherwise retain a full-note minimum width. */
+.has-infobox :is(.markdown-reading-view, .markdown-preview-view,
+    .markdown-source-view, .cm-editor, .cm-scroller, .cm-sizer,
+    .cm-contentContainer, .cm-content, .markdown-preview-sizer,
+    .markdown-preview-section, .metadata-container, .metadata-properties) {
+    box-sizing: border-box !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+}
+
+.has-infobox :is(.markdown-preview-sizer, .markdown-preview-section,
+    .cm-sizer, .cm-editor, .metadata-container) {
+    width: 100% !important;
+}
+
+.has-infobox .cm-contentContainer {
+    flex: 1 1 0 !important;
+}
+
+/* Wide tables, code, and raw property values scroll within the note column. */
+.has-infobox :is(.markdown-preview-view, .cm-scroller) {
+    overflow-x: auto !important;
+}
+
+.has-infobox :is(.markdown-preview-sizer, .cm-content) {
+    overflow-wrap: anywhere;
+}
+
+.has-infobox .metadata-property-value {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    overflow-x: auto;
+}
+
+/* Narrow-pane cards remain above the note, in normal document flow. */
+.has-infobox:not(.infobox-docked):not(:has(> .infobox-panel:not(.infobox-panel-inline)))
+    > .view-content {
+    margin-right: 0 !important;
+}
+
+.has-infobox .infobox-panel.infobox-panel-inline {
+    position: relative !important;
+    inset: auto !important;
+    width: min(100%, 360px) !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    margin: 0 0 24px auto !important;
+}

@@ -1,0 +1,49 @@
+---
+tags:
+  - magicitem
+cssclasses:
+  - "dnd-book"
+  - "dnd-dmg"
+source_book: "Dungeon Master's Guide (2024)"
+source_pdf_pages: [298]
+review_status: "rules-summary-checked-against-page-image"
+reviewed: 2026-11-16
+entity_id: d464adb0-9fb6-5492-82ef-9a1750a1fa0a
+entity_type: item
+source_ids: ["dmg-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [239]
+source_versions: ["Dungeon Master's Guide", "SRD 5.2.1"]
+---
+
+# Ring of Telekinesis
+
+## Dungeon Master's Guide
+
+> [!info]
+> ### Ring of Telekinesis
+> *Ring, Very Rare*
+>
+> ![[Sources/5.5e/Dungeon Master's Guide/Artwork/dmg-p298-ring-of-telekinesis.png|320]]
+>
+> **Attunement:** Yes  
+>
+> While wearing the ring, you can cast [[Telekinesis|Telekinesis]] from it.
+>
+> *Rules summary checked against the supplied book page image; see the source for the original wording and illustration.*
+>
+> **Source:** [[D&D 5.5E - Dungeon Master's Guide.pdf#page=298|Dungeon Master's Guide]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Ring of Telekinesis
+>
+> ![[Sources/5.5e/Dungeon Master's Guide/Artwork/dmg-p298-ring-of-telekinesis.png|320]]
+>
+> Ring, Very Rare (Requires [[Attunement|Attunement]]) While wearing this ring, you can cast [[Telekinesis|Telekinesis]] from it.
+>
+> **Source:** [[SRD_CC_v5.2.1.pdf#page=239|SRD 5.2.1, p. 239]]
+
+## Source References
+
+- [[Chapter 7 - Treasure|Dungeon Master's Guide — Chapter 7 - Treasure]]

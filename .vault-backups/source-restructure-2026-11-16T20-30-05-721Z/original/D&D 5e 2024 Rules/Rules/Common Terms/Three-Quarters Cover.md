@@ -1,0 +1,19 @@
+---
+tags:
+  - rule
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Three-Quarters Cover
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+
+Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: 
+
+- **Half Cover** (+2 bonus to AC and Dexterity saving throws)
+- **Three-Quarters Cover** (+5 bonus to AC and Dexterity saving throws)
+- **Total Cover** (can’t be targeted directly).  
+
+If behind more than one degree of cover, a target benefits only from the most protective degree.

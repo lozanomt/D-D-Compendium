@@ -1,0 +1,2702 @@
+[
+  {
+    "page": 231,
+    "line": 11,
+    "meta_line": 12,
+    "name": "Ammunition, +1, +2, or +3",
+    "score": 0.552,
+    "heading": "AuuuNruoN, +I, +2, on +3",
+    "metadata": "Weapon (Any Ammunition), Uncommon (+l), Rare (+t),"
+  },
+  {
+    "page": 231,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Ammunition of Slaying",
+    "score": 0.667,
+    "heading": "Atr,t tvtu N If ION OF SI-aYI Nc",
+    "metadata": "Weapon (Any Ammunition), Very Rare"
+  },
+  {
+    "page": 231,
+    "line": 43,
+    "meta_line": 44,
+    "name": "Amulet of Health",
+    "score": 0.667,
+    "heading": "Arraurnr oF HEALTH",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 231,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Candle of Invocation",
+    "score": 0.759,
+    "heading": "AND LOCATION",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 232,
+    "line": -1,
+    "meta_line": 2,
+    "name": "Amulet of the Planes",
+    "score": 0.588,
+    "heading": "?, Auurnr oF THE PreNrs",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 232,
+    "line": 29,
+    "meta_line": 31,
+    "name": "Lantern of Revealing",
+    "score": 0.485,
+    "heading": "!.1 ANruerno Snrnro",
+    "metadata": "Armor (Shield), Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 232,
+    "line": 41,
+    "meta_line": 42,
+    "name": "Apparatus of the Crab",
+    "score": 0.541,
+    "heading": "Appenarus oF KIIALrsH",
+    "metadata": "Wondrous ltem, Legendary"
+  },
+  {
+    "page": 233,
+    "line": 35,
+    "meta_line": 36,
+    "name": "Ammunition, +1, +2, or +3",
+    "score": 0.741,
+    "heading": "AnIraon, +1, +2, oR +3",
+    "metadata": "Armor (Any Li1ht, Medium, or Heavy), Rare (+1), \\tsry"
+  },
+  {
+    "page": 233,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Manual of Golems",
+    "score": 0.6,
+    "heading": "Auraon oF GLEAMTNG",
+    "metadata": "Armor (Arry Light, Medium, or Heavy), Common"
+  },
+  {
+    "page": 233,
+    "line": 43,
+    "meta_line": 44,
+    "name": "Armor of Invulnerability",
+    "score": 0.87,
+    "heading": "Anrr,ron oF INvULNERABILITY",
+    "metadata": "Armor (Plate Armor), Legendary (Requires Attunement)"
+  },
+  {
+    "page": 234,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Armor of Resistance",
+    "score": 0.765,
+    "heading": "Anuon oF RESTSTANCE",
+    "metadata": "Armor (Arry Light, Medium, or Heaty), Rare (Requires"
+  },
+  {
+    "page": 234,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Arrow-Catching Shield",
+    "score": 0.632,
+    "heading": "Annow-CATCHTNG SHrrro",
+    "metadata": "Armor (Shield), Rare (Requires Attunement)"
+  },
+  {
+    "page": 234,
+    "line": 66,
+    "meta_line": 67,
+    "name": "Armor of Vulnerability",
+    "score": 0.829,
+    "heading": "Aurron oF VULNERABTLITY",
+    "metadata": "Armor (Arry Light, Medium, or Heavy), Rare (Requires"
+  },
+  {
+    "page": 235,
+    "line": 63,
+    "meta_line": 64,
+    "name": "Robe of Eyes",
+    "score": 0.387,
+    "heading": "Bese Yece's DeNcrNc Bnoou",
+    "metadata": "Wondrous ltem, U ncommon (Requires Attunement)"
+  },
+  {
+    "page": 236,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Bag of Beans",
+    "score": 0.7,
+    "heading": "Bac or BreNs",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 237,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Bag of Devouring",
+    "score": 0.571,
+    "heading": "Bac on DrvounrNc",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 237,
+    "line": 113,
+    "meta_line": 114,
+    "name": "Cube of Force",
+    "score": 0.818,
+    "heading": "Bneo oF FoRcE",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 238,
+    "line": 22,
+    "meta_line": 23,
+    "name": "Bead of Nourishment",
+    "score": 0.824,
+    "heading": "Bneo oF NoURTSHMENT",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 238,
+    "line": 27,
+    "meta_line": 28,
+    "name": "Bead of Nourishment",
+    "score": 0.647,
+    "heading": "BBeo OF REFRESHMENT",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 238,
+    "line": 33,
+    "meta_line": 34,
+    "name": "Belt of Dwarvenkind",
+    "score": 0.471,
+    "heading": "Brlr or DwanvnNrlNo",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 239,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Ring of Resistance",
+    "score": 0.4,
+    "heading": "Bnlr or GreNr SrnrNcrn",
+    "metadata": "Wondrous ltem, Rarity Varies (Requires Attunement)"
+  },
+  {
+    "page": 239,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Berserker Axe",
+    "score": 0.667,
+    "heading": "BrBSrnrnR AxE",
+    "metadata": "Weapon (Battleaxe, Greataxe, or Halberd), Rare"
+  },
+  {
+    "page": 240,
+    "line": 58,
+    "meta_line": 59,
+    "name": "Boots of Speed",
+    "score": 0.533,
+    "heading": "Boor oF EXALTED DEEDS",
+    "metadata": "Wondrous ltem, Artifact (Require s Attunement)"
+  },
+  {
+    "page": 242,
+    "line": 94,
+    "meta_line": 95,
+    "name": "Rod of Alertness",
+    "score": 0.625,
+    "heading": "Boors oF FALsE Tnecrs",
+    "metadata": "Wondrous ltem, Common (Requires Attunement)"
+  },
+  {
+    "page": 242,
+    "line": 99,
+    "meta_line": 100,
+    "name": "Boots of Levitation",
+    "score": 0.824,
+    "heading": "Boors oF LEVTTATToN",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 243,
+    "line": 6,
+    "meta_line": 7,
+    "name": "Boots of Speed",
+    "score": 0.917,
+    "heading": "Boors oF SPEED",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 243,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Boots of Striding and Springing",
+    "score": 0.704,
+    "heading": "Boors oF STRTDTNG AND SpnrNcrNc",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 243,
+    "line": 25,
+    "meta_line": 26,
+    "name": "Boots of the Winterlands",
+    "score": 0.667,
+    "heading": "Boors oF THE WrNrrnraNps",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 243,
+    "line": 37,
+    "meta_line": 39,
+    "name": "Bowl of Commanding Water Elementals",
+    "score": 0.635,
+    "heading": "Bowr oF CoMMANDTNG'W'anpn Errrunurers",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 243,
+    "line": 52,
+    "meta_line": 53,
+    "name": "Bracers of Archery",
+    "score": 0.812,
+    "heading": "Bnecrns oF ARCHERY",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 244,
+    "line": 5,
+    "meta_line": 6,
+    "name": "Bracers of Defense",
+    "score": 0.75,
+    "heading": "Bnecnns oF DEFENSE",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 244,
+    "line": 10,
+    "meta_line": 12,
+    "name": "Brazier of Commanding Fire Elementals",
+    "score": 0.627,
+    "heading": "Bnezrrn oF CoMMANDTNG FrRE EmrrrnNrers",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 244,
+    "line": 22,
+    "meta_line": 23,
+    "name": "Brooch of Shielding",
+    "score": 0.765,
+    "heading": "Bnoocn oF SHTELDTNG",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 244,
+    "line": 33,
+    "meta_line": 34,
+    "name": "Broom of Flying",
+    "score": 0.769,
+    "heading": "Bnoou oF FLYTNG",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 244,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Candle of Invocation",
+    "score": 0.778,
+    "heading": "Cauorn oF INVocATToN",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 245,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Ring of the Ram",
+    "score": 0.519,
+    "heading": "CeNorr oF THE Drnp",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 245,
+    "line": 19,
+    "meta_line": 20,
+    "name": "Cape of the Mountebank",
+    "score": 0.667,
+    "heading": "Capn oF THE MouNrnnrq.Nr",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 245,
+    "line": 29,
+    "meta_line": 30,
+    "name": "Weapon of Warning",
+    "score": 0.471,
+    "heading": "Cep or WarrR BnnernrNc",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 245,
+    "line": 36,
+    "meta_line": 37,
+    "name": "Carpet of Flying",
+    "score": 0.643,
+    "heading": "Cenprr oF FLYTNG",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 246,
+    "line": 19,
+    "meta_line": 21,
+    "name": "Ring of Regeneration",
+    "score": 0.5,
+    "heading": "30 feet Cesr-Orr Anuon",
+    "metadata": "Armor (Arry Light, Medium, or Heavy), Common"
+  },
+  {
+    "page": 246,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Potion of Growth",
+    "score": 0.516,
+    "heading": "Ceurpnon oF REBIRTH",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement by a"
+  },
+  {
+    "page": 246,
+    "line": 47,
+    "meta_line": 48,
+    "name": "Censer of Controlling Air Elementals",
+    "score": 0.727,
+    "heading": "CnNsnn oF CoNTRoLLING Arn ErnIranNTALs",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 246,
+    "line": 58,
+    "meta_line": 59,
+    "name": "Berserker Axe",
+    "score": 0.48,
+    "heading": "CnenreraN's DIE",
+    "metadata": "Wondrous ltem, Common (Requires Attunement)"
+  },
+  {
+    "page": 247,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Chime of Opening",
+    "score": 0.621,
+    "heading": "Curnan oF OPENTNG",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 247,
+    "line": 25,
+    "meta_line": 26,
+    "name": "Horn of Blasting",
+    "score": 0.71,
+    "heading": "Crncrrr oF BLAsTTNG",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 247,
+    "line": 30,
+    "meta_line": 31,
+    "name": "Cloak of Arachnida",
+    "score": 0.688,
+    "heading": "Croer oF ARAoHNTDA",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 247,
+    "line": 50,
+    "meta_line": 51,
+    "name": "Circlet of Blasting",
+    "score": 0.545,
+    "heading": "Croer oF BrLlowrNG",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 247,
+    "line": 54,
+    "meta_line": 55,
+    "name": "Cloak of Displacement",
+    "score": 0.789,
+    "heading": "Croer oF DTsPLACEMENT",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 247,
+    "line": 63,
+    "meta_line": 64,
+    "name": "Cloak of Elvenkind",
+    "score": 0.75,
+    "heading": "Croer oF ELvENKTND",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 248,
+    "line": 3,
+    "meta_line": 4,
+    "name": "Rod of Resurrection",
+    "score": 0.556,
+    "heading": "Croer oF MANY FesuroNs",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 248,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Cloak of Protection",
+    "score": 0.647,
+    "heading": "Crolr oF PRorEcrroN",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 248,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Cloak of the Bat",
+    "score": 0.769,
+    "heading": "Croer oF THE BAT",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 248,
+    "line": 32,
+    "meta_line": 33,
+    "name": "Robe of the Archmagi",
+    "score": 0.571,
+    "heading": "Croer oF THE Meura Rev",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 248,
+    "line": 36,
+    "meta_line": 37,
+    "name": "Rod of Alertness",
+    "score": 0.414,
+    "heading": "CTocr<woRKAMULET",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 248,
+    "line": 46,
+    "meta_line": 47,
+    "name": "Horn of Blasting",
+    "score": 0.533,
+    "heading": "Croruns oF MENDTNG",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 248,
+    "line": 51,
+    "meta_line": 52,
+    "name": "Crystal Ball",
+    "score": 0.455,
+    "heading": "Cnvsrar Barr",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 249,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Serpentine Owl Figurine",
+    "score": 0.444,
+    "heading": "Cnvsrer, Berr or MrNo RneorNc",
+    "metadata": "Wondrous ltem, Legendary (Require s Attunement)"
+  },
+  {
+    "page": 249,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Crystal Ball of True Seeing",
+    "score": 0.522,
+    "heading": "Cnvsrer Barr oF TRUE SrrrNc",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 249,
+    "line": 26,
+    "meta_line": 27,
+    "name": "Cube of Force",
+    "score": 0.818,
+    "heading": "Cunr oF FoRcE",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 250,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Ioun Stone",
+    "score": 0.538,
+    "heading": "Cunn or Suutr.toNlNe",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 250,
+    "line": 22,
+    "meta_line": 23,
+    "name": "Cubic Gate",
+    "score": 0.556,
+    "heading": "Cusrc GerB",
+    "metadata": "Wondrous ltem, Legendary"
+  },
+  {
+    "page": 250,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Instant Fortress",
+    "score": 0.611,
+    "heading": "DannN's INsreNt Fonrnrss",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 251,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Demon Armor",
+    "score": 0.435,
+    "heading": "Deccnn or VnNou",
+    "metadata": "Weapon (Dagger), Rare"
+  },
+  {
+    "page": 251,
+    "line": 33,
+    "meta_line": 34,
+    "name": "Demon Armor",
+    "score": 0.48,
+    "heading": "Denr Sneno Auurnr",
+    "metadata": "Wondrous ltem, Common (Requires Attunementby a"
+  },
+  {
+    "page": 255,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Dancing Sword",
+    "score": 0.421,
+    "heading": "DnnrN\u00bbnn",
+    "metadata": "Weapon (Arry Melee Weapon), Legendary (Requires"
+  },
+  {
+    "page": 255,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Ring of X-ray Vision",
+    "score": 0.462,
+    "heading": "Dnuox Anuon",
+    "metadata": "Armor (Any Light, Medium, or Heavy),Very Rare"
+  },
+  {
+    "page": 257,
+    "line": 31,
+    "meta_line": 32,
+    "name": "Dimensional Shackles",
+    "score": 0.789,
+    "heading": "DruBNsroNAL SHAcKLEs",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 257,
+    "line": 48,
+    "meta_line": 49,
+    "name": "Demon Armor",
+    "score": 0.48,
+    "heading": "Dn,lcoN ScerB Merr",
+    "metadata": "Armor (Scale Mail),Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 257,
+    "line": 66,
+    "meta_line": 67,
+    "name": "Anchor Token",
+    "score": 0.5,
+    "heading": "Dnecorq Slevnn",
+    "metadata": "Weapon (Any Simple or Martial), Rare"
+  },
+  {
+    "page": 257,
+    "line": 72,
+    "meta_line": 73,
+    "name": "Dragon Orb",
+    "score": 0.526,
+    "heading": "Dnrao Hrura",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 258,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Silver Raven Figurine",
+    "score": 0.452,
+    "heading": "Dwl.nvrr.r Purn",
+    "metadata": "Armor (Half Plate or Plate Armor), Very Rare"
+  },
+  {
+    "page": 259,
+    "line": 5,
+    "meta_line": 6,
+    "name": "Dwarven Thrower",
+    "score": 0.643,
+    "heading": "DwanvnN THnownn",
+    "metadata": "Weapon (Warhammer), Very Rare (Requires"
+  },
+  {
+    "page": 259,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Horn of Blasting",
+    "score": 0.6,
+    "heading": "Een HonN oF HEARTNG",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 259,
+    "line": 21,
+    "meta_line": 22,
+    "name": "Armor, +1, +2, or +3",
+    "score": 0.435,
+    "heading": "Ernrnrl Borrrn",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 260,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Elven Chain",
+    "score": 0.476,
+    "heading": "ErnrBu CsarN",
+    "metadata": "Armor (Chain Mail or Chain Shirt), Legendary (Requires"
+  },
+  {
+    "page": 260,
+    "line": 8,
+    "meta_line": 9,
+    "name": "Elemental Gem",
+    "score": 0.538,
+    "heading": "Err,IrarNraL GEM",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 260,
+    "line": 27,
+    "meta_line": 28,
+    "name": "Elixir of Health",
+    "score": 0.714,
+    "heading": "Errxrn oF HEALTH",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 260,
+    "line": 34,
+    "meta_line": 35,
+    "name": "Elven Chain",
+    "score": 0.6,
+    "heading": "ErvrN CH,c,rN",
+    "metadata": "Armor (Chain Mail or Chain Shirt), Rare"
+  },
+  {
+    "page": 260,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Splint Armor, +3",
+    "score": 0.429,
+    "heading": "ENpuuuc Spnrrsoor",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 260,
+    "line": 45,
+    "meta_line": 46,
+    "name": "Energy Longbow",
+    "score": 0.545,
+    "heading": "ENBncv Bow",
+    "metadata": "Weapon (Longbow or Shortbow),Very Rare (Requires"
+  },
+  {
+    "page": 261,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Sphere of Annihilation",
+    "score": 0.471,
+    "heading": "ENspnr,r.ro Anuon",
+    "metadata": "Armor (Any Light, Medium, or Heavy), Rarity Varies"
+  },
+  {
+    "page": 261,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Rod of Resurrection",
+    "score": 0.438,
+    "heading": "ENspBrrnn WrepoN",
+    "metadata": "Weapon (Any Simple or Martial), Rarity Varies"
+  },
+  {
+    "page": 261,
+    "line": 132,
+    "meta_line": 134,
+    "name": "Leather Armor, +1",
+    "score": 0.429,
+    "heading": "t8 ENsprrrn\u00bb Sr.,lrr",
+    "metadata": "Staff, Rarity Varies (Requires Attunement by a"
+  },
+  {
+    "page": 262,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Gem of Seeing",
+    "score": 0.5,
+    "heading": "Enserz Evn",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 264,
+    "line": 3,
+    "meta_line": 4,
+    "name": "Bracers of Archery",
+    "score": 0.533,
+    "heading": "Evns or CHenurNc",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 264,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Eyes of Minute Seeing",
+    "score": 0.444,
+    "heading": "Evns or MrNutn SnnrNc",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 264,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Eyes of the Eagle",
+    "score": 0.714,
+    "heading": "Evns on rHE EAGLE",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 264,
+    "line": 28,
+    "meta_line": 29,
+    "name": "Figurine of Wondrous Power",
+    "score": 0.783,
+    "heading": "FrcunrNn oF WoNDRous PowER",
+    "metadata": "Wondrous ltem, Rarity Varies"
+  },
+  {
+    "page": 266,
+    "line": 26,
+    "meta_line": 27,
+    "name": "Efficient Quiver",
+    "score": 0.48,
+    "heading": "Freun T\u00f6Ncur",
+    "metadata": "Weapon (Any Melee Weapon), Rare (Requires"
+  },
+  {
+    "page": 267,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Gauntlets of Ogre Power",
+    "score": 0.5,
+    "heading": "Gauxrrnrs or Ocnn Pownn",
+    "metadata": "Wondrous ltem, U ncommon (Requires Attunement)"
+  },
+  {
+    "page": 267,
+    "line": 5,
+    "meta_line": 6,
+    "name": "Iron Bands",
+    "score": 0.417,
+    "heading": "Gru or BnrcnrNnss",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 267,
+    "line": 32,
+    "meta_line": 33,
+    "name": "Armor of Resistance",
+    "score": 0.467,
+    "heading": "Grrrr on SrrINc",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 267,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Universal Solvent",
+    "score": 0.444,
+    "heading": "GraNr Sr\"avrn",
+    "metadata": "Weapon (Any Simple or Martial), Rare"
+  },
+  {
+    "page": 267,
+    "line": 48,
+    "meta_line": 49,
+    "name": "Glamour Studded Leather",
+    "score": 0.739,
+    "heading": "Gr.q,rrdounED STUDDED LEATHER",
+    "metadata": "Armor (Studded Leather Armor), Rare"
+  },
+  {
+    "page": 268,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Gloves of Missile Snaring",
+    "score": 0.5,
+    "heading": "Glovns or Mrssrr,n SxlnrNc",
+    "metadata": "Wondrous ltem, U ncommon (Requires Attunement)"
+  },
+  {
+    "page": 268,
+    "line": 9,
+    "meta_line": 10,
+    "name": "Gloves of Swimming and Climbing",
+    "score": 0.691,
+    "heading": "Grovns oF SwIMMTNG AND CuIranrNc",
+    "metadata": "Wondrous ltem, U ncommon (Requires Attunement)"
+  },
+  {
+    "page": 268,
+    "line": 15,
+    "meta_line": 16,
+    "name": "Gloves of Thievery",
+    "score": 0.875,
+    "heading": "Glovrs oF THTEvERY",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 268,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Goggles of Night",
+    "score": 0.714,
+    "heading": "Goccrns oF NIGHT",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 268,
+    "line": 28,
+    "meta_line": 30,
+    "name": "Anchor Token",
+    "score": 0.455,
+    "heading": "Nlcxr Hec Evn",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 268,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Maul of Thunderbolts",
+    "score": 0.8,
+    "heading": "HaurrrBn oF THUNDERBoLTS",
+    "metadata": "Weapon (Maul or Warhammer), Legendary (Requires"
+  },
+  {
+    "page": 269,
+    "line": 19,
+    "meta_line": 20,
+    "name": "Hat of Disguise",
+    "score": 0.538,
+    "heading": "Han or DrscursB",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 269,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Hat of Many Spells",
+    "score": 0.533,
+    "heading": "Har or Meuy Spnrr\"s",
+    "metadata": "Wondrous ltem,Very Rare (Requires Attunementby a"
+  },
+  {
+    "page": 270,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Sphere of Annihilation",
+    "score": 0.545,
+    "heading": "Her or VnnIrarN",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 270,
+    "line": 51,
+    "meta_line": 53,
+    "name": "Feather Token",
+    "score": 0.516,
+    "heading": "at dawn. Her or Wrzenonv",
+    "metadata": "Wondrous ltem, Common (Requires Attunement by a"
+  },
+  {
+    "page": 271,
+    "line": 4,
+    "meta_line": 5,
+    "name": "Headband of Intellect",
+    "score": 0.757,
+    "heading": "HrAos\u00c4,No oF INTELLEcT",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 271,
+    "line": 9,
+    "meta_line": 10,
+    "name": "Helm of Brilliance",
+    "score": 0.625,
+    "heading": "Hnru oF BRTLLTANoE",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 271,
+    "line": 58,
+    "meta_line": 59,
+    "name": "Helm of Telepathy",
+    "score": 0.8,
+    "heading": "Hnru oF TELEPATHY",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 271,
+    "line": 65,
+    "meta_line": 66,
+    "name": "Helm of Teleportation",
+    "score": 0.895,
+    "heading": "Hnlu oF TELEPoRTATIoN",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 272,
+    "line": 3,
+    "meta_line": 4,
+    "name": "Shield of the Cavalier",
+    "score": 0.45,
+    "heading": "HrwLno's HeNov HevBnsecr",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 272,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Oathbow (Shortbow)",
+    "score": 0.432,
+    "heading": "HnwAnp's HeNov SprcB PoucH",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 272,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Holy Avenger",
+    "score": 0.455,
+    "heading": "HorvAvrNcBn",
+    "metadata": "Weapon (Any Simple or Martial), Legendary (Requires"
+  },
+  {
+    "page": 273,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Rod of Resurrection",
+    "score": 0.516,
+    "heading": "HonN or BresrrNc",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 273,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Rope of Entanglement",
+    "score": 0.571,
+    "heading": "HonN oF SrLENTAlenu",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 273,
+    "line": 24,
+    "meta_line": 25,
+    "name": "Horn of Valhalla",
+    "score": 0.929,
+    "heading": "HonN oF VALHALLA",
+    "metadata": "Wondrous ltem, Rare (Silver or Brass), Very Rare"
+  },
+  {
+    "page": 273,
+    "line": 46,
+    "meta_line": 47,
+    "name": "Horseshoes of a Zephyr",
+    "score": 0.842,
+    "heading": "HonsrsnoEs oF A ZEPHYR",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 273,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Horseshoes of Speed",
+    "score": 0.706,
+    "heading": "HonsnsHoEs oF Spnno",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 273,
+    "line": 71,
+    "meta_line": 72,
+    "name": "Immovable Rod",
+    "score": 0.615,
+    "heading": "Iurraovl.nrE RoD",
+    "metadata": "Rod, Uncommon"
+  },
+  {
+    "page": 274,
+    "line": 5,
+    "meta_line": 6,
+    "name": "Instant Fortress",
+    "score": 0.556,
+    "heading": "INsrnuunNT oF IrrusroNs",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 274,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Ioun Stone",
+    "score": 0.414,
+    "heading": "INsrnuurNT oF ScnrnrNc",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 275,
+    "line": 1,
+    "meta_line": 2,
+    "name": "Instant Fortress",
+    "score": 0.514,
+    "heading": "INsrnuunNT oF THE BARDs",
+    "metadata": "Wondrous ltem, Rarity Varies (Requires Attunement by"
+  },
+  {
+    "page": 276,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Ioun Stone",
+    "score": 0.778,
+    "heading": "IouN SroNr",
+    "metadata": "Wondrous ltem, Rarity Varies (Requires Attunement)"
+  },
+  {
+    "page": 277,
+    "line": 4,
+    "meta_line": 5,
+    "name": "Robe of Stars",
+    "score": 0.483,
+    "heading": "InoN Baxos oF BTLARRo",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 278,
+    "line": 21,
+    "meta_line": 22,
+    "name": "Dancing Sword",
+    "score": 0.414,
+    "heading": "KnocnroM's OrNrMnNr",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 278,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Feather Token",
+    "score": 0.538,
+    "heading": "Locr oF TRToKERY",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 278,
+    "line": 65,
+    "meta_line": 66,
+    "name": "Maul of Thunderbolts",
+    "score": 0.571,
+    "heading": "Lutr oF THUNDERoUs TnuuprNc",
+    "metadata": "Weapon (Club), Very Rare"
+  },
+  {
+    "page": 279,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Mace of Terror",
+    "score": 0.5,
+    "heading": "Macn on DrsnuprroN",
+    "metadata": "Weapon (Mace), Rare (Requires Attunement)"
+  },
+  {
+    "page": 279,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Mace of Smiting",
+    "score": 0.692,
+    "heading": "Macn oF SMrrrNG",
+    "metadata": "Weapon (Mace), Rare"
+  },
+  {
+    "page": 279,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Mace of Terror",
+    "score": 0.833,
+    "heading": "MecB oF TERRoR",
+    "metadata": "Weapon (Mqce). Rare (Requires Attunement)"
+  },
+  {
+    "page": 279,
+    "line": 41,
+    "meta_line": 42,
+    "name": "Mantle of Spell Resistance",
+    "score": 0.609,
+    "heading": "MeNrrr oF SPELL Rrsrsraxcr",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 280,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Energy Shortbow",
+    "score": 0.485,
+    "heading": "Menuer or Boorr.y Hnamn",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 280,
+    "line": 9,
+    "meta_line": 10,
+    "name": "Manual of Gainful Exercise",
+    "score": 0.739,
+    "heading": "Mexuer oF GATNFUL EXERCTsE",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 281,
+    "line": 2,
+    "meta_line": 3,
+    "name": "Manual of Quickness of Action",
+    "score": 0.76,
+    "heading": "MeNuer oF QUTcKNESS oF AcrroN",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 281,
+    "line": 11,
+    "meta_line": 12,
+    "name": "Adamantine Armor",
+    "score": 0.643,
+    "heading": "MARrNrn's ARMoR",
+    "metadata": "Armor (Arry Light, Medium, or Heavy), Uncommon"
+  },
+  {
+    "page": 281,
+    "line": 19,
+    "meta_line": 20,
+    "name": "Medallion of Thoughts",
+    "score": 0.737,
+    "heading": "Mroer,r,roN oF THoUGHTs",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 281,
+    "line": 31,
+    "meta_line": 32,
+    "name": "Mirror of Life Trapping",
+    "score": 0.6,
+    "heading": "Mrnnon oF LIFE Tneppruc",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 283,
+    "line": 51,
+    "meta_line": 52,
+    "name": "Mysterious Deck",
+    "score": 0.417,
+    "heading": "Mvsrunv Knv",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 283,
+    "line": 57,
+    "meta_line": 58,
+    "name": "Marvelous Pigments",
+    "score": 0.467,
+    "heading": "Narunn's MeNrrr",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunementby a"
+  },
+  {
+    "page": 283,
+    "line": 67,
+    "meta_line": 68,
+    "name": "Necklace of Adaptation",
+    "score": 0.75,
+    "heading": "Nncrr,.a.cn oF ADAPTATToN",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 283,
+    "line": 73,
+    "meta_line": 74,
+    "name": "Necklace of Fireballs",
+    "score": 0.684,
+    "heading": "Nncrrecn oF FTREBALLS",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 284,
+    "line": 2,
+    "meta_line": 3,
+    "name": "Necklace of Prayer Beads",
+    "score": 0.683,
+    "heading": "\\Nncrrecr oF PRAYER Bne\u00bbs",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement by a Cleric,"
+  },
+  {
+    "page": 284,
+    "line": 38,
+    "meta_line": 39,
+    "name": "Nine Lives Stealer",
+    "score": 0.438,
+    "heading": "NrNn Lrvns SrBarrn",
+    "metadata": "Weapon (Arry Simple or Martial),Very Rare (Requires"
+  },
+  {
+    "page": 284,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Marvelous Pigments",
+    "score": 0.537,
+    "heading": "NolzuR's Menvnrous PTGMENTS",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 285,
+    "line": 28,
+    "meta_line": 29,
+    "name": "Energy Longbow",
+    "score": 0.5,
+    "heading": "OerHnow",
+    "metadata": "Weapon (Longbow or Shortbow),Very Rare (Requires"
+  },
+  {
+    "page": 285,
+    "line": 51,
+    "meta_line": 52,
+    "name": "Rod of Alertness",
+    "score": 0.516,
+    "heading": "Orr or ErurnBerNrss",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 285,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Sword of Sharpness",
+    "score": 0.467,
+    "heading": "Orr or SuenpNBss",
+    "metadata": "Potion, Very Rare"
+  },
+  {
+    "page": 286,
+    "line": 3,
+    "meta_line": 4,
+    "name": "Sword of Sharpness",
+    "score": 0.545,
+    "heading": "Orr or SrrppnnrNrss",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 286,
+    "line": 18,
+    "meta_line": 19,
+    "name": "Weapon of Warning",
+    "score": 0.4,
+    "heading": "Onn or Drnrctror.I",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 287,
+    "line": 49,
+    "meta_line": 51,
+    "name": "Chain Shirt, +3",
+    "score": 0.538,
+    "heading": "harm it. Ons or Trun",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 287,
+    "line": 57,
+    "meta_line": 58,
+    "name": "Pearl of Power",
+    "score": 0.75,
+    "heading": "Prenr oF PowER",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunementby a"
+  },
+  {
+    "page": 287,
+    "line": 64,
+    "meta_line": 65,
+    "name": "Weapon of Warning",
+    "score": 0.471,
+    "heading": "Pnnruur oF BEwrrcHrNG",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 287,
+    "line": 72,
+    "meta_line": 73,
+    "name": "Periapt of Health",
+    "score": 0.8,
+    "heading": "PBnrapr oF HEALTH",
+    "metadata": "Wondrous ltem, U ncommon (Require s Attunement)"
+  },
+  {
+    "page": 287,
+    "line": 80,
+    "meta_line": 81,
+    "name": "Periapt of Proof against Poison",
+    "score": 0.667,
+    "heading": "Pnnr,c.pr or PRooF AGArNsr Porsox",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 287,
+    "line": 85,
+    "meta_line": 86,
+    "name": "Periapt of Wound Closure",
+    "score": 0.714,
+    "heading": "Prnrapr oF WoUND Crosunn",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 288,
+    "line": 15,
+    "meta_line": 16,
+    "name": "Philter of Love",
+    "score": 0.692,
+    "heading": "PHrrrrn oF LovE",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 288,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Rod of Resurrection",
+    "score": 0.444,
+    "heading": "Prpr or Suorn MoNsruns",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 288,
+    "line": 45,
+    "meta_line": 46,
+    "name": "Pipes of the Sewers",
+    "score": 0.688,
+    "heading": "PrpBs oF THE Snwnns",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 289,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Plate Armor of Etherealness",
+    "score": 0.75,
+    "heading": "Prarn Anuon oF ETHEREALNESS",
+    "metadata": "Armor (Half Plate Armor or Plate Armor), Legendary"
+  },
+  {
+    "page": 289,
+    "line": 25,
+    "meta_line": 26,
+    "name": "Potion of Resistance",
+    "score": 0.516,
+    "heading": "Por\"n or ANcrrNc",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 289,
+    "line": 31,
+    "meta_line": 32,
+    "name": "Potion of Clairvoyance",
+    "score": 0.5,
+    "heading": "Porn or CorrapsrNc",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 289,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Portable Hole",
+    "score": 0.5,
+    "heading": "Ponrenrr Horr",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 290,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Potion of Animal Friendship",
+    "score": 0.792,
+    "heading": "PorroN oF ANTMAL FRTENDsHTP",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 290,
+    "line": 30,
+    "meta_line": 31,
+    "name": "Potion of Clairvoyance",
+    "score": 0.8,
+    "heading": "Porrox oF CLATRvoYANcE",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 290,
+    "line": 36,
+    "meta_line": 37,
+    "name": "Potion of Climbing",
+    "score": 0.75,
+    "heading": "PorroN oF CLTMBTNG",
+    "metadata": "Potion,Common"
+  },
+  {
+    "page": 290,
+    "line": 45,
+    "meta_line": 46,
+    "name": "Potion of Poison",
+    "score": 0.571,
+    "heading": "PorroN oF CoMPREHENsToN",
+    "metadata": "Potion, Common"
+  },
+  {
+    "page": 290,
+    "line": 51,
+    "meta_line": 52,
+    "name": "Potion of Diminution",
+    "score": 0.722,
+    "heading": "PorroN oF DTMTNUTToN",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 290,
+    "line": 60,
+    "meta_line": 61,
+    "name": "Potion of Resistance",
+    "score": 0.556,
+    "heading": "PorroN oF FrRE BnrerH",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 290,
+    "line": 72,
+    "meta_line": 73,
+    "name": "Potion of Flying",
+    "score": 0.714,
+    "heading": "Porrou oF FLYTNG",
+    "metadata": "Potion, Very Rare"
+  },
+  {
+    "page": 290,
+    "line": 81,
+    "meta_line": 82,
+    "name": "Potion of Gaseous Form",
+    "score": 0.895,
+    "heading": "PorroN oF GAsEous FoRM",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 291,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Potion of Resistance",
+    "score": 0.513,
+    "heading": "PorroN or GreNr SrnrNcrn",
+    "metadata": "Potion, Rarity Varies"
+  },
+  {
+    "page": 291,
+    "line": 9,
+    "meta_line": 10,
+    "name": "Potion of Vitality",
+    "score": 0.71,
+    "heading": "Potion Str. Rarity",
+    "metadata": "Potion of Ciant Strength (hill) 21 Uncommon"
+  },
+  {
+    "page": 291,
+    "line": 10,
+    "meta_line": 11,
+    "name": "Potion of Giant Strength",
+    "score": 0.714,
+    "heading": "Potion of Ciant Strength (hill) 21 Uncommon",
+    "metadata": "Potion ofGiant Strength (frost 23 Rare"
+  },
+  {
+    "page": 291,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Ioun Stone",
+    "score": 0.75,
+    "heading": "or stone)",
+    "metadata": "Potion of Ciant Strength (fire) 25 Rare"
+  },
+  {
+    "page": 291,
+    "line": 13,
+    "meta_line": 14,
+    "name": "Potion of Giant Strength",
+    "score": 0.769,
+    "heading": "Potion of Ciant Strength (fire) 25 Rare",
+    "metadata": "Potion of Ciant Strength (cloud) 27 Very Rare"
+  },
+  {
+    "page": 291,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Potion of Giant Strength",
+    "score": 0.702,
+    "heading": "Potion of Ciant Strength (cloud) 27 Very Rare",
+    "metadata": "Potion of Ciant Strength (storm) 29 Legendary"
+  },
+  {
+    "page": 291,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Potion of Healing (Greater)",
+    "score": 0.531,
+    "heading": "PorroN oF GREATEn INvrsrnrrrrv",
+    "metadata": "Potion,Very Rare"
+  },
+  {
+    "page": 291,
+    "line": 21,
+    "meta_line": 22,
+    "name": "Potion of Growth",
+    "score": 0.786,
+    "heading": "PorroN oF GRowrH",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 291,
+    "line": 30,
+    "meta_line": 31,
+    "name": "Potions of Healing",
+    "score": 0.562,
+    "heading": "PorroNs or HrerrNc",
+    "metadata": "Potion, Rarity Varies"
+  },
+  {
+    "page": 291,
+    "line": 37,
+    "meta_line": 38,
+    "name": "Potion of Invulnerability",
+    "score": 0.622,
+    "heading": "Potion HP Regained Rarity",
+    "metadata": "Potion of Healing 2d4 + 2 Common"
+  },
+  {
+    "page": 291,
+    "line": 38,
+    "meta_line": 39,
+    "name": "Potion of Healing",
+    "score": 0.75,
+    "heading": "Potion of Healing 2d4 + 2 Common",
+    "metadata": "Potion of Healing 4d4 + 4 Uncommon"
+  },
+  {
+    "page": 291,
+    "line": 39,
+    "meta_line": 41,
+    "name": "Potion of Healing (Greater)",
+    "score": 0.786,
+    "heading": "Potion of Healing 4d4 + 4 Uncommon (greater)",
+    "metadata": "Potion of Healing 8d4 + 8 Rare"
+  },
+  {
+    "page": 291,
+    "line": 41,
+    "meta_line": 43,
+    "name": "Potion of Healing (Superior)",
+    "score": 0.852,
+    "heading": "Potion of Healing 8d4 + 8 Rare (superior)",
+    "metadata": "Potion of Healing l0d4 + 20 Very Rare"
+  },
+  {
+    "page": 291,
+    "line": 45,
+    "meta_line": 46,
+    "name": "Potion of Heroism",
+    "score": 0.71,
+    "heading": "Porrorq oF HERorsM",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 291,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Potion of Invisibility",
+    "score": 0.75,
+    "heading": "Porrou oF INVTSTBILITY",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 291,
+    "line": 60,
+    "meta_line": 61,
+    "name": "Potion of Invulnerability",
+    "score": 0.826,
+    "heading": "PorroN oF INvULNERABTLTTY",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 291,
+    "line": 66,
+    "meta_line": 67,
+    "name": "Potion of Longevity",
+    "score": 0.824,
+    "heading": "PorroN oF LoNGEVTTY",
+    "metadata": "Potion, Very Rare"
+  },
+  {
+    "page": 291,
+    "line": 76,
+    "meta_line": 77,
+    "name": "Potion of Mind Reading",
+    "score": 0.541,
+    "heading": "Porrox oF MrND Rna\u00bbrxc",
+    "metadata": "Potion, Rare"
+  },
+  {
+    "page": 291,
+    "line": 83,
+    "meta_line": 84,
+    "name": "Potion of Poison",
+    "score": 0.786,
+    "heading": "PorroN oF PorsoN",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 292,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Potion of Heroism",
+    "score": 0.581,
+    "heading": "PorroN oF PuGrLrsM",
+    "metadata": "Potion,Uncommon"
+  },
+  {
+    "page": 292,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Potion of Resistance",
+    "score": 0.833,
+    "heading": "PorroN oF RESTSTANCE",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 292,
+    "line": 35,
+    "meta_line": 36,
+    "name": "Potion of Speed",
+    "score": 0.846,
+    "heading": "PorroN oF SPEED",
+    "metadata": "Potion, Very Rare"
+  },
+  {
+    "page": 292,
+    "line": 43,
+    "meta_line": 44,
+    "name": "Potion of Vitality",
+    "score": 0.625,
+    "heading": "PorroN oF VrrALrrY",
+    "metadata": "Potion, Very Rare"
+  },
+  {
+    "page": 292,
+    "line": 52,
+    "meta_line": 53,
+    "name": "Potion of Water Breathing",
+    "score": 0.591,
+    "heading": "PorroN oF WATER BnnernrNc",
+    "metadata": "Potion, Uncommon"
+  },
+  {
+    "page": 292,
+    "line": 58,
+    "meta_line": 59,
+    "name": "Weapon of Warning",
+    "score": 0.552,
+    "heading": "Por or AwarrnrNc",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 293,
+    "line": 8,
+    "meta_line": 9,
+    "name": "Potion of Climbing",
+    "score": 0.467,
+    "heading": "Pnosrnnrrc LrMB",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 293,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Quarterstaff of the Acrobat",
+    "score": 0.429,
+    "heading": "Queers Fnernrn TornN",
+    "metadata": "Wondrous ltem, Rarity Varies"
+  },
+  {
+    "page": 294,
+    "line": 21,
+    "meta_line": 22,
+    "name": "Quarterstaff of the Acrobat",
+    "score": 0.792,
+    "heading": "QuenrunsrAFF oF THE AoRoBAT",
+    "metadata": "Weapon (Quarterstaff), Very Rare (Requires"
+  },
+  {
+    "page": 294,
+    "line": 52,
+    "meta_line": 53,
+    "name": "Ring of Evasion",
+    "score": 0.5,
+    "heading": "Qurvnn oF EHLoNNA",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 295,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Ring of Animal Influence",
+    "score": 0.952,
+    "heading": "RINC OF ANIMAL INFLUENCE",
+    "metadata": "Ring, Rare"
+  },
+  {
+    "page": 295,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Ring of Djinni Summonning",
+    "score": 0.651,
+    "heading": "RrNc oF DJTNNI SuuuoNrNc",
+    "metadata": "Ring, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 295,
+    "line": 35,
+    "meta_line": 36,
+    "name": "Ring of Elemental Command",
+    "score": 0.837,
+    "heading": "Rrxc oF ELEMENTAL CoMM\u00c4ND",
+    "metadata": "Ring, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 296,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Ring of Evasion",
+    "score": 0.769,
+    "heading": "RrNc oF EvAsroN",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 296,
+    "line": 27,
+    "meta_line": 28,
+    "name": "Ring of Feather Falling",
+    "score": 0.9,
+    "heading": "RTNC OF FEATHER FALLING",
+    "metadata": "Ring Rare (Requires Attunement)"
+  },
+  {
+    "page": 296,
+    "line": 33,
+    "meta_line": 34,
+    "name": "Ring of Free Action",
+    "score": 0.606,
+    "heading": "Rrr.lc oF FREE Acrrou",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 296,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Ring of Invisibility",
+    "score": 0.667,
+    "heading": "RrNc oF INVrsIBrLrrY",
+    "metadata": "Ring, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 296,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Ring of Spell Turning",
+    "score": 0.486,
+    "heading": "RrNc oF MrND SurnrprNc",
+    "metadata": "Ring, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 297,
+    "line": 10,
+    "meta_line": 11,
+    "name": "Ring of Protection",
+    "score": 0.812,
+    "heading": "RrNc oF PRoTECTToN",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 297,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Ring of Regeneration",
+    "score": 0.778,
+    "heading": "RrNc oF REeENERATToN",
+    "metadata": "Ring, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 297,
+    "line": 22,
+    "meta_line": 23,
+    "name": "Ring of Resistance",
+    "score": 0.75,
+    "heading": "RrNo oF REsrsrANcE",
+    "metadata": "Ring, Rare"
+  },
+  {
+    "page": 297,
+    "line": 65,
+    "meta_line": 66,
+    "name": "Ring of Shooting Stars",
+    "score": 0.737,
+    "heading": "RrNc oF SHoorrNG SrARs",
+    "metadata": "Ring, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 298,
+    "line": 28,
+    "meta_line": 29,
+    "name": "Ring of Spell Storing",
+    "score": 0.667,
+    "heading": "RrNc oF SPELL Sronrxc",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 298,
+    "line": 49,
+    "meta_line": 50,
+    "name": "Ring of Spell Turning",
+    "score": 0.722,
+    "heading": "RrNc oF SPELL TunNrNc",
+    "metadata": "Ring, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 298,
+    "line": 59,
+    "meta_line": 60,
+    "name": "Ring of Swimming",
+    "score": 0.714,
+    "heading": "RrNc oF SwTMMTNG",
+    "metadata": "Ring, Uncommon"
+  },
+  {
+    "page": 298,
+    "line": 63,
+    "meta_line": 64,
+    "name": "Ring of Telekinesis",
+    "score": 0.765,
+    "heading": "RrNc oF TELEKTNESTS",
+    "metadata": "Ring, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 299,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Ring of the Ram",
+    "score": 0.75,
+    "heading": "Rruc oF THE RAM",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 299,
+    "line": 24,
+    "meta_line": 25,
+    "name": "Ring of Three Wishes",
+    "score": 0.706,
+    "heading": "RrNc oF THREE Wrsuns",
+    "metadata": "Ring, Legendary"
+  },
+  {
+    "page": 299,
+    "line": 29,
+    "meta_line": 30,
+    "name": "Ring of Warmth",
+    "score": 0.833,
+    "heading": "RrNc oF WARMTH",
+    "metadata": "Ring, Uncommon (Require s Attunement)"
+  },
+  {
+    "page": 299,
+    "line": 38,
+    "meta_line": 39,
+    "name": "Ring of Water Walking",
+    "score": 0.611,
+    "heading": "RrNc oF WATERWerrrNc",
+    "metadata": "Ring, Uncommon"
+  },
+  {
+    "page": 299,
+    "line": 42,
+    "meta_line": 43,
+    "name": "Ring of X-ray Vision",
+    "score": 0.75,
+    "heading": "RrNc oF X-RAYVrsroN",
+    "metadata": "Ring, Rare (Requires Attunement)"
+  },
+  {
+    "page": 299,
+    "line": 55,
+    "meta_line": 56,
+    "name": "Anchor Token",
+    "score": 0.5,
+    "heading": "Rrvar CorN",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 300,
+    "line": 8,
+    "meta_line": 9,
+    "name": "Robe of Eyes",
+    "score": 0.8,
+    "heading": "Rosn oF EYEs",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 300,
+    "line": 22,
+    "meta_line": 23,
+    "name": "Robe of Scintillating Colors",
+    "score": 0.72,
+    "heading": "Ronn oF ScTNTTLLATTNG Corons",
+    "metadata": "Wondrous ltem, Very Rare (Re quires Attunement)"
+  },
+  {
+    "page": 300,
+    "line": 36,
+    "meta_line": 37,
+    "name": "Robe of Stars",
+    "score": 0.727,
+    "heading": "Ronn oF SrARs",
+    "metadata": "Wondrous ltem, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 301,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Ring of the Ram",
+    "score": 0.552,
+    "heading": "Rosn oF THE Ancnulcr",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunementby a"
+  },
+  {
+    "page": 301,
+    "line": 23,
+    "meta_line": 24,
+    "name": "Robe of Useful Items",
+    "score": 0.667,
+    "heading": "Rosr oF UsEFUL Irnrvrs",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 302,
+    "line": 59,
+    "meta_line": 60,
+    "name": "Rod of Alertness",
+    "score": 0.519,
+    "heading": "Ro\u00bb or ArrnrNnss",
+    "metadata": "Rod, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 302,
+    "line": 84,
+    "meta_line": 85,
+    "name": "Vorpal Sword",
+    "score": 0.48,
+    "heading": "Ro\u00bb or AssonprroN",
+    "metadata": "Rod, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 303,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Armor, +1, +2, or +3",
+    "score": 0.462,
+    "heading": "Roo or Lonorv Mrcnr",
+    "metadata": "Rod, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 304,
+    "line": 5,
+    "meta_line": 6,
+    "name": "Rod of Resurrection",
+    "score": 0.529,
+    "heading": "Rop or RnsunnncttoN",
+    "metadata": "Rod, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 304,
+    "line": 13,
+    "meta_line": 14,
+    "name": "Rodo f Rulership",
+    "score": 0.571,
+    "heading": "Roo on Rurrnsnlp",
+    "metadata": "Rod, Rare (Requires Attunement)"
+  },
+  {
+    "page": 304,
+    "line": 26,
+    "meta_line": 27,
+    "name": "Rod of Security",
+    "score": 0.56,
+    "heading": "Ro\u00bb or Sncunrrv",
+    "metadata": "Rod,Very Rare"
+  },
+  {
+    "page": 304,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Rod of Resurrection",
+    "score": 0.457,
+    "heading": "Roo or rHE PAcr Knrprn",
+    "metadata": "Rod, Uncommon (+l), Rare (+2), or Very Rare (+3)"
+  },
+  {
+    "page": 304,
+    "line": 63,
+    "meta_line": 64,
+    "name": "Rope of Climbing",
+    "score": 0.786,
+    "heading": "Ropn oF CLTMBTNG",
+    "metadata": "Wondrous ltem, Uncommon"
+  },
+  {
+    "page": 304,
+    "line": 85,
+    "meta_line": 86,
+    "name": "Rope of Entanglement",
+    "score": 0.944,
+    "heading": "Ropr oF ENTANGLEMENT",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 305,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Rope of Climbing",
+    "score": 0.593,
+    "heading": "Ropn oF MENDTNG",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 305,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Ring of the Ram",
+    "score": 0.571,
+    "heading": "Runv oF THE Wln Macr",
+    "metadata": "Wondrous ltem, Common (Requires Attunementby a"
+  },
+  {
+    "page": 305,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Scarab of Protection",
+    "score": 0.833,
+    "heading": "Scanan oF PRoTECTToN",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 305,
+    "line": 56,
+    "meta_line": 57,
+    "name": "Scimitar of Speed",
+    "score": 0.667,
+    "heading": "Scrurren oF SPEED",
+    "metadata": "Weapon (Scimitar), Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 305,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Cloak of Protection",
+    "score": 0.765,
+    "heading": "Scnon oF PRoTECTToN",
+    "metadata": "Scroll, Rare"
+  },
+  {
+    "page": 306,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Sword of Wounding",
+    "score": 0.41,
+    "heading": "Scnorr oF TrrAN SunrvroNrNc",
+    "metadata": "Scroll, Legendary"
+  },
+  {
+    "page": 306,
+    "line": 56,
+    "meta_line": 57,
+    "name": "Shield, +1, +2, or +3",
+    "score": 0.727,
+    "heading": "SHIrro, +1, +2, oR +3",
+    "metadata": "Armor (Shield), Uncommon (*1), Rare (+2), or Very Rare"
+  },
+  {
+    "page": 306,
+    "line": 62,
+    "meta_line": 63,
+    "name": "Rod of Resurrection",
+    "score": 0.571,
+    "heading": "Snrnro oF ExPRESSToN",
+    "metadata": "Armor (Shield), Common"
+  },
+  {
+    "page": 307,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Shield of Missile Attraction",
+    "score": 0.449,
+    "heading": "SHrnr\u00bb or Mrssrrn ArrnacrroN",
+    "metadata": "Armor (Shield), Rare (Requires Attunement)"
+  },
+  {
+    "page": 307,
+    "line": 10,
+    "meta_line": 11,
+    "name": "Shield of the Cavalier",
+    "score": 0.526,
+    "heading": "Snrrro oF THE Crverrnn",
+    "metadata": "Armor (Shield), Very Rare (Re quires Attunement)"
+  },
+  {
+    "page": 307,
+    "line": 47,
+    "meta_line": 48,
+    "name": "Silver Raven Figurine",
+    "score": 0.375,
+    "heading": "Srrvnnnp Wupox",
+    "metadata": "Weapon (Any Simple or Martial), Common"
+  },
+  {
+    "page": 307,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Slippers of Spider Climbing",
+    "score": 0.612,
+    "heading": "Srrpprns oF SPTDER Crrr\"rsrNG",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 308,
+    "line": 4,
+    "meta_line": 5,
+    "name": "Splint Armor, +3",
+    "score": 0.621,
+    "heading": "SIT,TOI.ONNTNG ARMOR",
+    "metadata": "Armor (Any Heavy, Medium, or Light), Common"
+  },
+  {
+    "page": 308,
+    "line": 21,
+    "meta_line": 22,
+    "name": "Spellguard Shield",
+    "score": 0.562,
+    "heading": "SpnrrcuenD SHTELD",
+    "metadata": "Armor (Shield), Very Rare (Require s Attunement)"
+  },
+  {
+    "page": 308,
+    "line": 27,
+    "meta_line": 28,
+    "name": "Splint Armor, +3",
+    "score": 0.522,
+    "heading": "Spnrr Scnorr",
+    "metadata": "Scroll, Rarity Varies"
+  },
+  {
+    "page": 309,
+    "line": 50,
+    "meta_line": 51,
+    "name": "Swan Boat Token",
+    "score": 0.5,
+    "heading": "Sprnrr Boano",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 309,
+    "line": 71,
+    "meta_line": 72,
+    "name": "Bead of Nourishment",
+    "score": 0.545,
+    "heading": "Srerr oF ADoRNMENT",
+    "metadata": "Staff,Common"
+  },
+  {
+    "page": 310,
+    "line": 6,
+    "meta_line": 7,
+    "name": "Wand of Fireballs",
+    "score": 0.452,
+    "heading": "Srerr oF BTRDCALLS",
+    "metadata": "Staff, Common"
+  },
+  {
+    "page": 310,
+    "line": 20,
+    "meta_line": 21,
+    "name": "Eyes of Charming",
+    "score": 0.69,
+    "heading": "Srerr oF CHARMTNG",
+    "metadata": "Staff, Rare (Requires Attunementby aBard, Cleric,"
+  },
+  {
+    "page": 310,
+    "line": 45,
+    "meta_line": 46,
+    "name": "Staff of Fire",
+    "score": 0.545,
+    "heading": "Srerr oF FrRE",
+    "metadata": "Staff, Very Rare (Requires Attunement by a Druid,"
+  },
+  {
+    "page": 311,
+    "line": 14,
+    "meta_line": 15,
+    "name": "Staff of Frost",
+    "score": 0.583,
+    "heading": "Sru.nr oF FRosr",
+    "metadata": "Staff, Very Rare (Requires Attunement by a Druid,"
+  },
+  {
+    "page": 311,
+    "line": 50,
+    "meta_line": 51,
+    "name": "Staff of Power",
+    "score": 0.667,
+    "heading": "Srerr oF PowER",
+    "metadata": "Staff, Very Rare (Requires Attunement by a Sorcerer,"
+  },
+  {
+    "page": 312,
+    "line": 2,
+    "meta_line": 3,
+    "name": "Staff of Striking",
+    "score": 0.6,
+    "heading": "Srern oF STRTKTNG",
+    "metadata": "Staff, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 312,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Ring of the Ram",
+    "score": 0.593,
+    "heading": "Srenr oF THE Aonnn.",
+    "metadata": "Staff, Uncommon (Require s Attunement)"
+  },
+  {
+    "page": 314,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Staff of the Python",
+    "score": 0.625,
+    "heading": "Srerr oF THE PvrHoN",
+    "metadata": "Staff, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 314,
+    "line": 40,
+    "meta_line": 41,
+    "name": "Staff of the Woodlands",
+    "score": 0.632,
+    "heading": "Srarr oF THE WoopreNos",
+    "metadata": "Staff, Rare (Requires Attunement by a Druid)"
+  },
+  {
+    "page": 314,
+    "line": 75,
+    "meta_line": 76,
+    "name": "Staff of Thunder and Lightning",
+    "score": 0.615,
+    "heading": "Sru.rr oF THUNDER AND LrcurNrNc",
+    "metadata": "Staff, Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 315,
+    "line": 13,
+    "meta_line": 14,
+    "name": "Staff of Withering",
+    "score": 0.625,
+    "heading": "Srerr oF WTTHERTNG",
+    "metadata": "Staff, Rare (Requires Attunement)"
+  },
+  {
+    "page": 315,
+    "line": 25,
+    "meta_line": 27,
+    "name": "Stone of Controlling Earth Elementals",
+    "score": 0.588,
+    "heading": "SroNn oF CoNTRoLLTNe Eenrrl ErrMsr.IreLs",
+    "metadata": "Wondrous ltem, Rare"
+  },
+  {
+    "page": 315,
+    "line": 39,
+    "meta_line": 40,
+    "name": "Potion of Poison",
+    "score": 0.421,
+    "heading": "SroNr oF GooD Lucr (LucrsroNn)",
+    "metadata": "Wondrous ltem, Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 315,
+    "line": 43,
+    "meta_line": 44,
+    "name": "Sun Blade",
+    "score": 0.625,
+    "heading": "SUN Breor",
+    "metadata": "Weapon (Longsword), Rare (Requires Attunement)"
+  },
+  {
+    "page": 316,
+    "line": 2,
+    "meta_line": 3,
+    "name": "Horn of Blasting",
+    "score": 0.6,
+    "heading": "Swono oF ANSwERTNG",
+    "metadata": "Weapon (Longsword), Legendary (Requires Attunement)"
+  },
+  {
+    "page": 317,
+    "line": 73,
+    "meta_line": 74,
+    "name": "Talisman of Pure Good",
+    "score": 0.722,
+    "heading": "TerrsuaN oF PURE Gooo",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunementby a"
+  },
+  {
+    "page": 318,
+    "line": 6,
+    "meta_line": 7,
+    "name": "Talisman of the Sphere",
+    "score": 0.632,
+    "heading": "TerrsulN oF THE SpHBnr",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 318,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Talisman of Ultimate Evil",
+    "score": 0.818,
+    "heading": "Tar-rsueN oF ULTIMATE EvIL",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunement)"
+  },
+  {
+    "page": 318,
+    "line": 43,
+    "meta_line": 44,
+    "name": "Mace of Terror",
+    "score": 0.522,
+    "heading": "Terruxc Dorr",
+    "metadata": "Wondrous ltem, Common (Requires Attunement)"
+  },
+  {
+    "page": 318,
+    "line": 55,
+    "meta_line": 56,
+    "name": "Wand of Secrets",
+    "score": 0.533,
+    "heading": "TeNrano oF SoBRTETY",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 319,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Ring of Free Action",
+    "score": 0.444,
+    "heading": "TrNrecrr Roo",
+    "metadata": "Rod, Rare (Requires Attunement)"
+  },
+  {
+    "page": 319,
+    "line": 18,
+    "meta_line": 19,
+    "name": "Thunderous Greatclub",
+    "score": 0.789,
+    "heading": "Tnuuprnous GREATCLUB",
+    "metadata": "Weapon (Greatclub), Very Rare (Requires Attunement)"
+  },
+  {
+    "page": 320,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Robe of Scintillating Colors",
+    "score": 0.372,
+    "heading": "Tour or Cr,Bln Tnoucnr",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 320,
+    "line": 9,
+    "meta_line": 10,
+    "name": "Tome of Leadership and Influence",
+    "score": 0.75,
+    "heading": "Tour oF LEADERSHTP AND INrrunNcr",
+    "metadata": "Wondrous ltem,Very Rare"
+  },
+  {
+    "page": 320,
+    "line": 33,
+    "meta_line": 34,
+    "name": "Tome of Understanding",
+    "score": 0.85,
+    "heading": "Torran oF UNDERSTANDING",
+    "metadata": "Wondrous ltem, Very Rare"
+  },
+  {
+    "page": 320,
+    "line": 42,
+    "meta_line": 43,
+    "name": "Trident of Fish Command",
+    "score": 0.537,
+    "heading": "Tnr\u00bbnNr oF FrsH CorraueNp",
+    "metadata": "Weapon (Trident), Uncommon (Requires Attunement)"
+  },
+  {
+    "page": 320,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Potion of Resistance",
+    "score": 0.488,
+    "heading": "Torran oF THE Srrrrno T\u00f6Ncur",
+    "metadata": "Wondrous ltem, Legendary (Requires Attunement by a"
+  },
+  {
+    "page": 321,
+    "line": 17,
+    "meta_line": 19,
+    "name": "Sovereign Glue",
+    "score": 0.485,
+    "heading": "eignGlue. Vn'rrnAN's CaNn",
+    "metadata": "Wondrous ltem, Common"
+  },
+  {
+    "page": 321,
+    "line": 24,
+    "meta_line": 25,
+    "name": "Vicious Weapon",
+    "score": 0.769,
+    "heading": "Vrcrous WnepoN",
+    "metadata": "Weapon (Any Simple or Martial), Rare"
+  },
+  {
+    "page": 321,
+    "line": 48,
+    "meta_line": 49,
+    "name": "Swan Boat Token",
+    "score": 0.5,
+    "heading": "WalroprNG AMMUNTTToN",
+    "metadata": "Weapon (Any Ammunition), Common"
+  },
+  {
+    "page": 321,
+    "line": 53,
+    "meta_line": 54,
+    "name": "Wand of Binding",
+    "score": 0.769,
+    "heading": "WaNo oF BTNDTNG",
+    "metadata": "Wand, Rare (Requires Attunement)"
+  },
+  {
+    "page": 322,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Sword of Wounding",
+    "score": 0.581,
+    "heading": "Wl.No oF CoNDUcTTNG",
+    "metadata": "Wand,Common"
+  },
+  {
+    "page": 322,
+    "line": 18,
+    "meta_line": 19,
+    "name": "Wand of Enemy Detection",
+    "score": 0.718,
+    "heading": "WaNo oF ENEMY DmrcrroN",
+    "metadata": "Wand, Rare (Requires Attunement)"
+  },
+  {
+    "page": 322,
+    "line": 34,
+    "meta_line": 35,
+    "name": "Wand of Fear",
+    "score": 0.9,
+    "heading": "WaNo oF FEAR",
+    "metadata": "Wand, Rare (Requires Attunement)"
+  },
+  {
+    "page": 322,
+    "line": 48,
+    "meta_line": 49,
+    "name": "Wand of Fireballs",
+    "score": 0.867,
+    "heading": "WaNp oF FTREBALLS",
+    "metadata": "Wand, Rare (Requires Attunementby a Spellcaster)"
+  },
+  {
+    "page": 323,
+    "line": 1,
+    "meta_line": 2,
+    "name": "Wand of Lightning Bolts",
+    "score": 0.704,
+    "heading": "LtaxrNtxe Eotts WaNo OF LIGHTNING BOLTS",
+    "metadata": "Wand, Rare (Requires Attunement by a Spellcaster)"
+  },
+  {
+    "page": 323,
+    "line": 12,
+    "meta_line": 13,
+    "name": "Wand of Magic Detection",
+    "score": 0.6,
+    "heading": "'W'eNo oF MAGrc DnrncrroN",
+    "metadata": "Wand,Uncommon"
+  },
+  {
+    "page": 323,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Wand of Magic Missiles",
+    "score": 0.632,
+    "heading": "WeNo oF MAGrc Mrssrrns",
+    "metadata": "Wand,Uncommon"
+  },
+  {
+    "page": 324,
+    "line": 65,
+    "meta_line": 66,
+    "name": "Wand of Paralysis",
+    "score": 0.966,
+    "heading": "WaN\u00bb OF PARALYSIS",
+    "metadata": "Wand, Rare (Requires Attunement by a Spellcaster)"
+  },
+  {
+    "page": 324,
+    "line": 79,
+    "meta_line": 80,
+    "name": "Wand of Polymorph",
+    "score": 0.897,
+    "heading": "W'eN\u00bb oF PoLYMoRPH",
+    "metadata": "Wand, Very Rare (Requires Attunementby a Spellcaster)"
+  },
+  {
+    "page": 324,
+    "line": 88,
+    "meta_line": 89,
+    "name": "Wand of Polymorph",
+    "score": 0.545,
+    "heading": "Wl.Np oF PYRorECHNrcs",
+    "metadata": "Wand,Common"
+  },
+  {
+    "page": 325,
+    "line": -2,
+    "meta_line": 1,
+    "name": "Wand of the War Mage, +1, +2, or +3",
+    "score": 0.667,
+    "heading": "W'eNo oF THE Wen Macn, +1, +2, on +3",
+    "metadata": "Wand, Uncommon (+l), Rare (+2), or Very Rare (+3)"
+  },
+  {
+    "page": 325,
+    "line": 7,
+    "meta_line": 8,
+    "name": "Wand of Web",
+    "score": 0.778,
+    "heading": "W'eNo oF WEB",
+    "metadata": "Wand, Uncommon (Requires Attunement by a"
+  },
+  {
+    "page": 325,
+    "line": 16,
+    "meta_line": 17,
+    "name": "Wand of Wonder",
+    "score": 0.833,
+    "heading": "WeNo oF WoNDER",
+    "metadata": "Wand, Rare (Requires Attunement)"
+  },
+  {
+    "page": 325,
+    "line": 65,
+    "meta_line": 66,
+    "name": "Wand of Secrets",
+    "score": 0.846,
+    "heading": "WeNo oF SEcRETS",
+    "metadata": "Wand,Uncommon"
+  },
+  {
+    "page": 327,
+    "line": 26,
+    "meta_line": 27,
+    "name": "Weapon, +1, +2, or +3",
+    "score": 0.909,
+    "heading": "WrAPoN, +L, +2, oR +3",
+    "metadata": "Weapon (Any Simple or Martial), Uncommon (*1), Rare"
+  },
+  {
+    "page": 327,
+    "line": 32,
+    "meta_line": 33,
+    "name": "Weapon of Warning",
+    "score": 0.933,
+    "heading": "'WrepoN oF WARNING",
+    "metadata": "Weapon (Arry Sirnple or Martial), Uncommon (Requires"
+  },
+  {
+    "page": 328,
+    "line": 17,
+    "meta_line": 18,
+    "name": "Winged Boots",
+    "score": 0.545,
+    "heading": "WrNcno Boors",
+    "metadata": "Wondrous ltem, Uncommon (Require s Attunement)"
+  },
+  {
+    "page": 328,
+    "line": 27,
+    "meta_line": 28,
+    "name": "Wings of Flying",
+    "score": 0.769,
+    "heading": "WrNcs oF FLYTNG",
+    "metadata": "Wondrous ltem, Rare (Requires Attunement)"
+  },
+  {
+    "page": 328,
+    "line": 36,
+    "meta_line": 37,
+    "name": "Gauntlets of Ogre Power",
+    "score": 0.615,
+    "heading": "Wneps oF UNARMED PowER",
+    "metadata": "Wondrous ltem, Uncommon (+l), Rare (+2), or Very Rare"
+  }
+]

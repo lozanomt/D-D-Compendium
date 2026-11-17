@@ -1,0 +1,60 @@
+---
+type: subclass
+class: Paladin
+rules_revision: "2024"
+reference_style: summary
+tags:
+  - rules/subclass
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+entity_id: 4fe5bc12-e7f1-5d5a-8fd0-8ff68763a4d0
+entity_type: character-option
+source_ids: ["phb-2024"]
+source_versions: ["Player's Handbook"]
+---
+
+# Oath of Vengeance
+
+## Player's Handbook
+
+> [!info]
+> ### Oath of Vengeance
+>
+> ![[== SRDs ==/Attachments/Artwork/phb-p120-oath-of-vengeance.png|320]]
+>
+> **Class:** [[== SRDs ==/Compendium/5.5e/Character Options/Classes/Paladin/Paladin|Paladin]]
+>
+> A handbook reference summary. Use the linked PDF for complete wording, spell/resource tables, targeting restrictions, and exceptions.
+>
+> #### Features
+>
+> #### Level 3: Oath of Vengeance Spells
+>
+> Always prepare the level-appropriate oath spells: Bane, Hunter’s Mark, Hold Person, Misty Step, Haste, Protection from Energy, Banishment, Dimension Door, Hold Monster, and Scrying.
+>
+> #### Level 3: Vow of Enmity
+>
+> When taking the Attack action, spend Channel Divinity to gain Advantage against a visible creature within 30 feet for one minute or until reuse. If it falls to 0, transfer the vow to another creature within 30 feet without an action.
+>
+> #### Level 7: Relentless Avenger
+>
+> An Opportunity Attack hit can set the target’s Speed to 0 for the turn. Move half your Speed as part of that Reaction without provoking Opportunity Attacks.
+>
+> #### Level 15: Soul of Vengeance
+>
+> After your Vow of Enmity target hits or misses an attack, use a Reaction to make a melee attack against it if in range.
+>
+> #### Level 20: Avenging Angel
+>
+> A Bonus Action grants hovering 60-foot flight and a frightening Aura of Protection for ten minutes. Enemies starting there save against Frightened; attacks against affected creatures have Advantage. Refresh on a Long Rest or with a level-5 slot.
+>
+> #### Handbook
+>
+> [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf#page=119|PDF page 119]] · [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf#page=120|PDF page 120]]
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf|Player's Handbook]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Player's Handbook/Chapter 3 - Character Classes/Chapter 3 - Character Classes|Player's Handbook — Chapter 3 - Character Classes]]

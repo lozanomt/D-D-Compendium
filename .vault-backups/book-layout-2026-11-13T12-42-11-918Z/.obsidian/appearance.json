@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Transparent",
+  "accentColor": "#d4cece",
+  "interfaceFontFamily": "Century Schoolbook,Century,Times New Roman",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "omni-infobox-layout"
+  ]
+}

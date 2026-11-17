@@ -1,0 +1,1735 @@
+{
+  "id": 900,
+  "name": "Legacy Monk / Cleric regression fixture",
+  "classes": [
+    {
+      "id": 242173958,
+      "isStartingClass": true,
+      "level": 3,
+      "hitDiceUsed": 0,
+      "definition": {
+        "name": "Monk",
+        "id": 11,
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": 76,
+            "sourceType": 1
+          }
+        ],
+        "canCastSpells": false,
+        "spellCastingAbilityId": null,
+        "hitDice": 8,
+        "spellRules": {
+          "multiClassSpellSlotDivisor": 3,
+          "isRitualSpellCaster": false,
+          "levelCantripsKnownMaxes": [
+            0,
+            0,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "levelSpellKnownMaxes": [
+            0,
+            0,
+            0,
+            3,
+            4,
+            4,
+            4,
+            5,
+            6,
+            6,
+            7,
+            8,
+            8,
+            9,
+            10,
+            10,
+            11,
+            11,
+            11,
+            12,
+            13
+          ],
+          "levelSpellSlots": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "multiClassSpellSlotRounding": 1,
+          "levelPreparedSpellMaxes": []
+        },
+        "spellPrepareType": null
+      },
+      "subclassDefinition": {
+        "id": 653747,
+        "name": "Way of Mercy"
+      },
+      "classFeatures": [
+        {
+          "definition": {
+            "id": 2992635,
+            "name": "Implements of Mercy",
+            "requiredLevel": 3,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 2992639,
+            "name": "Hand of Healing",
+            "requiredLevel": 3,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": {
+            "id": 386735,
+            "level": 3,
+            "description": "1d4 martial arts die",
+            "dice": {
+              "diceCount": 1,
+              "diceValue": 4,
+              "diceMultiplier": null,
+              "fixedValue": null,
+              "diceString": "1d4"
+            },
+            "fixedValue": null
+          }
+        },
+        {
+          "definition": {
+            "id": 2992649,
+            "name": "Hand of Harm",
+            "requiredLevel": 3,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": {
+            "id": 386739,
+            "level": 3,
+            "description": "1d4 martial arts die",
+            "dice": {
+              "diceCount": 1,
+              "diceValue": 4,
+              "diceMultiplier": null,
+              "fixedValue": null,
+              "diceString": "1d4"
+            },
+            "fixedValue": null
+          }
+        },
+        {
+          "definition": {
+            "id": 2992662,
+            "name": "Physician’s Touch",
+            "requiredLevel": 6,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 2992676,
+            "name": "Flurry of Healing and Harm",
+            "requiredLevel": 11,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 2992695,
+            "name": "Hand of Ultimate Mercy",
+            "requiredLevel": 17,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 226,
+            "name": "Unarmored Defense",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 227,
+            "name": "Martial Arts",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": {
+            "id": 1,
+            "level": 1,
+            "description": "d4",
+            "dice": {
+              "diceCount": 1,
+              "diceValue": 4,
+              "diceMultiplier": null,
+              "fixedValue": null,
+              "diceString": "1d4"
+            },
+            "fixedValue": null
+          }
+        },
+        {
+          "definition": {
+            "id": 228,
+            "name": "Ki",
+            "requiredLevel": 2,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 229,
+            "name": "Unarmored Movement",
+            "requiredLevel": 2,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 230,
+            "name": "Monastic Tradition",
+            "requiredLevel": 3,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 231,
+            "name": "Deflect Missiles",
+            "requiredLevel": 3,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 232,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 4,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 233,
+            "name": "Slow Fall",
+            "requiredLevel": 4,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 234,
+            "name": "Extra Attack",
+            "requiredLevel": 5,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 235,
+            "name": "Stunning Strike",
+            "requiredLevel": 5,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 236,
+            "name": "Ki-Empowered Strikes",
+            "requiredLevel": 6,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 237,
+            "name": "Evasion",
+            "requiredLevel": 7,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 238,
+            "name": "Stillness of Mind",
+            "requiredLevel": 7,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 239,
+            "name": "Purity of Body",
+            "requiredLevel": 10,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 240,
+            "name": "Tongue of the Sun and Moon",
+            "requiredLevel": 13,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 241,
+            "name": "Diamond Soul",
+            "requiredLevel": 14,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 242,
+            "name": "Timeless Body",
+            "requiredLevel": 15,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 243,
+            "name": "Empty Body",
+            "requiredLevel": 18,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 244,
+            "name": "Perfect Self",
+            "requiredLevel": 20,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 245,
+            "name": "Unarmored Movement Improvement",
+            "requiredLevel": 9,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 246,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 8,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 247,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 12,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 248,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 16,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 249,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 19,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 455,
+            "name": "Unarmored Movement",
+            "requiredLevel": 6,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 456,
+            "name": "Unarmored Movement",
+            "requiredLevel": 10,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 457,
+            "name": "Unarmored Movement",
+            "requiredLevel": 14,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 458,
+            "name": "Unarmored Movement",
+            "requiredLevel": 18,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 464,
+            "name": "Proficiencies",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 536,
+            "name": "Hit Points",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 9961404,
+            "name": "Equipment",
+            "requiredLevel": 1,
+            "hideInSheet": true,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        }
+      ]
+    },
+    {
+      "id": 242173986,
+      "isStartingClass": false,
+      "level": 1,
+      "hitDiceUsed": 0,
+      "definition": {
+        "name": "Cleric",
+        "id": 2,
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "canCastSpells": true,
+        "spellCastingAbilityId": 5,
+        "hitDice": 8,
+        "spellRules": {
+          "multiClassSpellSlotDivisor": 1,
+          "isRitualSpellCaster": true,
+          "levelCantripsKnownMaxes": [
+            0,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "levelSpellKnownMaxes": [],
+          "levelSpellSlots": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              1,
+              0
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              1,
+              1
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              3,
+              1,
+              1,
+              1,
+              1
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              3,
+              2,
+              1,
+              1,
+              1
+            ],
+            [
+              4,
+              3,
+              3,
+              3,
+              3,
+              2,
+              2,
+              1,
+              1
+            ]
+          ],
+          "multiClassSpellSlotRounding": 1,
+          "levelPreparedSpellMaxes": [
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "spellPrepareType": 1
+      },
+      "subclassDefinition": {
+        "id": 19,
+        "name": "Life Domain"
+      },
+      "classFeatures": [
+        {
+          "definition": {
+            "id": 130,
+            "name": "Bonus Proficiency",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 131,
+            "name": "Disciple of Life",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 132,
+            "name": "Channel Divinity: Preserve Life",
+            "requiredLevel": 2,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 133,
+            "name": "Blessed Healer",
+            "requiredLevel": 6,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 134,
+            "name": "Divine Strike",
+            "requiredLevel": 8,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 135,
+            "name": "Supreme Healing",
+            "requiredLevel": 17,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 108,
+            "name": "Spellcasting",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 109,
+            "name": "Divine Domain",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 110,
+            "name": "Channel Divinity",
+            "requiredLevel": 2,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 111,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 4,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 112,
+            "name": "Destroy Undead",
+            "requiredLevel": 5,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 115,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 8,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 116,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 12,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 117,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 16,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 118,
+            "name": "Ability Score Improvement",
+            "requiredLevel": 19,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 123,
+            "name": "Divine Intervention",
+            "requiredLevel": 10,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 461,
+            "name": "Proficiencies",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 533,
+            "name": "Hit Points",
+            "requiredLevel": 1,
+            "hideInSheet": false,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        },
+        {
+          "definition": {
+            "id": 9961372,
+            "name": "Equipment",
+            "requiredLevel": 1,
+            "hideInSheet": true,
+            "description": "Fixture feature.",
+            "multiClassDescription": "Fixture multiclass feature."
+          },
+          "levelScale": null
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "id": 1,
+      "name": null,
+      "value": 8
+    },
+    {
+      "id": 2,
+      "name": null,
+      "value": 15
+    },
+    {
+      "id": 3,
+      "name": null,
+      "value": 14
+    },
+    {
+      "id": 4,
+      "name": null,
+      "value": 10
+    },
+    {
+      "id": 5,
+      "name": null,
+      "value": 15
+    },
+    {
+      "id": 6,
+      "name": null,
+      "value": 8
+    }
+  ],
+  "bonusStats": [],
+  "overrideStats": [],
+  "modifiers": {
+    "race": [
+      {
+        "type": "bonus",
+        "subType": "dexterity-score",
+        "value": 2,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 4729679,
+        "componentTypeId": 1960452172
+      },
+      {
+        "type": "size",
+        "subType": "medium",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 4729690,
+        "componentTypeId": 1960452172
+      },
+      {
+        "type": "language",
+        "subType": "common",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 4729700,
+        "componentTypeId": 1960452172
+      },
+      {
+        "type": "language",
+        "subType": "celestial",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 4729700,
+        "componentTypeId": 1960452172
+      },
+      {
+        "type": "set-base",
+        "subType": "darkvision",
+        "value": 60,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 1038739,
+        "componentTypeId": 306912077
+      }
+    ],
+    "class": [
+      {
+        "type": "set",
+        "subType": "unarmored-armor-class",
+        "value": null,
+        "statId": 5,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 226,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "bonus",
+        "subType": "unarmored-movement",
+        "value": 10,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 229,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "set",
+        "subType": "subclass",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 230,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "simple-weapons",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "shortsword",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "leatherworkers-tools",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": false,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "strength-saving-throws",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "dexterity-saving-throws",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "acrobatics",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": false,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "stealth",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": false,
+        "componentId": 464,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "insight",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 2992635,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "medicine",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 2992635,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "herbalism-kit",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 2992635,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "set",
+        "subType": "subclass",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 109,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "heavy-armor",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 130,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "bonus",
+        "subType": "spell-group-healing",
+        "value": 2,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 131,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "light-armor",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "medium-armor",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "shields",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": true,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "simple-weapons",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "wisdom-saving-throws",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "charisma-saving-throws",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "choose-a-cleric-skill",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      },
+      {
+        "type": "proficiency",
+        "subType": "choose-a-cleric-skill",
+        "value": null,
+        "statId": null,
+        "isGranted": true,
+        "availableToMulticlass": false,
+        "componentId": 461,
+        "componentTypeId": 12168134
+      }
+    ],
+    "background": [
+      {
+        "type": "proficiency",
+        "subType": "athletics",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 17,
+        "componentTypeId": 1669830167
+      },
+      {
+        "type": "proficiency",
+        "subType": "survival",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 17,
+        "componentTypeId": 1669830167
+      },
+      {
+        "type": "proficiency",
+        "subType": "flute",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 17,
+        "componentTypeId": 1669830167
+      },
+      {
+        "type": "language",
+        "subType": "abyssal",
+        "value": null,
+        "statId": null,
+        "isGranted": false,
+        "availableToMulticlass": true,
+        "componentId": 17,
+        "componentTypeId": 1669830167
+      }
+    ],
+    "item": [],
+    "feat": [],
+    "condition": []
+  },
+  "race": {
+    "fullName": "Custom Lineage",
+    "weightSpeeds": {
+      "normal": {
+        "walk": 30
+      }
+    }
+  },
+  "inventory": [],
+  "spells": {},
+  "classSpells": [],
+  "feats": [
+    {
+      "definition": {
+        "name": "Display feat"
+      }
+    },
+    {
+      "definition": {
+        "name": "Hidden placeholder",
+        "categories": [
+          {
+            "tagName": "__DISGUISE_FEAT"
+          }
+        ]
+      }
+    }
+  ],
+  "actions": {
+    "class": []
+  },
+  "_customSupplement": {
+    "classes": [
+      {
+        "characterClassId": 242173986,
+        "level": 1,
+        "prepared": [
+          {
+            "id": 11,
+            "alwaysPrepared": true,
+            "definition": {
+              "id": 11,
+              "name": "Bless",
+              "level": 1,
+              "concentration": true
+            }
+          },
+          {
+            "id": 12,
+            "alwaysPrepared": true,
+            "definition": {
+              "id": 12,
+              "name": "Cure Wounds",
+              "level": 1
+            }
+          }
+        ],
+        "known": [
+          {
+            "id": 11,
+            "definition": {
+              "id": 11,
+              "name": "Bless",
+              "level": 1
+            }
+          },
+          {
+            "id": 13,
+            "definition": {
+              "id": 13,
+              "name": "Bane",
+              "level": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

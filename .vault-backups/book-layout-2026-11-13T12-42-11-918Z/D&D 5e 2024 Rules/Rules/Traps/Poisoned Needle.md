@@ -1,0 +1,40 @@
+---
+infobox:
+  title: "Poisoned Needle"
+  subtitle: "Nuisance Trap (Levels 1 - 4)"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Traps"
+    - "Type": "Nuisance Trap (Levels 1 - 4)"
+    - "section": "Quick reference"
+    - "Trigger": "A creature opens the trap's lock improperly or fails to disarm the trap"
+    - "Duration": "Instantaneous"
+    - "Effect / overview": "A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the [[Poisoned]] condition for 1 hour. On a successful save, the creature takes half as much damage only."
+    - "section": "Features and benefits"
+    - "Avoid.": "The trap doesn’t trigger if the lock is opened using a *[[Knock]]* spell or similar magic."
+    - "Detect and Disarm.": "As a [[Search]] action, a creature can examine the trapped lock and make a DC 15 Wisdom ([[Perception]]) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([[Sleight of Hand]]) check. On a failed check, the creature triggers the trap."
+    - "At Higher Levels.": "You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table."
+    - "5 - 10": "Poison Damage: 11 (2d10); Save DC: 13"
+    - "11 - 16": "Poison Damage: 22 (4d10); Save DC: 15"
+    - "17 - 20": "Poison Damage: 55 (10d10); Save DC: 17"
+---
+#### Poison Needle
+*Nuisance Trap (Levels 1 - 4)*
+
+**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
+**Duration:** Instantaneous
+
+A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the [[Poisoned]] condition for 1 hour. On a successful save, the creature takes half as much damage only.
+
+***Avoid.*** The trap doesn’t trigger if the lock is opened using a *[[Knock]]* spell or similar magic.
+
+***Detect and Disarm.*** As a [[Search]] action, a creature can examine the trapped lock and make a DC 15 Wisdom ([[Perception]]) check, detecting the needle on
+a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([[Sleight of Hand]]) check. On a failed check, the creature triggers the trap.
+
+***At Higher Levels.*** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+
+| Levels  | Poison Damage | Save DC |
+| :-----: | :-----------: | :-----: |
+| 5 - 10  |   11 (2d10)   |   13    |
+| 11 - 16 |   22 (4d10)   |   15    |
+| 17 - 20 |  55 (10d10)   |   17    |

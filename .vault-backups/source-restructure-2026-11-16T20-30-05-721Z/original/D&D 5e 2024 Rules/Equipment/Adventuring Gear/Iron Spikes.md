@@ -1,0 +1,14 @@
+---
+tags:
+  - equipment
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Iron Spikes [[Iron Spikes|(1 GP)]] 
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+Iron Spikes come in bundles of ten. As a [[Utilize]] action, you can use a blunt object, such as a [[Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope]] or [[Chain]] to the Spike.
+
+**Weight:** 5 lb.

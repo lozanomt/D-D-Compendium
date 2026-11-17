@@ -1,0 +1,20 @@
+---
+tags:
+  - equipment
+infobox:
+  title: "Rope"
+  subtitle: "Adventuring Gear"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Adventuring Gear"
+    - "section": "Quick reference"
+    - "Weight": "5 lb."
+    - "Cost / value": "1 GP"
+    - "Effect / overview": "As a [[Utilize]] action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([[Sleight of Hand]]) check. The Rope can be burst with a successful DC 20 Strength ([[Athletics]]) check. You can bind an unwilling creature with the Rope only if the creature has the [[Grappled]], [[Incapacitated]], or [[Restrained]] condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([[Acrobatics]]) check as an action."
+---
+#### Rope [[Rope|(1 GP)]] 
+As a [[Utilize]] action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([[Sleight of Hand]]) check. The Rope can be burst with a successful DC 20 Strength ([[Athletics]]) check.
+
+You can bind an unwilling creature with the Rope only if the creature has the [[Grappled]], [[Incapacitated]], or [[Restrained]] condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([[Acrobatics]]) check as an action.
+
+**Weight:** 5 lb.

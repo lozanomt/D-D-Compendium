@@ -1,0 +1,4554 @@
+[
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Any Class Features\\Spellcasting.md",
+    "target": "spellbook"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Barbarian\\Barbarian.md",
+    "target": "Handaxe\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Musical Instruments\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dancing Lights\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Light\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mage Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Message\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Minor Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Prestidigitation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Starry Wisp\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "True Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Vicious Mockery\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Animal Friendship\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Bane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Charm Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Color Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Command\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Comprehend Languages\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Disguise Self\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dissonant Whispers\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Faerie Fire\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Feather Fall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Healing Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Heroism\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Hideous Laughter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Identify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Illusory Script\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Longstrider\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Silent Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Sleep\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Speak with Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Thunderwave\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Unseen Servant\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Aid\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Animal Messenger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Blindness + Deafness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Calm Emotions\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Detect Thoughts\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Enlarge + Reduce\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Enthrall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Heat Metal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Knock\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Lesser Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Locate Animals or Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Magic Mouth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mirror Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Phantasmal Force\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "See Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Shatter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Silence\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Zone of Truth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Bestow Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Clairvoyance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Fear\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Glyph of Warding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Hypnotic Pattern\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Major Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mass Healing Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Nondetection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Plant Growth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Sending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Slow\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Speak with Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Speak with Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Stinking Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Tiny Hut\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Tongues\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Charm Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Compulsion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Confusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dimension Door\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Freedom of Movement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Greater Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Hallucinatory Terrain\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Phantasmal Killer\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Animate Objects\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Awaken\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dominate Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dream\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Geas\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Greater Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Hold Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Legend Lore\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mass Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mislead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Modify Memory\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Planar Binding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Raise Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Scrying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Seeming\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Telepathic Bond\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Teleportation Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Eyebite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Find the Path\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Guards and Wards\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Heroes' Feast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Irresistible Dance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mass Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Programmed Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "True Seeing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Arcane Sword\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Etherealness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Forcecage\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Magnificent Mansion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mirage Arcane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Prismatic Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Project Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Regenerate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Resurrection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Symbol\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Teleport\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Antipathy + Sympathy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Befuddlement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Dominate Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Glibness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Mind Blank\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Power Word Stun\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Foresight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Power Word Heal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Power Word Kill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "Prismatic Wall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Bard\\Bard.md",
+    "target": "True Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Guidance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Light\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Mending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Sacred Flame\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Spare the Dying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Thaumaturgy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Bane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Bless\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Command\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Create or Destroy Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Detect Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Detect Poison and Disease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Guiding Bolt\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Healing Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Inflict Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Protection from Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Purify Food and Drink\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Sanctuary\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Shield of Faith\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Aid\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Augury\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Blindness + Deafness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Calm Emotions\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Continual Flame\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Find Traps\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Gentle Repose\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Lesser Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Prayer of Healing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Protection from Poison\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Silence\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Spiritual Weapon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Warding Bond\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Zone of Truth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Animate Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Beacon of Hope\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Bestow Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Clairvoyance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Create Food and Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Daylight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Glyph of Warding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Magic Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Mass Healing Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Meld into Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Protection from Energy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Remove Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Revivify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Sending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Speak with Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Spirit Guardians\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Tongues\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Water Walk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Aura of Life\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Banishment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Control Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Death Ward\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Divination\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Freedom of Movement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Guardian of Faith\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Stone Shape\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Commune\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Contagion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Dispel Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Flame Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Geas\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Greater Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Hallow\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Insect Plague\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Legend Lore\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Mass Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Planar Binding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Raise Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Scrying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Blade Barrier\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Create Undead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Find the Path\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Forbiddance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Harm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Heal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Heroes' Feast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Planar Ally\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Sunbeam\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "True Seeing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Word of Recall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Conjure Celestial\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Divine Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Etherealness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Fire Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Plane Shift\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Regenerate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Resurrection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Symbol\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Antimagic Field\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Control Weather\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Earthquake\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Holy Aura\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Sunburst\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Astral Projection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Gate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Mass Heal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "Power Word Heal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Cleric.md",
+    "target": "True Resurrection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Cleric\\Divine Intervention.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Druidcraft\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Elementalism\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Guidance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Mending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Message\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Poison Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Produce Flame\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Shillelagh\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Spare the Dying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Starry Wisp\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Animal Friendship\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Charm Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Create or Destroy Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Detect Poison and Disease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Entangle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Faerie Fire\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Fog Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Goodberry\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Healing Word\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Ice Knife\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Jump\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Longstrider\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Protection from Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Purify Food and Drink\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Speak with Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Thunderwave\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Aid\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Animal Messenger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Augury\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Barkskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Continual Flame\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Enlarge + Reduce\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Find Traps\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Flame Blade\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Flaming Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Gust of Wind\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Heat Metal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Lesser Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Locate Animals or Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Moonbeam\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Pass without Trace\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Protection from Poison\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Spike Growth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Call Lightning\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Conjure Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Daylight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Meld into Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Plant Growth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Protection from Energy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Revivify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Sleet Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Speak with Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Water Breathing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Water Walk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Wind Wall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Blight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Charm Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Confusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Conjure Minor Elementals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Conjure Woodland Beings\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Control Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Divination\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Dominate Beast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Fire Shield\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Freedom of Movement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Hallucinatory Terrain\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Ice Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Stone Shape\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Stoneskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Wall of Fire\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Antilife Shell\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Awaken\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Commune with Nature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Cone of Cold\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Conjure Elemental\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Contagion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Geas\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Greater Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Insect Plague\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Mass Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Planar Binding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Reincarnate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Scrying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Tree Stride\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Wall of Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Conjure Fey\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Find the Path\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Flesh to Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Heal\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Heroes' Feast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Move Earth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Sunbeam\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Transport via Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Wall of Thorns\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Wind Walk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Fire Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Mirage Arcane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Plane Shift\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Regenerate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Reverse Gravity\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Symbol\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Animal Shapes\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Antipathy + Sympathy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Befuddlement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Control Weather\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Earthquake\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Incendiary Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Sunburst\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Tsunami\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Foresight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Shapechange\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "Storm of Vengeance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Druid\\Druid.md",
+    "target": "True Resurrection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Fighter\\Fighter.md",
+    "target": "Javelin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Monk\\Monk.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Javelin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Bless\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Command\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Detect Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Detect Poison and Disease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Divine Favor\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Heroism\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Protection from Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Purify Food and Drink\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Searing Smite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Shield of Faith\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Aid\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Find Steed\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Gentle Repose\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Lesser Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Magic Weapon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Prayer of Healing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Protection from Poison\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Shining Smite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Warding Bond\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Zone of Truth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Create Food and Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Daylight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Magic Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Remove Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Revivify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Aura of Life\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Banishment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Death Ward\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Dispel Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Geas\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Greater Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Paladin\\Paladin.md",
+    "target": "Raise Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Alarm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Animal Friendship\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Cure Wounds\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Detect Poison and Disease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Ensnaring Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Entangle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Fog Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Goodberry\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Hunter's Mark\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Jump\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Longstrider\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Speak with Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Aid\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Animal Messenger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Barkskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Find Traps\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Gust of Wind\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Lesser Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Locate Animals or Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Magic Weapon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Pass without Trace\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Protection from Poison\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Silence\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Spike Growth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Conjure Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Daylight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Meld into Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Nondetection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Plant Growth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Protection from Energy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Revivify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Speak with Plants\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Water Breathing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Water Walk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Wind Wall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Conjure Woodland Beings\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Dominate Beast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Freedom of Movement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Stoneskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Commune with Nature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Greater Restoration\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Ranger\\Ranger.md",
+    "target": "Tree Stride\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Rogue\\Rogue.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Metamagic\\Subtle Spell.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Acid Splash\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Chill Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dancing Lights\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Elementalism\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fire Bolt\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mage Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Message\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Minor Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Poison Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Prestidigitation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Ray of Frost\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Shocking Grasp\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Sorcerous Burst\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "True Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Burning Hands\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Charm Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Chromatic Orb\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Color Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Comprehend Languages\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Disguise Self\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Expeditious Retreat\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "False Life\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Feather Fall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fog Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Grease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Ice Knife\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Jump\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mage Armor\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Magic Missile\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Ray of Sickness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Silent Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Sleep\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Thunderwave\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Alter Self\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Blindness + Deafness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Blur\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Detect Thoughts\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dragon's Breath\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Enlarge + Reduce\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Flame Blade\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Flaming Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Gust of Wind\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Knock\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Levitate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Magic Weapon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mind Spike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mirror Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Misty Step\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Phantasmal Force\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Scorching Ray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "See Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Shatter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Spider Climb\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Web\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Blink\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Clairvoyance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Counterspell\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Daylight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fear\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fireball\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fly\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Gaseous Form\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Haste\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Hypnotic Pattern\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Lightning Bolt\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Major Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Protection from Energy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Sleet Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Stinking Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Tongues\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Vampiric Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Water Breathing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Water Walk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Banishment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Blight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Charm Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Confusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dimension Door\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dominate Beast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fire Shield\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Greater Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Ice Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Stoneskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Vitriolic Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Wall of Fire\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Animate Objects\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Arcane Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Cloudkill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Cone of Cold\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Creation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dominate Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Hold Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Insect Plague\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Seeming\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Telekinesis\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Teleportation Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Wall of Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Chain Lightning\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Circle of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Disintegrate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Eyebite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Flesh to Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Freezing Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Globe of Invulnerability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Mass Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Move Earth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Sunbeam\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "True Seeing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Delayed Blast Fireball\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Etherealness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Finger of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Fire Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Plane Shift\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Prismatic Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Reverse Gravity\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Teleport\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Demiplane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Dominate Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Earthquake\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Incendiary Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Power Word Stun\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Sunburst\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Gate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Meteor Swarm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Power Word Kill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Time Stop\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Sorcerer\\Sorcerer.md",
+    "target": "Wish\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Chill Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Eldritch Blast\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Mage Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Minor Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Poison Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Prestidigitation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "True Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Bane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Charm Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Comprehend Languages\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Expeditious Retreat\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hellish Rebuke\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hex\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hideous Laughter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Illusory Script\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Protection from Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Speak with Animals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Unseen Servant\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Enthrall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Mind Spike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Mirror Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Misty Step\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Ray of Enfeeblement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Spider Climb\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Counterspell\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Fear\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Fly\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Gaseous Form\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hypnotic Pattern\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Magic Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Major Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Remove Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Tongues\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Vampiric Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Banishment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Blight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Charm Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Dimension Door\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hallucinatory Terrain\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Contact Other Plane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Dream\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Hold Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Mislead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Planar Binding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Scrying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Teleportation Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Circle of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Create Undead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Eyebite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "True Seeing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Etherealness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Finger of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Forcecage\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Plane Shift\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Befuddlement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Demiplane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Dominate Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Glibness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Power Word Stun\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Astral Projection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Foresight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Gate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Imprisonment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Power Word Kill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "True Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Warlock\\Warlock.md",
+    "target": "Weird\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Evoker\\Evoker.md",
+    "target": "Potent Cantrip "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Evoker\\Evoker.md",
+    "target": "Sculpt Spells "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Evoker\\Evoker.md",
+    "target": "Empowered Evocation "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Evoker\\Evoker.md",
+    "target": "Overchannel "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dagger\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Acid Splash\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Chill Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dancing Lights\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Elementalism\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fire Bolt\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mage Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Message\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Minor Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Poison Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Prestidigitation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Ray of Frost\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Shocking Grasp\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "True Strike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Alarm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Burning Hands\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Charm Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Chromatic Orb\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Color Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Comprehend Languages\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Detect Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Disguise Self\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Expeditious Retreat\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "False Life\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Feather Fall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Find Familiar\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Floating Disk\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fog Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Grease\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Hideous Laughter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Ice Knife\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Identify\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Illusory Script\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Jump\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Longstrider\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mage Armor\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magic Missile\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Protection from Evil and Good\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Ray of Sickness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Silent Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sleep\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Thunderwave\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Unseen Servant\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Acid Arrow\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Alter Self\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Arcane Lock\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Arcanist's Magic Aura\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Augury\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Blindness + Deafness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Blur\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Continual Flame\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Detect Thoughts\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dragon's Breath\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Enhance Ability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Enlarge + Reduce\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Flaming Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Gentle Repose\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Gust of Wind\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Hold Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Knock\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Levitate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Locate Object\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magic Mouth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magic Weapon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mind Spike\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mirror Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Misty Step\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Phantasmal Force\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Ray of Enfeeblement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Rope Trick\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Scorching Ray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "See Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Shatter\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Spider Climb\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Web\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Animate Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Bestow Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Blink\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Clairvoyance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Counterspell\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dispel Magic\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fear\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fireball\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fly\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Gaseous Form\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Glyph of Warding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Haste\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Hypnotic Pattern\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Lightning Bolt\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magic Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Major Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Nondetection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Phantom Steed\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Protection from Energy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Remove Curse\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sending\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sleet Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Speak with Dead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Stinking Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Tiny Hut\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Tongues\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Vampiric Touch\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Water Breathing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Arcane Eye\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Banishment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Black Tentacles\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Blight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Charm Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Confusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Conjure Minor Elementals\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Control Water\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dimension Door\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Divination\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fabricate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Faithful Hound\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Fire Shield\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Greater Invisibility\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Hallucinatory Terrain\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Ice Storm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Locate Creature\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Phantasmal Killer\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Private Sanctum\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Resilient Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Secret Chest\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Stone Shape\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Stoneskin\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Vitriolic Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Wall of Fire\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Animate Objects\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Arcane Hand\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Cloudkill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Cone of Cold\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Conjure Elemental\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Contact Other Plane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Creation\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dominate Person\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dream\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Geas\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Hold Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Legend Lore\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mislead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Modify Memory\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Passwall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Planar Binding\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Scrying\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Seeming\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Summon Dragon\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Telekinesis\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Telepathic Bond\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Teleportation Circle\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Wall of Force\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Wall of Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Chain Lightning\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Circle of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Contingency\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Create Undead\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Disintegrate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Eyebite\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Flesh to Stone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Freezing Sphere\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Globe of Invulnerability\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Guards and Wards\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Instant Summons\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Irresistible Dance\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magic Jar\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mass Suggestion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Move Earth\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Programmed Illusion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sunbeam\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "True Seeing\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Wall of Ice\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Arcane Sword\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Delayed Blast Fireball\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Etherealness\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Finger of Death\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Forcecage\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Magnificent Mansion\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mirage Arcane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Plane Shift\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Prismatic Spray\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Project Image\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Reverse Gravity\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sequester\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Simulacrum\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Symbol\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Teleport\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Antimagic Field\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Antipathy + Sympathy\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Befuddlement\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Clone\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Control Weather\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Demiplane\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Dominate Monster\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Incendiary Cloud\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Maze\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Mind Blank\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Power Word Stun\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Sunburst\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Astral Projection\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Foresight\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Gate\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Imprisonment\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Meteor Swarm\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Power Word Kill\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Prismatic Wall\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Shapechange\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Time Stop\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "True Polymorph\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Weird\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Classes\\Wizard\\Wizard.md",
+    "target": "Wish\\"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Adventuring Gear\\Alchemist's Fire.md",
+    "target": "burning"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Adventuring Gear\\Bedroll.md",
+    "target": "extreme cold"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Adventuring Gear\\Blanket.md",
+    "target": "extreme cold"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Adventuring Gear\\Component Pouch.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Breastplate, +1.md",
+    "target": "Breastplate, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Breastplate, +2.md",
+    "target": "Breastplate, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Breastplate, +3.md",
+    "target": "Breastplate, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Mail, +1.md",
+    "target": "Chain Mail, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Mail, +2.md",
+    "target": "Chain Mail, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Mail, +3.md",
+    "target": "Chain Mail, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Shirt, +1.md",
+    "target": "Chain Shirt, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Shirt, +2.md",
+    "target": "Chain Shirt, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Chain Shirt, +3.md",
+    "target": "Chain Shirt, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Half Plate Armor, +1.md",
+    "target": "Half Plate Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Half Plate Armor, +2.md",
+    "target": "Half Plate Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Half Plate Armor, +3.md",
+    "target": "Half Plate Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Hide Armor, +1.md",
+    "target": "Hide Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Hide Armor, +2.md",
+    "target": "Hide Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Hide Armor, +3.md",
+    "target": "Hide Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Leather Armor, +1.md",
+    "target": "Leather Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Leather Armor, +2.md",
+    "target": "Leather Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Leather Armor, +3.md",
+    "target": "Leather Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Padded Armor, +1.md",
+    "target": "Padded Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Padded Armor, +2.md",
+    "target": "Padded Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Padded Armor, +3.md",
+    "target": "Padded Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Plate Armor, +1.md",
+    "target": "Plate Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Plate Armor, +2.md",
+    "target": "Plate Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Plate Armor, +3.md",
+    "target": "Plate Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Ring Mail, +1.md",
+    "target": "Ring Mail, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Ring Mail, +2.md",
+    "target": "Ring Mail, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Ring Mail, +3.md",
+    "target": "Ring Mail, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Scale Mail, +1.md",
+    "target": "Scale Mail, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Scale Mail, +2.md",
+    "target": "Scale Mail, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Scale Mail, +3.md",
+    "target": "Scale Mail, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Splint Armor, +1.md",
+    "target": "Splint Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Splint Armor, +2.md",
+    "target": "Splint Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Splint Armor, +3.md",
+    "target": "Splint Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Studded Leather Armor, +1.md",
+    "target": "Studded Leather Armor, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Studded Leather Armor, +2.md",
+    "target": "Studded Leather Armor, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Armor, +1, +2, or +3\\Studded Leather Armor, +3.md",
+    "target": "Studded Leather Armor, +3 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Weapon, +1, +2, or +3\\Lance, +1.md",
+    "target": "Lance, +1 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\00) Varies\\Weapon, +1, +2, or +3\\Longsword, +2.md",
+    "target": "Longsword, +2 "
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Species\\Elf.md",
+    "target": "Darkness"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Species\\Orc.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Species\\Tiefling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Species\\Tiefling.md",
+    "target": "Darkness"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Counterspell.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Create Food and Water.md",
+    "target": "malnutrition"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Create Food and Water.md",
+    "target": "dehydration"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Fireball.md",
+    "target": "burning"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Remove Curse.md",
+    "target": "curses"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 3\\Slow.md",
+    "target": "components"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 7\\Delayed Blast Fireball.md",
+    "target": "burning"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 7\\Fire Storm.md",
+    "target": "burning"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 9\\Meteor Swarm.md",
+    "target": "burning"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Level 9\\True Resurrection.md",
+    "target": "curses"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Spells.md",
+    "target": "Light"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Spells.md",
+    "target": "Slow"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Spells\\Spells.md",
+    "target": "Light"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Aboleth.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Black Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Blue Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Brass Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Bronze Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Copper Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Gold Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Green Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Red Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Silver Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult White Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Air Elemental.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Black Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Blue Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Brass Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Bronze Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Copper Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Gold Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Green Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Red Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Silver Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient White Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Badger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Black Bear.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Brown Bear.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Camel.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Cat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Deer.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Dire Wolf.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Elk.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Frog.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Badger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Elk.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Frog.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Goat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Hyena.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Lizard.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Octopus.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Owl.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Rat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Spider.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Toad.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Vulture.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Weasel.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Giant Wolf Spider.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Goat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Hyena.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Jackal.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Lion.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Lizard.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Mastiff.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Octopus.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Owl.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Panther.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Piranha.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Polar Bear.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Rat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Saber-Toothed Tiger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Spider.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Swarm of Piranhas.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Swarm of Rats.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Tiger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Weasel.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Animals\\Wolf.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ankheg.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Barbed Devil.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Basilisk.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bearded Devil.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Behir.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Black Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Blink Dog.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Blue Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bone Devil.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Brass Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bronze Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bugbear Stalker.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bugbear Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Bulette.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Chain Devil.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Chimera.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Chuul.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Clay Golem.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Cloaker.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Cockatrice.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Copper Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Death Dog.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Deva.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Djinni.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Doppelganger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Dragon Turtle.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Dretch.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Drider.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Dryad.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Dust Mephit.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Earth Elemental.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Efreeti.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ettercap.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ettin.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Fire Elemental.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Flesh Golem.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Gargoyle.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ghost.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ghoul.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Gibbering Mouther.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Gnoll Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Goblin Boss.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Goblin Minion.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Goblin Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Gold Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Gorgon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Green Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Green Hag.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Grick.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Griffon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Guardian Naga.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Half-Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Hezrou.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Hobgoblin Captain.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Hobgoblin Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Homunculus.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Horned Devil.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Hydra.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ice Mephit.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Imp.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Incubus.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Invisible Stalker.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Iron Golem.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Kobold Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Lamia.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Lemure.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Magma Mephit.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Magmin.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Manticore.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Medusa.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Merrow.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Mimic.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Minotaur of Baphomet.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Minotaur Skeleton.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Mummy.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Night Hag.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ogre Zombie.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ogre.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Oni.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Otyugh.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Owlbear.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Phase Spider.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Pseudodragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Quasit.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Red Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Roper.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Rust Monster.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Sahuagin Warrior.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Salamander.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Sea Hag.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Shadow.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Shield Guardian.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Silver Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Specter.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Sphinx of Wonder.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Spirit Naga.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Steam Mephit.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Stirge.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Stone Giant.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Stone Golem.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Storm Giant.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Succubus.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Troll Limb.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Troll.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Unicorn.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Vampire Familiar.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Vampire Spawn.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Vampire.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Vrock.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Warhorse Skeleton.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Water Elemental.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Werebear.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Wererat.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Weretiger.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Werewolf.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\White Dragon Wyrmling.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Wight.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Will-o'-Wisp.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Worg.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Wraith.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Wyvern.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Xorn.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Black Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Blue Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Brass Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Bronze Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Copper Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Gold Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Green Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Red Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young Silver Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Young White Dragon.md",
+    "target": "Darkvision"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Help Desk\\Tips and Tricks.md",
+    "target": "Backgrounds/Noble"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Help Desk\\Tips and Tricks.md",
+    "target": "Feats/01) Origin Feats/Tough"
+  },
+  {
+    "f": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Help Desk\\Tips and Tricks.md",
+    "target": "Feats/02) General Feats/Piercer"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "originalPluginId": "dndbeyond-importer",
+  "originalVersion": "1.1.4",
+  "author": "Jktaisa",
+  "authorUrl": "https://github.com/Webcreator3478",
+  "copiedAt": "2026-11-13T14:47:45.212Z",
+  "originalFiles": {
+    "main.js": "40972c38a3fc074aae2493a4e161e8d378dba5883d4c325b61d3f2726efb6c3b",
+    "styles.css": "3d162e5dbf61d37ac0b2e0715904552ca7b20bedd2a2d4bbe1da580cef6a722c"
+  },
+  "changes": [
+    "Separate manifest identity and version",
+    "Namespaced code-block registrations and generated widgets",
+    "Independent character metadata and output folder",
+    "Separate CSS classes, variables, and Style Settings section",
+    "Readable personal entry point extending the copied bundled implementation",
+    "Compatibility with original widgets when the original importer is inactive",
+    "Persistent complete character snapshots and session state",
+    "Legacy refresh fetches data without rewriting notes"
+  ]
+}

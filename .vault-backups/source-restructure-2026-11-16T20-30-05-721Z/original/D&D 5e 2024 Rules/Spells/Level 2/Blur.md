@@ -1,0 +1,20 @@
+---
+tags:
+  - spell
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+  - "dnd-spell"
+---
+# Blur
+*Level 2 Illusion (Sorcerer, Wizard)*
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+
+**Casting Time:** Action
+**Range:** Self
+**Components:** V
+**Duration:** [[Concentration]], up to 1 minute
+
+Your body becomes blurred. For the duration, any creature has [[Disadvantage]] on attack rolls against you. An attacker is immune to this effect if it perceives you with [[Blindsight]] or [[Truesight]].

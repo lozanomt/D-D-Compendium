@@ -1,0 +1,3656 @@
+{
+  "entries": 1727,
+  "linked": 829,
+  "images": 507,
+  "gaps": [
+    {
+      "name": "Custom Background",
+      "path": "D&D 5e 2024 Rules/Backgrounds/Custom Background.md"
+    },
+    {
+      "name": "Evasion",
+      "path": "D&D 5e 2024 Rules/Classes/Any Class Features/Evasion.md"
+    },
+    {
+      "name": "Extra Attack",
+      "path": "D&D 5e 2024 Rules/Classes/Any Class Features/Extra Attack.md"
+    },
+    {
+      "name": "Spellcasting",
+      "path": "D&D 5e 2024 Rules/Classes/Any Class Features/Spellcasting.md"
+    },
+    {
+      "name": "Unarmored Defense",
+      "path": "D&D 5e 2024 Rules/Classes/Any Class Features/Unarmored Defense.md"
+    },
+    {
+      "name": "Weapon Mastery",
+      "path": "D&D 5e 2024 Rules/Classes/Any Class Features/Weapon Mastery.md"
+    },
+    {
+      "name": "Class Library",
+      "path": "D&D 5e 2024 Rules/Classes/Class Library.md"
+    },
+    {
+      "name": "Acid",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Acid.md"
+    },
+    {
+      "name": "Alchemist's Fire",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Alchemist's Fire.md"
+    },
+    {
+      "name": "Arrows",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ammunition/Arrows.md"
+    },
+    {
+      "name": "Bolts",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ammunition/Bolts.md"
+    },
+    {
+      "name": "Bullets, Firearm",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ammunition/Bullets, Firearm.md"
+    },
+    {
+      "name": "Bullets, Sling",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ammunition/Bullets, Sling.md"
+    },
+    {
+      "name": "Needles",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ammunition/Needles.md"
+    },
+    {
+      "name": "Antitoxin",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Antitoxin.md"
+    },
+    {
+      "name": "Arcane Focus",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus.md"
+    },
+    {
+      "name": "Crystal",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Crystal.md"
+    },
+    {
+      "name": "Orb",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Orb.md"
+    },
+    {
+      "name": "Rod",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Rod.md"
+    },
+    {
+      "name": "Staff",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Staff.md"
+    },
+    {
+      "name": "Wand",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Arcane Focus/Wand.md"
+    },
+    {
+      "name": "Backpack",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Backpack.md"
+    },
+    {
+      "name": "Ball Bearings",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ball Bearings.md"
+    },
+    {
+      "name": "Barrel",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Barrel.md"
+    },
+    {
+      "name": "Basic Poison",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Basic Poison.md"
+    },
+    {
+      "name": "Basket",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Basket.md"
+    },
+    {
+      "name": "Bedroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Bedroll.md"
+    },
+    {
+      "name": "Bell",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Bell.md"
+    },
+    {
+      "name": "Blanket",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Blanket.md"
+    },
+    {
+      "name": "Block and Tackle",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Block and Tackle.md"
+    },
+    {
+      "name": "Book",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Book.md"
+    },
+    {
+      "name": "Bucket",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Bucket.md"
+    },
+    {
+      "name": "Bullseye Lantern",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Bullseye Lantern.md"
+    },
+    {
+      "name": "Caltrops",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Caltrops.md"
+    },
+    {
+      "name": "Candle",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Candle.md"
+    },
+    {
+      "name": "Chain",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Chain.md"
+    },
+    {
+      "name": "Chest",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Chest.md"
+    },
+    {
+      "name": "Climber's Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Climber's Kit.md"
+    },
+    {
+      "name": "Component Pouch",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Component Pouch.md"
+    },
+    {
+      "name": "Costume",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Costume.md"
+    },
+    {
+      "name": "Crossbow Bolt Case",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Crossbow Bolt Case.md"
+    },
+    {
+      "name": "Crowbar",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Crowbar.md"
+    },
+    {
+      "name": "Druidic Focus",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus.md"
+    },
+    {
+      "name": "Sprig of Mistletoe",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Druidic Focus/Sprig of Mistletoe.md"
+    },
+    {
+      "name": "Wooden Staff",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Druidic Focus/Wooden Staff.md"
+    },
+    {
+      "name": "Yew Wand",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Druidic Focus/Yew Wand.md"
+    },
+    {
+      "name": "Fine Clothes",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Fine Clothes.md"
+    },
+    {
+      "name": "Flask",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Flask.md"
+    },
+    {
+      "name": "Glass Bottle",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Glass Bottle.md"
+    },
+    {
+      "name": "Grappling Hook",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Grappling Hook.md"
+    },
+    {
+      "name": "Healer's Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Healer's Kit.md"
+    },
+    {
+      "name": "Amulet",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Holy Symbol/Amulet.md"
+    },
+    {
+      "name": "Emblem",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Holy Symbol/Emblem.md"
+    },
+    {
+      "name": "Holy Symbol",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Holy Symbol/Holy Symbol.md"
+    },
+    {
+      "name": "Reliquary",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Holy Symbol/Reliquary.md"
+    },
+    {
+      "name": "Holy Water",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Holy Water.md"
+    },
+    {
+      "name": "Hunting Trap",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Hunting Trap.md"
+    },
+    {
+      "name": "Ink Pen",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ink Pen.md"
+    },
+    {
+      "name": "Ink",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ink.md"
+    },
+    {
+      "name": "Iron Pot",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Iron Pot.md"
+    },
+    {
+      "name": "Iron Spikes",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Iron Spikes.md"
+    },
+    {
+      "name": "Jug",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Jug.md"
+    },
+    {
+      "name": "Ladder",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Ladder.md"
+    },
+    {
+      "name": "Lamp",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Lamp.md"
+    },
+    {
+      "name": "Lock",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Lock.md"
+    },
+    {
+      "name": "Magnifying Glass",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Magnifying Glass.md"
+    },
+    {
+      "name": "Manacles",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Manacles.md"
+    },
+    {
+      "name": "Map or Scroll Case",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Map or Scroll Case.md"
+    },
+    {
+      "name": "Map",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Map.md"
+    },
+    {
+      "name": "Mirror",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Mirror.md"
+    },
+    {
+      "name": "Oil",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Oil.md"
+    },
+    {
+      "name": "Paper",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Paper.md"
+    },
+    {
+      "name": "Parchment",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Parchment.md"
+    },
+    {
+      "name": "Perfume",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Perfume.md"
+    },
+    {
+      "name": "Pole",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Pole.md"
+    },
+    {
+      "name": "Portable Ram",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Portable Ram.md"
+    },
+    {
+      "name": "Pouch",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Pouch.md"
+    },
+    {
+      "name": "Quiver",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Quiver.md"
+    },
+    {
+      "name": "Rations",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Rations.md"
+    },
+    {
+      "name": "Robe",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Robe.md"
+    },
+    {
+      "name": "Rope",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Rope.md"
+    },
+    {
+      "name": "Sack",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Sack.md"
+    },
+    {
+      "name": "Shovel",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Shovel.md"
+    },
+    {
+      "name": "Signal Whistle",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Signal Whistle.md"
+    },
+    {
+      "name": "Spellbook",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Spellbook.md"
+    },
+    {
+      "name": "Spyglass",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Spyglass.md"
+    },
+    {
+      "name": "String",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/String.md"
+    },
+    {
+      "name": "Tent",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Tent.md"
+    },
+    {
+      "name": "Tinderbox",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Tinderbox.md"
+    },
+    {
+      "name": "Torch",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Torch.md"
+    },
+    {
+      "name": "Traveler's Clothes",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Traveler's Clothes.md"
+    },
+    {
+      "name": "Vial",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Vial.md"
+    },
+    {
+      "name": "Waterskin",
+      "path": "D&D 5e 2024 Rules/Equipment/Adventuring Gear/Waterskin.md"
+    },
+    {
+      "name": "Burglar's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Burglar's Pack.md"
+    },
+    {
+      "name": "Diplomat's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Diplomat's Pack.md"
+    },
+    {
+      "name": "Dungeoneer's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Dungeoneer's Pack.md"
+    },
+    {
+      "name": "Entertainer's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Entertainer's Pack.md"
+    },
+    {
+      "name": "Explorer's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Explorer's Pack.md"
+    },
+    {
+      "name": "Priest's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Priest's Pack.md"
+    },
+    {
+      "name": "Scholar's Pack",
+      "path": "D&D 5e 2024 Rules/Equipment/Gear Packs/Scholar's Pack.md"
+    },
+    {
+      "name": "Ammunition, +1, +2, or +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Ammunition, +1, +2, or +3.md"
+    },
+    {
+      "name": "Arrows, +1",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Arrows, +1.md"
+    },
+    {
+      "name": "Arrows, +2",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Arrows, +2.md"
+    },
+    {
+      "name": "Arrows, +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Arrows, +3.md"
+    },
+    {
+      "name": "Bolts, +1",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bolts, +1.md"
+    },
+    {
+      "name": "Bolts, +2",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bolts, +2.md"
+    },
+    {
+      "name": "Bolts, +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bolts, +3.md"
+    },
+    {
+      "name": "Bullets, Firearm, +1",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Firearm, +1.md"
+    },
+    {
+      "name": "Bullets, Firearm, +2",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Firearm, +2.md"
+    },
+    {
+      "name": "Bullets, Firearm, +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Firearm, +3.md"
+    },
+    {
+      "name": "Bullets, Sling, +1",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Sling, +1.md"
+    },
+    {
+      "name": "Bullets, Sling, +2",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Sling, +2.md"
+    },
+    {
+      "name": "Bullets, Sling, +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Bullets, Sling, +3.md"
+    },
+    {
+      "name": "Needles, +1",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Needles, +1.md"
+    },
+    {
+      "name": "Needles, +2",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Needles, +2.md"
+    },
+    {
+      "name": "Needles, +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Ammunition, +1, +2, or +3/Needles, +3.md"
+    },
+    {
+      "name": "Anchor Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Anchor Token.md"
+    },
+    {
+      "name": "Bird Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Bird Token.md"
+    },
+    {
+      "name": "Fan Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Fan Token.md"
+    },
+    {
+      "name": "Swan Boat Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Swan Boat Token.md"
+    },
+    {
+      "name": "Tree Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Tree Token.md"
+    },
+    {
+      "name": "Whip Token",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Feather Token/Whip Token.md"
+    },
+    {
+      "name": "Bronze Griffin Figurine",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Figurine of Wondrous Power/Bronze Griffin Figurine.md"
+    },
+    {
+      "name": "Figurine of Wondrous Power",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Figurine of Wondrous Power/Figurine of Wondrous Power.md"
+    },
+    {
+      "name": "Silver Raven Figurine",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Figurine of Wondrous Power/Silver Raven Figurine.md"
+    },
+    {
+      "name": "Weapon, +1, +2, or +3",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/00) Varies/Weapon, +1, +2, or +3/Weapon, +1, +2, or +3.md"
+    },
+    {
+      "name": "Bead of Nourishment",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/01) Common/Bead of Nourishment.md"
+    },
+    {
+      "name": "Adamantine Breastplate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Breastplate.md"
+    },
+    {
+      "name": "Adamantine Chain Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Chain Mail.md"
+    },
+    {
+      "name": "Adamantine Chain Shirt",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Chain Shirt.md"
+    },
+    {
+      "name": "Adamantine Half Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Half Plate.md"
+    },
+    {
+      "name": "Adamantine Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Plate.md"
+    },
+    {
+      "name": "Adamantine Ring Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Ring Mail.md"
+    },
+    {
+      "name": "Adamantine Scale Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Scale Mail.md"
+    },
+    {
+      "name": "Adamantine Splint",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Adamantine Armor/Adamantine Splint.md"
+    },
+    {
+      "name": "Boots of Striding and Springing",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Boots of Striding and Springing.md"
+    },
+    {
+      "name": "Decanter of Endless Water",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Decanter of Endless Water.md"
+    },
+    {
+      "name": "Deck of Illusions",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Deck of Illusions.md"
+    },
+    {
+      "name": "Dust of Disappearance",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Dust of Disappearance.md"
+    },
+    {
+      "name": "Dust of Dryness",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Dust of Dryness.md"
+    },
+    {
+      "name": "Dust of Sneezing and Choking",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Dust of Sneezing and Choking.md"
+    },
+    {
+      "name": "Elemental Gem",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Elemental Gem/Elemental Gem.md"
+    },
+    {
+      "name": "Gloves of Swimming and Climbing",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Gloves of Swimming and Climbing.md"
+    },
+    {
+      "name": "Helm of Telepathy",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Helm of Telepathy.md"
+    },
+    {
+      "name": "Javelin of Lightning",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Javelin of Lightning.md"
+    },
+    {
+      "name": "Luckstone",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Luckstone.md"
+    },
+    {
+      "name": "Mithral Armor",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Armor.md"
+    },
+    {
+      "name": "Mithral Breastplate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Breastplate.md"
+    },
+    {
+      "name": "Mithral Chain Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Chain Mail.md"
+    },
+    {
+      "name": "Mithral Chain Shirt",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Chain Shirt.md"
+    },
+    {
+      "name": "Mithral Half Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Half Plate.md"
+    },
+    {
+      "name": "Mithral Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Plate.md"
+    },
+    {
+      "name": "Mithral Ring Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Ring Mail.md"
+    },
+    {
+      "name": "Mithral Scale Mail",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Scale Mail.md"
+    },
+    {
+      "name": "Mithral Splint",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Mithral Armor/Mithral Splint.md"
+    },
+    {
+      "name": "Necklace of Adaptation",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Necklace of Adaptation.md"
+    },
+    {
+      "name": "Oil of Slipperiness",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Oil of Slipperiness.md"
+    },
+    {
+      "name": "Pearl of Power",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Pearl of Power.md"
+    },
+    {
+      "name": "Philter of Love",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Philter of Love.md"
+    },
+    {
+      "name": "Potion of Animal Friendship",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Potion of Animal Friendship.md"
+    },
+    {
+      "name": "Potion of Growth",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Potion of Growth.md"
+    },
+    {
+      "name": "Potion of Poison",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Potion of Poison.md"
+    },
+    {
+      "name": "Potion of Resistance",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Potion of Resistance/Potion of Resistance.md"
+    },
+    {
+      "name": "Ring of Jumping",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Ring of Jumping.md"
+    },
+    {
+      "name": "Trident of Fish Command",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/02) Uncommon/Trident of Fish Command.md"
+    },
+    {
+      "name": "Armor of Vulnerability",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Armor of Vulnerability/Armor of Vulnerability.md"
+    },
+    {
+      "name": "Arrow-Catching Shield",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Arrow-Catching Shield.md"
+    },
+    {
+      "name": "Bead of Force",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Bead of Force.md"
+    },
+    {
+      "name": "Belt of Dwarvenkind",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Belt of Dwarvenkind.md"
+    },
+    {
+      "name": "Boots of Levitation",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Boots of Levitation.md"
+    },
+    {
+      "name": "Cube of Force",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Cube of Force.md"
+    },
+    {
+      "name": "Elixir of Health",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Elixir of Health.md"
+    },
+    {
+      "name": "Folding Boat",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Folding Boat.md"
+    },
+    {
+      "name": "Giant Slayer",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Giant Slayer/Giant Slayer.md"
+    },
+    {
+      "name": "Glamour Studded Leather",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Glamour Studded Leather.md"
+    },
+    {
+      "name": "Horseshoes of Speed",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Horseshoes of Speed.md"
+    },
+    {
+      "name": "Necklace of Prayer Beads",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Necklace of Prayer Beads.md"
+    },
+    {
+      "name": "Oil of Etherealness",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Oil of Etherealness.md"
+    },
+    {
+      "name": "Portable Hole",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Portable Hole.md"
+    },
+    {
+      "name": "Potion of Clairvoyance",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Clairvoyance.md"
+    },
+    {
+      "name": "Potion of Diminution",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Diminution.md"
+    },
+    {
+      "name": "Potion of Gaseous Form",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Gaseous Form.md"
+    },
+    {
+      "name": "Potion of Heroism",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Heroism.md"
+    },
+    {
+      "name": "Potion of Invulnerability",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Invulnerability.md"
+    },
+    {
+      "name": "Potion of Mind Reading",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Potion of Mind Reading.md"
+    },
+    {
+      "name": "Ring of Free Action",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Ring of Free Action.md"
+    },
+    {
+      "name": "Rodo f Rulership",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Rodo f Rulership.md"
+    },
+    {
+      "name": "Vicious Weapon",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Vicious Weapon/Vicious Weapon.md"
+    },
+    {
+      "name": "Wand of Binding",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/03) Rare/Wand of Binding.md"
+    },
+    {
+      "name": "Ammunition of Slaying",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Ammunition of Slaying/Ammunition of Slaying.md"
+    },
+    {
+      "name": "Animated Shield",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Animated Shield.md"
+    },
+    {
+      "name": "Candle of Invocation",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Candle of Invocation.md"
+    },
+    {
+      "name": "Cloak of Arachnida",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Cloak of Arachnida.md"
+    },
+    {
+      "name": "Crystal Ball",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Crystal Ball.md"
+    },
+    {
+      "name": "Dwarven Half Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Dwarven Half Plate.md"
+    },
+    {
+      "name": "Dwarven Plate",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Dwarven Plate.md"
+    },
+    {
+      "name": "Dwarven Thrower",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Dwarven Thrower.md"
+    },
+    {
+      "name": "Efreeti Bottle",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Efreeti Bottle.md"
+    },
+    {
+      "name": "Energy Longbow",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Energy Longbow.md"
+    },
+    {
+      "name": "Energy Shortbow",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Energy Shortbow.md"
+    },
+    {
+      "name": "Hat of Many Spells",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Hat of Many Spells.md"
+    },
+    {
+      "name": "Horseshoes of a Zephyr",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Horseshoes of a Zephyr.md"
+    },
+    {
+      "name": "Oathbow (Longbow)",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Oathbow (Longbow).md"
+    },
+    {
+      "name": "Oathbow (Shortbow)",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Oathbow (Shortbow).md"
+    },
+    {
+      "name": "Oil of Sharpness",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Oil of Sharpness.md"
+    },
+    {
+      "name": "Potion of Flying",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Potion of Flying.md"
+    },
+    {
+      "name": "Potion of Longevity",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Potion of Longevity.md"
+    },
+    {
+      "name": "Potion of Speed",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Potion of Speed.md"
+    },
+    {
+      "name": "Quarterstaff of the Acrobat",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Quarterstaff of the Acrobat.md"
+    },
+    {
+      "name": "Robe of Scintillating Colors",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Robe of Scintillating Colors.md"
+    },
+    {
+      "name": "Rod of Absorption",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Rod of Absorption.md"
+    },
+    {
+      "name": "Rod of Alertness",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Rod of Alertness.md"
+    },
+    {
+      "name": "Rod of Security",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Rod of Security.md"
+    },
+    {
+      "name": "Shield of the Cavalier",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Shield of the Cavalier.md"
+    },
+    {
+      "name": "Spellguard Shield",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Spellguard Shield.md"
+    },
+    {
+      "name": "Staff of Power",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Staff of Power.md"
+    },
+    {
+      "name": "Thunderous Greatclub",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Thunderous Greatclub.md"
+    },
+    {
+      "name": "Wand of Polymorph",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/04) Very Rare/Wand of Polymorph.md"
+    },
+    {
+      "name": "Cloak of Invisibility",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Cloak of Invisibility.md"
+    },
+    {
+      "name": "Crystal Ball of Mind Reading",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Crystal Ball of Mind Reading.md"
+    },
+    {
+      "name": "Crystal Ball of Telepathy",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Crystal Ball of Telepathy.md"
+    },
+    {
+      "name": "Crystal Ball of True Seeing",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Crystal Ball of True Seeing.md"
+    },
+    {
+      "name": "Maul of Thunderbolts",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Maul of Thunderbolts.md"
+    },
+    {
+      "name": "Mysterious Deck",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Mysterious Deck.md"
+    },
+    {
+      "name": "Ring of Djinni Summonning",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Ring of Djinni Summonning.md"
+    },
+    {
+      "name": "Ring of Spell Turning",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Ring of Spell Turning.md"
+    },
+    {
+      "name": "Scarab of Protection",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Scarab of Protection.md"
+    },
+    {
+      "name": "Sphere of Annihilation",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Sphere of Annihilation.md"
+    },
+    {
+      "name": "Talisman of Pure Good",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Talisman of Pure Good.md"
+    },
+    {
+      "name": "Talisman of the Sphere",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Talisman of the Sphere.md"
+    },
+    {
+      "name": "Talisman of Ultimate Evil",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Talisman of Ultimate Evil.md"
+    },
+    {
+      "name": "Vorpal Sword",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Vorpal Sword/Vorpal Sword.md"
+    },
+    {
+      "name": "Warhammer of Thunderbolts",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Warhammer of Thunderbolts.md"
+    },
+    {
+      "name": "Well of Many Worlds",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/05) Legendary/Well of Many Worlds.md"
+    },
+    {
+      "name": "Dragon Orb",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/06) Artifact/Dragon Orb.md"
+    },
+    {
+      "name": "Cantrip Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Cantrip Spell Scroll/Cantrip Spell Scroll.md"
+    },
+    {
+      "name": "Level 1 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 1 Spell Scroll/Level 1 Spell Scroll.md"
+    },
+    {
+      "name": "Level 2 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 2 Spell Scroll/Level 2 Spell Scroll.md"
+    },
+    {
+      "name": "Level 3 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 3 Spell Scroll/Level 3 Spell Scroll.md"
+    },
+    {
+      "name": "Level 4 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 4 Spell Scroll/Level 4 Spell Scroll.md"
+    },
+    {
+      "name": "Level 5 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 5 Spell Scroll/Level 5 Spell Scroll.md"
+    },
+    {
+      "name": "Level 6 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 6 Spell Scroll/Level 6 Spell Scroll.md"
+    },
+    {
+      "name": "Level 7 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 7 Spell Scroll/Level 7 Spell Scroll.md"
+    },
+    {
+      "name": "Level 8 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 8 Spell Scroll/Level 8 Spell Scroll.md"
+    },
+    {
+      "name": "Level 9 Spell Scroll",
+      "path": "D&D 5e 2024 Rules/Equipment/Magic Items/Spell Scroll/Level 9 Spell Scroll/Level 9 Spell Scroll.md"
+    },
+    {
+      "name": "Assassin's Blood",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Assassin's Blood.md"
+    },
+    {
+      "name": "Burnt Othur Fumes",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Burnt Othur Fumes.md"
+    },
+    {
+      "name": "Crawler Mucus",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Crawler Mucus.md"
+    },
+    {
+      "name": "Essence of Ether",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Essence of Ether.md"
+    },
+    {
+      "name": "Malice",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Malice.md"
+    },
+    {
+      "name": "Midnight Tears",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Midnight Tears.md"
+    },
+    {
+      "name": "Oil of Taggit",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Oil of Taggit.md"
+    },
+    {
+      "name": "Pale Tincture",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Pale Tincture.md"
+    },
+    {
+      "name": "Purple Worm Poison",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Purple Worm Poison.md"
+    },
+    {
+      "name": "Serpent Venom",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Serpent Venom.md"
+    },
+    {
+      "name": "Spider's Sting",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Spider's Sting.md"
+    },
+    {
+      "name": "Torpor",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Torpor.md"
+    },
+    {
+      "name": "Truth Serum",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Truth Serum.md"
+    },
+    {
+      "name": "Wyvern Poison",
+      "path": "D&D 5e 2024 Rules/Equipment/Poison/Wyvern Poison.md"
+    },
+    {
+      "name": "Alchemist's Supplies",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Alchemist's Supplies.md"
+    },
+    {
+      "name": "Brewer's Supplies",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Brewer's Supplies.md"
+    },
+    {
+      "name": "Calligrapher's Supplies",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Calligrapher's Supplies.md"
+    },
+    {
+      "name": "Cartographer's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Cartographer's Tools.md"
+    },
+    {
+      "name": "Cobbler's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Cobbler's Tools.md"
+    },
+    {
+      "name": "Cook's Utensils",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Cook's Utensils.md"
+    },
+    {
+      "name": "Glassblower's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Glassblower's Tools.md"
+    },
+    {
+      "name": "Jeweler's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Jeweler's Tools.md"
+    },
+    {
+      "name": "Leatherworker's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Leatherworker's Tools.md"
+    },
+    {
+      "name": "Mason's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Mason's Tools.md"
+    },
+    {
+      "name": "Painter's Supplies",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Painter's Supplies.md"
+    },
+    {
+      "name": "Potter's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Potter's Tools.md"
+    },
+    {
+      "name": "Smith's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Smith's Tools.md"
+    },
+    {
+      "name": "Tinker's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Tinker's Tools.md"
+    },
+    {
+      "name": "Weaver's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Weaver's Tools.md"
+    },
+    {
+      "name": "Woodcarver's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Artisan's Tools/Woodcarver's Tools.md"
+    },
+    {
+      "name": "Disguise Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Disguise Kit.md"
+    },
+    {
+      "name": "Forgery Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Forgery Kit.md"
+    },
+    {
+      "name": "Dice",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Gaming Sets/Dice.md"
+    },
+    {
+      "name": "Dragonchess",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Gaming Sets/Dragonchess.md"
+    },
+    {
+      "name": "Gaming Sets",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Gaming Sets/Gaming Sets.md"
+    },
+    {
+      "name": "Playing Cards",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Gaming Sets/Playing Cards.md"
+    },
+    {
+      "name": "Three-Dragon Ante",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Gaming Sets/Three-Dragon Ante.md"
+    },
+    {
+      "name": "Herbalism Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Herbalism Kit.md"
+    },
+    {
+      "name": "Bagpipes",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Bagpipes.md"
+    },
+    {
+      "name": "Drum",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Drum.md"
+    },
+    {
+      "name": "Dulcimer",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Dulcimer.md"
+    },
+    {
+      "name": "Flute",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Flute.md"
+    },
+    {
+      "name": "Horn",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Horn.md"
+    },
+    {
+      "name": "Lute",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Lute.md"
+    },
+    {
+      "name": "Lyre",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Lyre.md"
+    },
+    {
+      "name": "Musical Instruments",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Musical Instruments.md"
+    },
+    {
+      "name": "Pan Flute",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Pan Flute.md"
+    },
+    {
+      "name": "Shawm",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Shawm.md"
+    },
+    {
+      "name": "Viol",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Musical Instruments/Viol.md"
+    },
+    {
+      "name": "Navigator's Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Navigator's Tools.md"
+    },
+    {
+      "name": "Poisoner's Kit",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Poisoner's Kit.md"
+    },
+    {
+      "name": "Thieves' Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Thieves' Tools.md"
+    },
+    {
+      "name": "Tools",
+      "path": "D&D 5e 2024 Rules/Equipment/Tools/Tools.md"
+    },
+    {
+      "name": "Trinkets",
+      "path": "D&D 5e 2024 Rules/Equipment/Trinkets.md"
+    },
+    {
+      "name": "Alert",
+      "path": "D&D 5e 2024 Rules/Feats/01) Origin Feats/Alert.md"
+    },
+    {
+      "name": "Magic Initiate",
+      "path": "D&D 5e 2024 Rules/Feats/01) Origin Feats/Magic Initiate.md"
+    },
+    {
+      "name": "Savage Attacker",
+      "path": "D&D 5e 2024 Rules/Feats/01) Origin Feats/Savage Attacker.md"
+    },
+    {
+      "name": "Skilled",
+      "path": "D&D 5e 2024 Rules/Feats/01) Origin Feats/Skilled.md"
+    },
+    {
+      "name": "Ability Score Improvement",
+      "path": "D&D 5e 2024 Rules/Feats/02) General Feats/Ability Score Improvement.md"
+    },
+    {
+      "name": "Grappler",
+      "path": "D&D 5e 2024 Rules/Feats/02) General Feats/Grappler.md"
+    },
+    {
+      "name": "Archery",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Archery.md"
+    },
+    {
+      "name": "Blessed Warrior",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Blessed Warrior.md"
+    },
+    {
+      "name": "Defense",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Defense.md"
+    },
+    {
+      "name": "Druidic Warrior",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Druidic Warrior.md"
+    },
+    {
+      "name": "Great Weapon Fighting",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Great Weapon Fighting.md"
+    },
+    {
+      "name": "Two-Weapon Fighting",
+      "path": "D&D 5e 2024 Rules/Feats/03) Fighting Style Feats/Two-Weapon Fighting.md"
+    },
+    {
+      "name": "Boon of Combat Prowess",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Combat Prowess.md"
+    },
+    {
+      "name": "Boon of Dimensional Travel",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Dimensional Travel.md"
+    },
+    {
+      "name": "Boon of Fate",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Fate.md"
+    },
+    {
+      "name": "Boon of Irresistible Offense",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Irresistible Offense.md"
+    },
+    {
+      "name": "Boon of Spell Recall",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Spell Recall.md"
+    },
+    {
+      "name": "Boon of the Night Spirit",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of the Night Spirit.md"
+    },
+    {
+      "name": "Boon of Truesight",
+      "path": "D&D 5e 2024 Rules/Feats/04) Epic Boon Feats/Boon of Truesight.md"
+    },
+    {
+      "name": "Abyss",
+      "path": "D&D 5e 2024 Rules/Lore/Abyss.md"
+    },
+    {
+      "name": "Far Realm",
+      "path": "D&D 5e 2024 Rules/Lore/Far Realm.md"
+    },
+    {
+      "name": "The Ethereal Plane",
+      "path": "D&D 5e 2024 Rules/Lore/The Ethereal Plane.md"
+    },
+    {
+      "name": "Attack",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Attack.md"
+    },
+    {
+      "name": "Dash",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Dash.md"
+    },
+    {
+      "name": "Disengage",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Disengage.md"
+    },
+    {
+      "name": "Dodge",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Dodge.md"
+    },
+    {
+      "name": "Help",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Help.md"
+    },
+    {
+      "name": "Hide",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Hide.md"
+    },
+    {
+      "name": "Influence",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Influence.md"
+    },
+    {
+      "name": "Magic",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Magic.md"
+    },
+    {
+      "name": "Opportunity Attacks",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Opportunity Attacks.md"
+    },
+    {
+      "name": "Ready",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Ready.md"
+    },
+    {
+      "name": "Search",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Search.md"
+    },
+    {
+      "name": "Study",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Study.md"
+    },
+    {
+      "name": "Utilize",
+      "path": "D&D 5e 2024 Rules/Rules/Actions/Utilize.md"
+    },
+    {
+      "name": "Areas of Effect",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Areas of Effect.md"
+    },
+    {
+      "name": "Cone",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Cone.md"
+    },
+    {
+      "name": "Cube",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Cube.md"
+    },
+    {
+      "name": "Cylinder",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Cylinder.md"
+    },
+    {
+      "name": "Emanation",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Emanation.md"
+    },
+    {
+      "name": "Line",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Line.md"
+    },
+    {
+      "name": "Sphere",
+      "path": "D&D 5e 2024 Rules/Rules/Areas of Effect/Sphere.md"
+    },
+    {
+      "name": "Advantage",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Advantage.md"
+    },
+    {
+      "name": "Attunement",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Attunement.md"
+    },
+    {
+      "name": "Bloodied",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Bloodied.md"
+    },
+    {
+      "name": "Breaking Objects",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Breaking Objects.md"
+    },
+    {
+      "name": "Bright Light",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Bright Light.md"
+    },
+    {
+      "name": "Burrowing",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Burrowing.md"
+    },
+    {
+      "name": "Carrying Capacity",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Carrying Capacity.md"
+    },
+    {
+      "name": "Climbing",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Climbing.md"
+    },
+    {
+      "name": "Components",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Components.md"
+    },
+    {
+      "name": "Concentration",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Concentration.md"
+    },
+    {
+      "name": "Crawling",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Crawling.md"
+    },
+    {
+      "name": "Critical Hit",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md"
+    },
+    {
+      "name": "Curses",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Curses.md"
+    },
+    {
+      "name": "D20 Test",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/D20 Test.md"
+    },
+    {
+      "name": "Damage Threshold",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Damage Threshold.md"
+    },
+    {
+      "name": "Darkness",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Darkness.md"
+    },
+    {
+      "name": "Dead",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Dead.md"
+    },
+    {
+      "name": "Death Saving Throw",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Death Saving Throw.md"
+    },
+    {
+      "name": "Difficult Terrain",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Difficult Terrain.md"
+    },
+    {
+      "name": "Dim Light",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Dim Light.md"
+    },
+    {
+      "name": "Disadvantage",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Disadvantage.md"
+    },
+    {
+      "name": "Expertise",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Expertise.md"
+    },
+    {
+      "name": "Flying",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Flying.md"
+    },
+    {
+      "name": "Grappling",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Grappling.md"
+    },
+    {
+      "name": "Half Cover",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Half Cover.md"
+    },
+    {
+      "name": "Heavily Obscured",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Heavily Obscured.md"
+    },
+    {
+      "name": "Heroic Inspiration",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Heroic Inspiration.md"
+    },
+    {
+      "name": "Hit Point Dice",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Hit Point Dice.md"
+    },
+    {
+      "name": "Hit Points",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Hit Points.md"
+    },
+    {
+      "name": "Hover",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Hover.md"
+    },
+    {
+      "name": "Immunity",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Immunity.md"
+    },
+    {
+      "name": "Improvised Weapons",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Improvised Weapons.md"
+    },
+    {
+      "name": "Initiative",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Initiative.md"
+    },
+    {
+      "name": "Jumping",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Jumping.md"
+    },
+    {
+      "name": "Knocking Out a Creature",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Knocking Out a Creature.md"
+    },
+    {
+      "name": "Lightly Obscured",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Lightly Obscured.md"
+    },
+    {
+      "name": "Long Rest",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Long Rest.md"
+    },
+    {
+      "name": "Passive Perception",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Passive Perception.md"
+    },
+    {
+      "name": "Resistance",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Resistance.md"
+    },
+    {
+      "name": "Ritual",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Ritual.md"
+    },
+    {
+      "name": "Shape-Shifting",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Shape-Shifting.md"
+    },
+    {
+      "name": "Short Rest",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Short Rest.md"
+    },
+    {
+      "name": "Speed",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Speed.md"
+    },
+    {
+      "name": "Stable",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Stable.md"
+    },
+    {
+      "name": "Swimming",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Swimming.md"
+    },
+    {
+      "name": "Telepathy",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Telepathy.md"
+    },
+    {
+      "name": "Temporary Hit Points",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Temporary Hit Points.md"
+    },
+    {
+      "name": "Three-Quarters Cover",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Three-Quarters Cover.md"
+    },
+    {
+      "name": "Total Cover",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Total Cover.md"
+    },
+    {
+      "name": "Unarmed Strike",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Unarmed Strike.md"
+    },
+    {
+      "name": "Vulnerability",
+      "path": "D&D 5e 2024 Rules/Rules/Common Terms/Vulnerability.md"
+    },
+    {
+      "name": "Blinded",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Blinded.md"
+    },
+    {
+      "name": "Charmed",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Charmed.md"
+    },
+    {
+      "name": "Deafened",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Deafened.md"
+    },
+    {
+      "name": "Exhaustion",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Exhaustion.md"
+    },
+    {
+      "name": "Frightened",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Frightened.md"
+    },
+    {
+      "name": "Grappled",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Grappled.md"
+    },
+    {
+      "name": "Incapacitated",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Incapacitated.md"
+    },
+    {
+      "name": "Invisible",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Invisible.md"
+    },
+    {
+      "name": "Paralyzed",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Paralyzed.md"
+    },
+    {
+      "name": "Petrified",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Petrified.md"
+    },
+    {
+      "name": "Poisoned",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Poisoned.md"
+    },
+    {
+      "name": "Prone",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Prone.md"
+    },
+    {
+      "name": "Restrained",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Restrained.md"
+    },
+    {
+      "name": "Stunned",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Stunned.md"
+    },
+    {
+      "name": "Unconscious",
+      "path": "D&D 5e 2024 Rules/Rules/Conditions/Unconscious.md"
+    },
+    {
+      "name": "Cackle Fever",
+      "path": "D&D 5e 2024 Rules/Rules/Contagions/Cackle Fever.md"
+    },
+    {
+      "name": "Contagions",
+      "path": "D&D 5e 2024 Rules/Rules/Contagions/Contagions.md"
+    },
+    {
+      "name": "Sewer Plague",
+      "path": "D&D 5e 2024 Rules/Rules/Contagions/Sewer Plague.md"
+    },
+    {
+      "name": "Sight Rot",
+      "path": "D&D 5e 2024 Rules/Rules/Contagions/Sight Rot.md"
+    },
+    {
+      "name": "Deep Water",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Deep Water.md"
+    },
+    {
+      "name": "Extreme Cold",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Extreme Cold.md"
+    },
+    {
+      "name": "Extreme Heat",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Extreme Heat.md"
+    },
+    {
+      "name": "Frigid Water",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Frigid Water.md"
+    },
+    {
+      "name": "Heavy Precipitation",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Heavy Precipitation.md"
+    },
+    {
+      "name": "High Altitude",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/High Altitude.md"
+    },
+    {
+      "name": "Slippery Ice",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Slippery Ice.md"
+    },
+    {
+      "name": "Strong Wind",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Strong Wind.md"
+    },
+    {
+      "name": "Thin Ice",
+      "path": "D&D 5e 2024 Rules/Rules/Environmental Effects/Thin Ice.md"
+    },
+    {
+      "name": "Burning",
+      "path": "D&D 5e 2024 Rules/Rules/Hazards/Burning.md"
+    },
+    {
+      "name": "Dehydration",
+      "path": "D&D 5e 2024 Rules/Rules/Hazards/Dehydration.md"
+    },
+    {
+      "name": "Falling",
+      "path": "D&D 5e 2024 Rules/Rules/Hazards/Falling.md"
+    },
+    {
+      "name": "Malnutrition",
+      "path": "D&D 5e 2024 Rules/Rules/Hazards/Malnutrition.md"
+    },
+    {
+      "name": "Suffocation",
+      "path": "D&D 5e 2024 Rules/Rules/Hazards/Suffocation.md"
+    },
+    {
+      "name": "Fear and Mental Stress",
+      "path": "D&D 5e 2024 Rules/Rules/Miscellaneous/Fear and Mental Stress.md"
+    },
+    {
+      "name": "Mounted Combat",
+      "path": "D&D 5e 2024 Rules/Rules/Miscellaneous/Mounted Combat.md"
+    },
+    {
+      "name": "Multiclassing",
+      "path": "D&D 5e 2024 Rules/Rules/Miscellaneous/Multiclassing.md"
+    },
+    {
+      "name": "Underwater Combat",
+      "path": "D&D 5e 2024 Rules/Rules/Miscellaneous/Underwater Combat.md"
+    },
+    {
+      "name": "Ammunition",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Ammunition.md"
+    },
+    {
+      "name": "Finesse",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Finesse.md"
+    },
+    {
+      "name": "Heavy",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Heavy.md"
+    },
+    {
+      "name": "Light",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Light.md"
+    },
+    {
+      "name": "Loading",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Loading.md"
+    },
+    {
+      "name": "Cleave",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Cleave.md"
+    },
+    {
+      "name": "Graze",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Graze.md"
+    },
+    {
+      "name": "Nick",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Nick.md"
+    },
+    {
+      "name": "Push",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Push.md"
+    },
+    {
+      "name": "Sap",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Sap.md"
+    },
+    {
+      "name": "Slow",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Slow.md"
+    },
+    {
+      "name": "Topple",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Topple.md"
+    },
+    {
+      "name": "Vex",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Mastery/Vex.md"
+    },
+    {
+      "name": "Contact",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Poison/Contact.md"
+    },
+    {
+      "name": "Ingested",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Poison/Ingested.md"
+    },
+    {
+      "name": "Inhaled",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Poison/Inhaled.md"
+    },
+    {
+      "name": "Injury",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Poison/Injury.md"
+    },
+    {
+      "name": "Range",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Range.md"
+    },
+    {
+      "name": "Reach",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Reach.md"
+    },
+    {
+      "name": "Thrown",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Thrown.md"
+    },
+    {
+      "name": "Two-Handed",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Two-Handed.md"
+    },
+    {
+      "name": "Versatile",
+      "path": "D&D 5e 2024 Rules/Rules/Properties/Versatile.md"
+    },
+    {
+      "name": "Blindsight",
+      "path": "D&D 5e 2024 Rules/Rules/Senses/Blindsight.md"
+    },
+    {
+      "name": "Darkvision",
+      "path": "D&D 5e 2024 Rules/Rules/Senses/Darkvision.md"
+    },
+    {
+      "name": "Tremorsense",
+      "path": "D&D 5e 2024 Rules/Rules/Senses/Tremorsense.md"
+    },
+    {
+      "name": "Truesight",
+      "path": "D&D 5e 2024 Rules/Rules/Senses/Truesight.md"
+    },
+    {
+      "name": "Acrobatics",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Acrobatics.md"
+    },
+    {
+      "name": "Animal Handling",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Animal Handling.md"
+    },
+    {
+      "name": "Arcana",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Arcana.md"
+    },
+    {
+      "name": "Athletics",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Athletics.md"
+    },
+    {
+      "name": "Deception",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Deception.md"
+    },
+    {
+      "name": "History",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/History.md"
+    },
+    {
+      "name": "Insight",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Insight.md"
+    },
+    {
+      "name": "Intimidation",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Intimidation.md"
+    },
+    {
+      "name": "Investigation",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Investigation.md"
+    },
+    {
+      "name": "Medicine",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Medicine.md"
+    },
+    {
+      "name": "Nature",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Nature.md"
+    },
+    {
+      "name": "Perception",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Perception.md"
+    },
+    {
+      "name": "Performance",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Performance.md"
+    },
+    {
+      "name": "Persuasion",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Persuasion.md"
+    },
+    {
+      "name": "Religion",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Religion.md"
+    },
+    {
+      "name": "Sleight of Hand",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Sleight of Hand.md"
+    },
+    {
+      "name": "Stealth",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Stealth.md"
+    },
+    {
+      "name": "Survival",
+      "path": "D&D 5e 2024 Rules/Rules/Skills/Survival.md"
+    },
+    {
+      "name": "Collapsing Roof",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Collapsing Roof.md"
+    },
+    {
+      "name": "Falling Net",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Falling Net.md"
+    },
+    {
+      "name": "Fire-Casting Statue",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Fire-Casting Statue.md"
+    },
+    {
+      "name": "Hidden Pit",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Hidden Pit.md"
+    },
+    {
+      "name": "Poisoned Darts",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Poisoned Darts.md"
+    },
+    {
+      "name": "Poisoned Needle",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Poisoned Needle.md"
+    },
+    {
+      "name": "Rolling Stone",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Rolling Stone.md"
+    },
+    {
+      "name": "Spiked Pit",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Spiked Pit.md"
+    },
+    {
+      "name": "Traps",
+      "path": "D&D 5e 2024 Rules/Rules/Traps/Traps.md"
+    },
+    {
+      "name": "Custom Species",
+      "path": "D&D 5e 2024 Rules/Species/Custom Species.md"
+    },
+    {
+      "name": "Acid Splash",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Acid Splash.md"
+    },
+    {
+      "name": "Chill Touch",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Chill Touch.md"
+    },
+    {
+      "name": "Dancing Lights",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Dancing Lights.md"
+    },
+    {
+      "name": "Eldritch Blast",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Eldritch Blast.md"
+    },
+    {
+      "name": "Elementalism",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Elementalism.md"
+    },
+    {
+      "name": "Fire Bolt",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Fire Bolt.md"
+    },
+    {
+      "name": "Guidance",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Guidance.md"
+    },
+    {
+      "name": "Light",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Light.md"
+    },
+    {
+      "name": "Mage Hand",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Mage Hand.md"
+    },
+    {
+      "name": "Mending",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Mending.md"
+    },
+    {
+      "name": "Message",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Message.md"
+    },
+    {
+      "name": "Minor Illusion",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Minor Illusion.md"
+    },
+    {
+      "name": "Poison Spray",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Poison Spray.md"
+    },
+    {
+      "name": "Prestidigitation",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Prestidigitation.md"
+    },
+    {
+      "name": "Produce Flame",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Produce Flame.md"
+    },
+    {
+      "name": "Ray of Frost",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Ray of Frost.md"
+    },
+    {
+      "name": "Resistance",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Resistance.md"
+    },
+    {
+      "name": "Sacred Flame",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Sacred Flame.md"
+    },
+    {
+      "name": "Shillelagh",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Shillelagh.md"
+    },
+    {
+      "name": "Shocking Grasp",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Shocking Grasp.md"
+    },
+    {
+      "name": "Sorcerous Burst",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Sorcerous Burst.md"
+    },
+    {
+      "name": "Spare the Dying",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Spare the Dying.md"
+    },
+    {
+      "name": "Starry Wisp",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Starry Wisp.md"
+    },
+    {
+      "name": "Thaumaturgy",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/Thaumaturgy.md"
+    },
+    {
+      "name": "True Strike",
+      "path": "D&D 5e 2024 Rules/Spells/Cantrip/True Strike.md"
+    },
+    {
+      "name": "Alarm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Alarm.md"
+    },
+    {
+      "name": "Animal Friendship",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Animal Friendship.md"
+    },
+    {
+      "name": "Bane",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Bane.md"
+    },
+    {
+      "name": "Bless",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Bless.md"
+    },
+    {
+      "name": "Burning Hands",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Burning Hands.md"
+    },
+    {
+      "name": "Charm Person",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Charm Person.md"
+    },
+    {
+      "name": "Chromatic Orb",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Chromatic Orb.md"
+    },
+    {
+      "name": "Color Spray",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Color Spray.md"
+    },
+    {
+      "name": "Command",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Command.md"
+    },
+    {
+      "name": "Comprehend Languages",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Comprehend Languages.md"
+    },
+    {
+      "name": "Create or Destroy Water",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Create or Destroy Water.md"
+    },
+    {
+      "name": "Cure Wounds",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Cure Wounds.md"
+    },
+    {
+      "name": "Detect Evil and Good",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Detect Evil and Good.md"
+    },
+    {
+      "name": "Detect Magic",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Detect Magic.md"
+    },
+    {
+      "name": "Detect Poison and Disease",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Detect Poison and Disease.md"
+    },
+    {
+      "name": "Disguise Self",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Disguise Self.md"
+    },
+    {
+      "name": "Dissonant Whispers",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Dissonant Whispers.md"
+    },
+    {
+      "name": "Divine Favor",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Divine Favor.md"
+    },
+    {
+      "name": "Ensnaring Strike",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Ensnaring Strike.md"
+    },
+    {
+      "name": "Expeditious Retreat",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Expeditious Retreat.md"
+    },
+    {
+      "name": "Faerie Fire",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Faerie Fire.md"
+    },
+    {
+      "name": "False Life",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/False Life.md"
+    },
+    {
+      "name": "Feather Fall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Feather Fall.md"
+    },
+    {
+      "name": "Fog Cloud",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Fog Cloud.md"
+    },
+    {
+      "name": "Goodberry",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Goodberry.md"
+    },
+    {
+      "name": "Grease",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Grease.md"
+    },
+    {
+      "name": "Guiding Bolt",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Guiding Bolt.md"
+    },
+    {
+      "name": "Healing Word",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Healing Word.md"
+    },
+    {
+      "name": "Hellish Rebuke",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Hellish Rebuke.md"
+    },
+    {
+      "name": "Heroism",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Heroism.md"
+    },
+    {
+      "name": "Hex",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Hex.md"
+    },
+    {
+      "name": "Hideous Laughter",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Hideous Laughter.md"
+    },
+    {
+      "name": "Hunter's Mark",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Hunter's Mark.md"
+    },
+    {
+      "name": "Ice Knife",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Ice Knife.md"
+    },
+    {
+      "name": "Identify",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Identify.md"
+    },
+    {
+      "name": "Illusory Script",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Illusory Script.md"
+    },
+    {
+      "name": "Inflict Wounds",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Inflict Wounds.md"
+    },
+    {
+      "name": "Jump",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Jump.md"
+    },
+    {
+      "name": "Longstrider",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Longstrider.md"
+    },
+    {
+      "name": "Protection from Evil and Good",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Protection from Evil and Good.md"
+    },
+    {
+      "name": "Purify Food and Drink",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Purify Food and Drink.md"
+    },
+    {
+      "name": "Ray of Sickness",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Ray of Sickness.md"
+    },
+    {
+      "name": "Sanctuary",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Sanctuary.md"
+    },
+    {
+      "name": "Searing Smite",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Searing Smite.md"
+    },
+    {
+      "name": "Shield of Faith",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Shield of Faith.md"
+    },
+    {
+      "name": "Shield",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Shield.md"
+    },
+    {
+      "name": "Sleep",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Sleep.md"
+    },
+    {
+      "name": "Thunderwave",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Thunderwave.md"
+    },
+    {
+      "name": "Unseen Servant",
+      "path": "D&D 5e 2024 Rules/Spells/Level 1/Unseen Servant.md"
+    },
+    {
+      "name": "Aid",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Aid.md"
+    },
+    {
+      "name": "Alter Self",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Alter Self.md"
+    },
+    {
+      "name": "Animal Messenger",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Animal Messenger.md"
+    },
+    {
+      "name": "Arcane Lock",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Arcane Lock.md"
+    },
+    {
+      "name": "Arcanist's Magic Aura",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Arcanist's Magic Aura.md"
+    },
+    {
+      "name": "Augury",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Augury.md"
+    },
+    {
+      "name": "Barkskin",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Barkskin.md"
+    },
+    {
+      "name": "Blindness + Deafness",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Blindness + Deafness.md"
+    },
+    {
+      "name": "Blur",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Blur.md"
+    },
+    {
+      "name": "Calm Emotions",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Calm Emotions.md"
+    },
+    {
+      "name": "Continual Flame",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Continual Flame.md"
+    },
+    {
+      "name": "Darkness",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Darkness.md"
+    },
+    {
+      "name": "Darkvision",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Darkvision.md"
+    },
+    {
+      "name": "Detect Thoughts",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Detect Thoughts.md"
+    },
+    {
+      "name": "Dragon's Breath",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Dragon's Breath.md"
+    },
+    {
+      "name": "Enhance Ability",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Enhance Ability.md"
+    },
+    {
+      "name": "Enlarge + Reduce",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Enlarge + Reduce.md"
+    },
+    {
+      "name": "Enthrall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Enthrall.md"
+    },
+    {
+      "name": "Find Steed",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Find Steed.md"
+    },
+    {
+      "name": "Find Traps",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Find Traps.md"
+    },
+    {
+      "name": "Flame Blade",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Flame Blade.md"
+    },
+    {
+      "name": "Flaming Sphere",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Flaming Sphere.md"
+    },
+    {
+      "name": "Gentle Repose",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Gentle Repose.md"
+    },
+    {
+      "name": "Gust of Wind",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Gust of Wind.md"
+    },
+    {
+      "name": "Heat Metal",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Heat Metal.md"
+    },
+    {
+      "name": "Hold Person",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Hold Person.md"
+    },
+    {
+      "name": "Invisibility",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Invisibility.md"
+    },
+    {
+      "name": "Knock",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Knock.md"
+    },
+    {
+      "name": "Lesser Restoration",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Lesser Restoration.md"
+    },
+    {
+      "name": "Levitate",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Levitate.md"
+    },
+    {
+      "name": "Locate Animals or Plants",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Locate Animals or Plants.md"
+    },
+    {
+      "name": "Locate Object",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Locate Object.md"
+    },
+    {
+      "name": "Magic Mouth",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Magic Mouth.md"
+    },
+    {
+      "name": "Magic Weapon",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Magic Weapon.md"
+    },
+    {
+      "name": "Mind Spike",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Mind Spike.md"
+    },
+    {
+      "name": "Mirror Image",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Mirror Image.md"
+    },
+    {
+      "name": "Misty Step",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Misty Step.md"
+    },
+    {
+      "name": "Moonbeam",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Moonbeam.md"
+    },
+    {
+      "name": "Pass without Trace",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Pass without Trace.md"
+    },
+    {
+      "name": "Phantasmal Force",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Phantasmal Force.md"
+    },
+    {
+      "name": "Prayer of Healing",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Prayer of Healing.md"
+    },
+    {
+      "name": "Protection from Poison",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Protection from Poison.md"
+    },
+    {
+      "name": "Ray of Enfeeblement",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Ray of Enfeeblement.md"
+    },
+    {
+      "name": "Rope Trick",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Rope Trick.md"
+    },
+    {
+      "name": "Scorching Ray",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Scorching Ray.md"
+    },
+    {
+      "name": "See Invisibility",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/See Invisibility.md"
+    },
+    {
+      "name": "Shatter",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Shatter.md"
+    },
+    {
+      "name": "Shining Smite",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Shining Smite.md"
+    },
+    {
+      "name": "Silence",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Silence.md"
+    },
+    {
+      "name": "Spider Climb",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Spider Climb.md"
+    },
+    {
+      "name": "Spike Growth",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Spike Growth.md"
+    },
+    {
+      "name": "Suggestion",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Suggestion.md"
+    },
+    {
+      "name": "Warding Bond",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Warding Bond.md"
+    },
+    {
+      "name": "Web",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Web.md"
+    },
+    {
+      "name": "Zone of Truth",
+      "path": "D&D 5e 2024 Rules/Spells/Level 2/Zone of Truth.md"
+    },
+    {
+      "name": "Animate Dead",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Animate Dead.md"
+    },
+    {
+      "name": "Beacon of Hope",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Beacon of Hope.md"
+    },
+    {
+      "name": "Bestow Curse",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Bestow Curse.md"
+    },
+    {
+      "name": "Blink",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Blink.md"
+    },
+    {
+      "name": "Call Lightning",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Call Lightning.md"
+    },
+    {
+      "name": "Clairvoyance",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Clairvoyance.md"
+    },
+    {
+      "name": "Conjure Animals",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Conjure Animals.md"
+    },
+    {
+      "name": "Counterspell",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Counterspell.md"
+    },
+    {
+      "name": "Create Food and Water",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Create Food and Water.md"
+    },
+    {
+      "name": "Dispel Magic",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Dispel Magic.md"
+    },
+    {
+      "name": "Fear",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Fear.md"
+    },
+    {
+      "name": "Fly",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Fly.md"
+    },
+    {
+      "name": "Gaseous Form",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Gaseous Form.md"
+    },
+    {
+      "name": "Glyph of Warding",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Glyph of Warding.md"
+    },
+    {
+      "name": "Haste",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Haste.md"
+    },
+    {
+      "name": "Hypnotic Pattern",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Hypnotic Pattern.md"
+    },
+    {
+      "name": "Lightning Bolt",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Lightning Bolt.md"
+    },
+    {
+      "name": "Magic Circle",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Magic Circle.md"
+    },
+    {
+      "name": "Major Image",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Major Image.md"
+    },
+    {
+      "name": "Mass Healing Word",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Mass Healing Word.md"
+    },
+    {
+      "name": "Meld into Stone",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Meld into Stone.md"
+    },
+    {
+      "name": "Nondetection",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Nondetection.md"
+    },
+    {
+      "name": "Phantom Steed",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Phantom Steed.md"
+    },
+    {
+      "name": "Plant Growth",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Plant Growth.md"
+    },
+    {
+      "name": "Protection from Energy",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Protection from Energy.md"
+    },
+    {
+      "name": "Remove Curse",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Remove Curse.md"
+    },
+    {
+      "name": "Revivify",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Revivify.md"
+    },
+    {
+      "name": "Sending",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Sending.md"
+    },
+    {
+      "name": "Sleet Storm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Sleet Storm.md"
+    },
+    {
+      "name": "Slow",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Slow.md"
+    },
+    {
+      "name": "Speak with Dead",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Speak with Dead.md"
+    },
+    {
+      "name": "Speak with Plants",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Speak with Plants.md"
+    },
+    {
+      "name": "Spirit Guardians",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Spirit Guardians.md"
+    },
+    {
+      "name": "Stinking Cloud",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Stinking Cloud.md"
+    },
+    {
+      "name": "Tongues",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Tongues.md"
+    },
+    {
+      "name": "Vampiric Touch",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Vampiric Touch.md"
+    },
+    {
+      "name": "Wind Wall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 3/Wind Wall.md"
+    },
+    {
+      "name": "Arcane Eye",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Arcane Eye.md"
+    },
+    {
+      "name": "Aura of Life",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Aura of Life.md"
+    },
+    {
+      "name": "Banishment",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Banishment.md"
+    },
+    {
+      "name": "Blight",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Blight.md"
+    },
+    {
+      "name": "Charm Monster",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Charm Monster.md"
+    },
+    {
+      "name": "Compulsion",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Compulsion.md"
+    },
+    {
+      "name": "Confusion",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Confusion.md"
+    },
+    {
+      "name": "Conjure Minor Elementals",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Conjure Minor Elementals.md"
+    },
+    {
+      "name": "Conjure Woodland Beings",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Conjure Woodland Beings.md"
+    },
+    {
+      "name": "Control Water",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Control Water.md"
+    },
+    {
+      "name": "Death Ward",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Death Ward.md"
+    },
+    {
+      "name": "Dimension Door",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Dimension Door.md"
+    },
+    {
+      "name": "Divination",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Divination.md"
+    },
+    {
+      "name": "Dominate Beast",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Dominate Beast.md"
+    },
+    {
+      "name": "Fabricate",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Fabricate.md"
+    },
+    {
+      "name": "Faithful Hound",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Faithful Hound.md"
+    },
+    {
+      "name": "Fire Shield",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Fire Shield.md"
+    },
+    {
+      "name": "Freedom of Movement",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Freedom of Movement.md"
+    },
+    {
+      "name": "Giant Insect",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Giant Insect.md"
+    },
+    {
+      "name": "Greater Invisibility",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Greater Invisibility.md"
+    },
+    {
+      "name": "Hallucinatory Terrain",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Hallucinatory Terrain.md"
+    },
+    {
+      "name": "Ice Storm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Ice Storm.md"
+    },
+    {
+      "name": "Locate Creature",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Locate Creature.md"
+    },
+    {
+      "name": "Phantasmal Killer",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Phantasmal Killer.md"
+    },
+    {
+      "name": "Polymorph",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Polymorph.md"
+    },
+    {
+      "name": "Private Sanctum",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Private Sanctum.md"
+    },
+    {
+      "name": "Resilient Sphere",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Resilient Sphere.md"
+    },
+    {
+      "name": "Secret Chest",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Secret Chest.md"
+    },
+    {
+      "name": "Stone Shape",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Stone Shape.md"
+    },
+    {
+      "name": "Stoneskin",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Stoneskin.md"
+    },
+    {
+      "name": "Wall of Fire",
+      "path": "D&D 5e 2024 Rules/Spells/Level 4/Wall of Fire.md"
+    },
+    {
+      "name": "Antilife Shell",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Antilife Shell.md"
+    },
+    {
+      "name": "Awaken",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Awaken.md"
+    },
+    {
+      "name": "Cloudkill",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Cloudkill.md"
+    },
+    {
+      "name": "Commune with Nature",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Commune with Nature.md"
+    },
+    {
+      "name": "Commune",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Commune.md"
+    },
+    {
+      "name": "Conjure Elemental",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Conjure Elemental.md"
+    },
+    {
+      "name": "Contact Other Plane",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Contact Other Plane.md"
+    },
+    {
+      "name": "Contagion",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Contagion.md"
+    },
+    {
+      "name": "Creation",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Creation.md"
+    },
+    {
+      "name": "Dominate Person",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Dominate Person.md"
+    },
+    {
+      "name": "Dream",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Dream.md"
+    },
+    {
+      "name": "Flame Strike",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Flame Strike.md"
+    },
+    {
+      "name": "Geas",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Geas.md"
+    },
+    {
+      "name": "Greater Restoration",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Greater Restoration.md"
+    },
+    {
+      "name": "Hallow",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Hallow.md"
+    },
+    {
+      "name": "Hold Monster",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Hold Monster.md"
+    },
+    {
+      "name": "Insect Plague",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Insect Plague.md"
+    },
+    {
+      "name": "Legend Lore",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Legend Lore.md"
+    },
+    {
+      "name": "Mass Cure Wounds",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Mass Cure Wounds.md"
+    },
+    {
+      "name": "Mislead",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Mislead.md"
+    },
+    {
+      "name": "Modify Memory",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Modify Memory.md"
+    },
+    {
+      "name": "Passwall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Passwall.md"
+    },
+    {
+      "name": "Planar Binding",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Planar Binding.md"
+    },
+    {
+      "name": "Reincarnate",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Reincarnate.md"
+    },
+    {
+      "name": "Seeming",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Seeming.md"
+    },
+    {
+      "name": "Telekinesis",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Telekinesis.md"
+    },
+    {
+      "name": "Telepathic Bond",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Telepathic Bond.md"
+    },
+    {
+      "name": "Teleportation Circle",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Teleportation Circle.md"
+    },
+    {
+      "name": "Wall of Force",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Wall of Force.md"
+    },
+    {
+      "name": "Wall of Stone",
+      "path": "D&D 5e 2024 Rules/Spells/Level 5/Wall of Stone.md"
+    },
+    {
+      "name": "Blade Barrier",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Blade Barrier.md"
+    },
+    {
+      "name": "Chain Lightning",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Chain Lightning.md"
+    },
+    {
+      "name": "Circle of Death",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Circle of Death.md"
+    },
+    {
+      "name": "Conjure Fey",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Conjure Fey.md"
+    },
+    {
+      "name": "Contingency",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Contingency.md"
+    },
+    {
+      "name": "Create Undead",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Create Undead.md"
+    },
+    {
+      "name": "Disintegrate",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Disintegrate.md"
+    },
+    {
+      "name": "Eyebite",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Eyebite.md"
+    },
+    {
+      "name": "Find the Path",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Find the Path.md"
+    },
+    {
+      "name": "Flesh to Stone",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Flesh to Stone.md"
+    },
+    {
+      "name": "Forbiddance",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Forbiddance.md"
+    },
+    {
+      "name": "Freezing Sphere",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Freezing Sphere.md"
+    },
+    {
+      "name": "Globe of Invulnerability",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Globe of Invulnerability.md"
+    },
+    {
+      "name": "Guards and Wards",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Guards and Wards.md"
+    },
+    {
+      "name": "Harm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Harm.md"
+    },
+    {
+      "name": "Heal",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Heal.md"
+    },
+    {
+      "name": "Heroes' Feast",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Heroes' Feast.md"
+    },
+    {
+      "name": "Instant Summons",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Instant Summons.md"
+    },
+    {
+      "name": "Irresistible Dance",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Irresistible Dance.md"
+    },
+    {
+      "name": "Magic Jar",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Magic Jar.md"
+    },
+    {
+      "name": "Mass Suggestion",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Mass Suggestion.md"
+    },
+    {
+      "name": "Move Earth",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Move Earth.md"
+    },
+    {
+      "name": "Planar Ally",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Planar Ally.md"
+    },
+    {
+      "name": "Sunbeam",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Sunbeam.md"
+    },
+    {
+      "name": "True Seeing",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/True Seeing.md"
+    },
+    {
+      "name": "Wall of Ice",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Wall of Ice.md"
+    },
+    {
+      "name": "Wall of Thorns",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Wall of Thorns.md"
+    },
+    {
+      "name": "Wind Walk",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Wind Walk.md"
+    },
+    {
+      "name": "Word of Recall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 6/Word of Recall.md"
+    },
+    {
+      "name": "Arcane Sword",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Arcane Sword.md"
+    },
+    {
+      "name": "Conjure Celestial",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Conjure Celestial.md"
+    },
+    {
+      "name": "Delayed Blast Fireball",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Delayed Blast Fireball.md"
+    },
+    {
+      "name": "Divine Word",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Divine Word.md"
+    },
+    {
+      "name": "Etherealness",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Etherealness.md"
+    },
+    {
+      "name": "Finger of Death",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Finger of Death.md"
+    },
+    {
+      "name": "Fire Storm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Fire Storm.md"
+    },
+    {
+      "name": "Forcecage",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Forcecage.md"
+    },
+    {
+      "name": "Mirage Arcane",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Mirage Arcane.md"
+    },
+    {
+      "name": "Plane Shift",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Plane Shift.md"
+    },
+    {
+      "name": "Project Image",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Project Image.md"
+    },
+    {
+      "name": "Regenerate",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Regenerate.md"
+    },
+    {
+      "name": "Resurrection",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Resurrection.md"
+    },
+    {
+      "name": "Reverse Gravity",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Reverse Gravity.md"
+    },
+    {
+      "name": "Sequester",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Sequester.md"
+    },
+    {
+      "name": "Simulacrum",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Simulacrum.md"
+    },
+    {
+      "name": "Symbol",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Symbol.md"
+    },
+    {
+      "name": "Teleport",
+      "path": "D&D 5e 2024 Rules/Spells/Level 7/Teleport.md"
+    },
+    {
+      "name": "Animal Shapes",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Animal Shapes.md"
+    },
+    {
+      "name": "Antimagic Field",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Antimagic Field.md"
+    },
+    {
+      "name": "Antipathy + Sympathy",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Antipathy + Sympathy.md"
+    },
+    {
+      "name": "Befuddlement",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Befuddlement.md"
+    },
+    {
+      "name": "Clone",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Clone.md"
+    },
+    {
+      "name": "Demiplane",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Demiplane.md"
+    },
+    {
+      "name": "Dominate Monster",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Dominate Monster.md"
+    },
+    {
+      "name": "Earthquake",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Earthquake.md"
+    },
+    {
+      "name": "Glibness",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Glibness.md"
+    },
+    {
+      "name": "Holy Aura",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Holy Aura.md"
+    },
+    {
+      "name": "Incendiary Cloud",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Incendiary Cloud.md"
+    },
+    {
+      "name": "Maze",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Maze.md"
+    },
+    {
+      "name": "Mind Blank",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Mind Blank.md"
+    },
+    {
+      "name": "Power Word Stun",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Power Word Stun.md"
+    },
+    {
+      "name": "Sunburst",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Sunburst.md"
+    },
+    {
+      "name": "Telepathy",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Telepathy.md"
+    },
+    {
+      "name": "Tsunami",
+      "path": "D&D 5e 2024 Rules/Spells/Level 8/Tsunami.md"
+    },
+    {
+      "name": "Astral Projection",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Astral Projection.md"
+    },
+    {
+      "name": "Foresight",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Foresight.md"
+    },
+    {
+      "name": "Imprisonment",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Imprisonment.md"
+    },
+    {
+      "name": "Mass Heal",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Mass Heal.md"
+    },
+    {
+      "name": "Meteor Swarm",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Meteor Swarm.md"
+    },
+    {
+      "name": "Power Word Heal",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Power Word Heal.md"
+    },
+    {
+      "name": "Power Word Kill",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Power Word Kill.md"
+    },
+    {
+      "name": "Prismatic Wall",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Prismatic Wall.md"
+    },
+    {
+      "name": "Storm of Vengeance",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Storm of Vengeance.md"
+    },
+    {
+      "name": "Time Stop",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Time Stop.md"
+    },
+    {
+      "name": "True Polymorph",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/True Polymorph.md"
+    },
+    {
+      "name": "True Resurrection",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/True Resurrection.md"
+    },
+    {
+      "name": "Weird",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Weird.md"
+    },
+    {
+      "name": "Wish",
+      "path": "D&D 5e 2024 Rules/Spells/Level 9/Wish.md"
+    },
+    {
+      "name": "Arcane Gate",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Arcane Gate.md"
+    },
+    {
+      "name": "Arcane Vigor",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Arcane Vigor.md"
+    },
+    {
+      "name": "Armor of Agathys",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Armor of Agathys.md"
+    },
+    {
+      "name": "Aura of Purity",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Aura of Purity.md"
+    },
+    {
+      "name": "Aura of Vitality",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Aura of Vitality.md"
+    },
+    {
+      "name": "Banishing Smite",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Banishing Smite.md"
+    },
+    {
+      "name": "Beast Sense",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Beast Sense.md"
+    },
+    {
+      "name": "Blade Ward",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Blade Ward.md"
+    },
+    {
+      "name": "Blinding Smite",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Blinding Smite.md"
+    },
+    {
+      "name": "Cloud of Daggers",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Cloud of Daggers.md"
+    },
+    {
+      "name": "Compelled Duel",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Compelled Duel.md"
+    },
+    {
+      "name": "Conjure Barrage",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Conjure Barrage.md"
+    },
+    {
+      "name": "Conjure Volley",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Conjure Volley.md"
+    },
+    {
+      "name": "Cordon of Arrows",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Cordon of Arrows.md"
+    },
+    {
+      "name": "Crown of Madness",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Crown of Madness.md"
+    },
+    {
+      "name": "Crusader’s Mantle",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Crusader’s Mantle.md"
+    },
+    {
+      "name": "Destructive Wave",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Destructive Wave.md"
+    },
+    {
+      "name": "Elemental Weapon",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Elemental Weapon.md"
+    },
+    {
+      "name": "Feign Death",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Feign Death.md"
+    },
+    {
+      "name": "Fount of Moonlight",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Fount of Moonlight.md"
+    },
+    {
+      "name": "Friends",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Friends.md"
+    },
+    {
+      "name": "Grasping Vine",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Grasping Vine.md"
+    },
+    {
+      "name": "Hail of Thorns",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Hail of Thorns.md"
+    },
+    {
+      "name": "Lightning Arrow",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Lightning Arrow.md"
+    },
+    {
+      "name": "Mind Sliver",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Mind Sliver.md"
+    },
+    {
+      "name": "Power Word Fortify",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Power Word Fortify.md"
+    },
+    {
+      "name": "Staggering Smite",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Staggering Smite.md"
+    },
+    {
+      "name": "Steel Wind Strike",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Steel Wind Strike.md"
+    },
+    {
+      "name": "Summon Elemental",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Summon Elemental.md"
+    },
+    {
+      "name": "Summon Fey",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Summon Fey.md"
+    },
+    {
+      "name": "Swift Quiver",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Swift Quiver.md"
+    },
+    {
+      "name": "Synaptic Static",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Synaptic Static.md"
+    },
+    {
+      "name": "Tasha’s Bubbling Cauldron",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Tasha’s Bubbling Cauldron.md"
+    },
+    {
+      "name": "Thorn Whip",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Thorn Whip.md"
+    },
+    {
+      "name": "Thunderclap",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Thunderclap.md"
+    },
+    {
+      "name": "Thunderous Smite",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Thunderous Smite.md"
+    },
+    {
+      "name": "Toll the Dead",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Toll the Dead.md"
+    },
+    {
+      "name": "Word of Radiance",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Word of Radiance.md"
+    },
+    {
+      "name": "Wrathful Smite",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Wrathful Smite.md"
+    },
+    {
+      "name": "Yolande’s Regal Presence",
+      "path": "D&D 5e 2024 Rules/Spells/PHB References/Yolande’s Regal Presence.md"
+    },
+    {
+      "name": "Spells",
+      "path": "D&D 5e 2024 Rules/Spells/Spells.md"
+    },
+    {
+      "name": "Allosaurus",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Allosaurus.md"
+    },
+    {
+      "name": "Ape",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Ape.md"
+    },
+    {
+      "name": "Baboon",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Baboon.md"
+    },
+    {
+      "name": "Badger",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Badger.md"
+    },
+    {
+      "name": "Black Bear",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Black Bear.md"
+    },
+    {
+      "name": "Boar",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Boar.md"
+    },
+    {
+      "name": "Brown Bear",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Brown Bear.md"
+    },
+    {
+      "name": "Crab",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Crab.md"
+    },
+    {
+      "name": "Deer",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Deer.md"
+    },
+    {
+      "name": "Draft Horse",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Draft Horse.md"
+    },
+    {
+      "name": "Eagle",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Eagle.md"
+    },
+    {
+      "name": "Elk",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Elk.md"
+    },
+    {
+      "name": "Flying Snake",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Flying Snake.md"
+    },
+    {
+      "name": "Giant Centipede",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Centipede.md"
+    },
+    {
+      "name": "Giant Constrictor Snake",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Constrictor Snake.md"
+    },
+    {
+      "name": "Giant Crocodile",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Crocodile.md"
+    },
+    {
+      "name": "Giant Eagle",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Eagle.md"
+    },
+    {
+      "name": "Giant Elk",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Elk.md"
+    },
+    {
+      "name": "Giant Fire Beetle",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Fire Beetle.md"
+    },
+    {
+      "name": "Giant Frog",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Frog.md"
+    },
+    {
+      "name": "Giant Hyena",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Hyena.md"
+    },
+    {
+      "name": "Giant Octopus",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Octopus.md"
+    },
+    {
+      "name": "Giant Owl",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Owl.md"
+    },
+    {
+      "name": "Giant Rat",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Rat.md"
+    },
+    {
+      "name": "Giant Scorpion",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Scorpion.md"
+    },
+    {
+      "name": "Giant Seahorse",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Seahorse.md"
+    },
+    {
+      "name": "Giant Shark",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Shark.md"
+    },
+    {
+      "name": "Giant Toad",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Toad.md"
+    },
+    {
+      "name": "Giant Venomous Snake",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Venomous Snake.md"
+    },
+    {
+      "name": "Giant Vulture",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Vulture.md"
+    },
+    {
+      "name": "Giant Weasel",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Giant Weasel.md"
+    },
+    {
+      "name": "Goat",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Goat.md"
+    },
+    {
+      "name": "Hippopotamus",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Hippopotamus.md"
+    },
+    {
+      "name": "Hyena",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Hyena.md"
+    },
+    {
+      "name": "Jackal",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Jackal.md"
+    },
+    {
+      "name": "Lizard",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Lizard.md"
+    },
+    {
+      "name": "Mule",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Mule.md"
+    },
+    {
+      "name": "Panther",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Panther.md"
+    },
+    {
+      "name": "Piranha",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Piranha.md"
+    },
+    {
+      "name": "Plesiosaurus",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Plesiosaurus.md"
+    },
+    {
+      "name": "Polar Bear",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Polar Bear.md"
+    },
+    {
+      "name": "Pony",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Pony.md"
+    },
+    {
+      "name": "Pteranodon",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Pteranodon.md"
+    },
+    {
+      "name": "Rat",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Rat.md"
+    },
+    {
+      "name": "Raven",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Raven.md"
+    },
+    {
+      "name": "Reef Shark",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Reef Shark.md"
+    },
+    {
+      "name": "Riding Horse",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Riding Horse.md"
+    },
+    {
+      "name": "Saber-Toothed Tiger",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Saber-Toothed Tiger.md"
+    },
+    {
+      "name": "Seahorse",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Seahorse.md"
+    },
+    {
+      "name": "Spider",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Spider.md"
+    },
+    {
+      "name": "Swarm of Bats",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Swarm of Bats.md"
+    },
+    {
+      "name": "Swarm of Insects",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Swarm of Insects.md"
+    },
+    {
+      "name": "Swarm of Piranhas",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Swarm of Piranhas.md"
+    },
+    {
+      "name": "Swarm of Rats",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Swarm of Rats.md"
+    },
+    {
+      "name": "Swarm of Venomous Snakes",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Swarm of Venomous Snakes.md"
+    },
+    {
+      "name": "Tiger",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Tiger.md"
+    },
+    {
+      "name": "Triceratops",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Triceratops.md"
+    },
+    {
+      "name": "Venomous Snake",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Venomous Snake.md"
+    },
+    {
+      "name": "Vulture",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Animals/Vulture.md"
+    },
+    {
+      "name": "Dust Mephit",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Dust Mephit.md"
+    },
+    {
+      "name": "Ice Mephit",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Ice Mephit.md"
+    },
+    {
+      "name": "Avatar of Death",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Item Summons/Avatar of Death.md"
+    },
+    {
+      "name": "Giant Fly",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Item Summons/Giant Fly.md"
+    },
+    {
+      "name": "Giant Insect",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Spell Summons/Giant Insect.md"
+    },
+    {
+      "name": "Otherworldly Steed",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Spell Summons/Otherworldly Steed.md"
+    },
+    {
+      "name": "Steam Mephit",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Steam Mephit.md"
+    },
+    {
+      "name": "Troll Limb",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Troll Limb.md"
+    },
+    {
+      "name": "Wereboar",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Wereboar.md"
+    },
+    {
+      "name": "Wererat",
+      "path": "D&D 5e 2024 Rules/Stat Blocks/Wererat.md"
+    }
+  ],
+  "categories": [
+    [
+      "Backgrounds",
+      5,
+      4,
+      1
+    ],
+    [
+      "Classes",
+      229,
+      223,
+      6
+    ],
+    [
+      "Equipment",
+      571,
+      279,
+      292
+    ],
+    [
+      "Feats",
+      19,
+      0,
+      19
+    ],
+    [
+      "Lore",
+      3,
+      0,
+      3
+    ],
+    [
+      "Rules",
+      161,
+      0,
+      161
+    ],
+    [
+      "Species",
+      10,
+      9,
+      1
+    ],
+    [
+      "Spells",
+      391,
+      45,
+      346
+    ],
+    [
+      "Stat Blocks",
+      338,
+      269,
+      69
+    ]
+  ],
+  "skipped": []
+}

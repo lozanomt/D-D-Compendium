@@ -1,0 +1,120 @@
+---
+tags:
+  - creature
+cssclasses:
+  - "dnd-book"
+  - "dnd-mm"
+entity_id: 08377d8f-b21a-5512-bf0e-e1b2ea71515b
+entity_type: creature
+source_ids: ["mm-2025", "srd-5.2.1"]
+srd_5_2_1_pages: [305]
+source_versions: ["Monster Manual", "SRD 5.2.1"]
+---
+
+# Archmage
+
+## Monster Manual
+
+> [!statblock]
+> ### Archmage
+>
+> *Medium or Small Humanoid (Wizard), Neutral*
+>
+> ![[== SRDs ==/Attachments/Artwork/mm-p200-archmage.png|320]]
+>
+> **AC:** 17  
+> **Initiative:** +7 (17)  
+> **HP:** 170 (31d8 + 31)  
+> **Speed:** 30 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 10 | +0 | +0 | **Dex** | 14 | +2 | +2 | **Con** | 12 | +1 | +1 |
+> | **Int** | 20 | +5 | +9 | **Wis** | 15 | +2 | +6 | **Cha** | 16 | +3 | +3 |
+>
+> **Skills:** [[== SRDs ==/Compendium/5.5e/Rules/Skills/Arcana|Arcana]] +13, [[== SRDs ==/Compendium/5.5e/Rules/Skills/History|History]] +9, [[== SRDs ==/Compendium/5.5e/Rules/Skills/Perception|Perception]] +6  
+> **Immunities:** Psychic; [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]] (with *Mind Blank*)  
+> **Gear:** Wand  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 16  
+> **Languages:** Common plus five other languages  
+> **CR:** 12 (XP 8,000; PB +4)  
+>
+> #### Traits
+>
+> ***Magic Resistance.*** The archmage has Advantage on saving throws against spells and other magical effects.
+>
+> #### Actions
+>
+> ***Multiattack.*** The archmage makes four Arcane Burst attacks.
+>
+> ***Arcane Burst.*** *Melee or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. *Hit:* 27 (4d10 + 5) Force damage.
+>
+> ***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+>
+> - **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor* (included in AC), *Mage Hand*, *Prestidigitation*
+> - **2/Day Each:** *Fly*, *Lightning Bolt* (level 7 version)
+> - **1/Day Each:** *Cone of Cold* (level 9 version), *Mind Blank*  (cast before combat), *Scrying*, *Teleport*
+>
+> #### Bonus Actions
+>
+> ***Misty Step (3/Day).*** The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting.
+>
+>
+> #### Reactions
+>
+> ***Protective Magic (3/Day).*** The archmage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf|Monster Manual]]
+
+## SRD 5.2.1
+
+> [!statblock]
+> ### Archmage
+>
+> *Medium or Small Humanoid (Wizard), Neutral*
+>
+> ![[== SRDs ==/Attachments/Artwork/mm-p200-archmage.png|320]]
+>
+> **AC:** 17  
+> **Initiative:** +7 (17)  
+> **HP:** 170 (31d8 + 31)  
+> **Speed:** 30 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 10 | +0 | +0 | **Dex** | 14 | +2 | +2 | **Con** | 12 | +1 | +1 |
+> | **Int** | 20 | +5 | +9 | **Wis** | 15 | +2 | +6 | **Cha** | 16 | +3 | +3 |
+>
+> **Skills:** [[== SRDs ==/Compendium/5.5e/Rules/Skills/Arcana|Arcana]] +13, [[== SRDs ==/Compendium/5.5e/Rules/Skills/History|History]] +9, [[== SRDs ==/Compendium/5.5e/Rules/Skills/Perception|Perception]] +6  
+> **Immunities:** Psychic; [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]] (with *Mind Blank*)  
+> **Gear:** Wand  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 16  
+> **Languages:** Common plus five other languages  
+> **CR:** 12 (XP 8,000; PB +4)  
+>
+> #### Traits
+>
+> ***Magic Resistance.*** The archmage has Advantage on saving throws against spells and other magical effects.
+>
+> #### Actions
+>
+> ***Multiattack.*** The archmage makes four Arcane Burst attacks.
+>
+> ***Arcane Burst.*** *Melee or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. *Hit:* 27 (4d10 + 5) Force damage.
+>
+> ***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+>
+> - **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor* (included in AC), *Mage Hand*, *Prestidigitation*
+> - **2/Day Each:** *Fly*, *Lightning Bolt* (level 7 version)
+> - **1/Day Each:** *Cone of Cold* (level 9 version), *Mind Blank*  (cast before combat), *Scrying*, *Teleport*
+>
+> #### Bonus Actions
+>
+> ***Misty Step (3/Day).*** The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting.
+>
+>
+> #### Reactions
+>
+> ***Protective Magic (3/Day).*** The archmage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=305|SRD 5.2.1, p. 305]]

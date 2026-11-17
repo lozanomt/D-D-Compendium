@@ -1,0 +1,9 @@
+.dnd-table-controls { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:.5em; margin:.5em 0; font:13px/1.4 var(--font-interface); }
+.dnd-filter-table th { vertical-align:top; min-width:100px; }
+.dnd-filter-table th button { display:block; width:100%; text-align:left; padding:4px; height:auto; font-weight:700; }
+.dnd-filter-table th input { display:block; width:100%; min-width:85px; margin-top:6px; font-size:12px; }
+.dnd-filter-table [aria-sort='ascending'] button::after { content:' ↑'; }
+.dnd-filter-table [aria-sort='descending'] button::after { content:' ↓'; }
+.dnd-filter-table tr[hidden] { display:none !important; }
+.dnd-source .table-wrapper, .dnd-source .el-table { max-width:100%; overflow-x:auto; }
+@media print { .dnd-table-controls, .dnd-filter-table th input { display:none; } .dnd-filter-table th button { background:none; border:0; box-shadow:none; } }

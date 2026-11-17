@@ -1,0 +1,14 @@
+---
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Signature Spells
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Players Handbook/phb-p167-wizard.png|320]]
+
+Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a [[Short Rest|Short]] or [[Long Rest]]. To cast either spell at a higher level, you must expend a spell slot.
+
+## Handbook source
+
+[[D&D 5.5E - Player's Handbook.pdf#page=168|Player’s Handbook (2024), PDF page 168]]

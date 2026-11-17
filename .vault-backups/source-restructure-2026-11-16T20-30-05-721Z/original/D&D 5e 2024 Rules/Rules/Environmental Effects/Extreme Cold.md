@@ -1,0 +1,13 @@
+---
+tags:
+  - rule
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Extreme Cold
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+
+When the temperature is 0 degrees Fahrenheit (-17 degrees Celsius) or lower, a creature exposed to the extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 [[Exhaustion]] level. Creatures that have [[Rules/Common Terms/Resistance]] or [[Immunity]] to Cold damage automatically succeed on the save.

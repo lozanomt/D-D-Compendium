@@ -1,0 +1,21 @@
+const fs=require('fs'),assert=require('assert/strict');
+const {chromium}=require('C:/Users/lozan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const marked=require('C:/Users/lozan/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/marked');
+(async()=>{
+ const text=fs.readFileSync('Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.md','utf8');
+ const html=marked.parse(text.replace(/^---[\s\S]*?---\n/,'').replace(/\[\[([^\]]+)\]\]/g,(_,v)=>{const parts=v.replace(/\\\|/g,'|').split('|');return `<a href="#${parts[0].replace(/"/g,'&quot;')}">${parts.at(-1)}</a>`;}));
+ const browser=await chromium.launch({headless:true,channel:'msedge'}); const page=await browser.newPage();await page.setContent(html);
+ const code=fs.readFileSync('.obsidian/plugins/dnd-source-tables/main.js','utf8').replace("const { Plugin } = require('obsidian');",'class Plugin {}');
+ await page.evaluate(code=>{const module={exports:{}};eval(code);window.enhance=module.exports.enhance;window.matches=module.exports.matches;document.querySelectorAll('table').forEach(window.enhance);},code);
+ assert.equal(await page.locator('.dnd-filter-table').count(),4);
+ const table=page.locator('.dnd-filter-table').first();assert.equal(await table.locator('tbody tr').count(),501);
+ await table.locator('th input').nth(1).fill('Dragon');await table.locator('th input').nth(2).fill('<=5');await table.locator('th input').nth(3).fill('Swamp');
+ let rows=await table.locator('tbody tr:not([hidden])').allTextContents();assert(rows.length>0);assert(rows.some(r=>r.includes('Black Dragon Wyrmling')));assert(!rows.some(r=>r.includes('Adult Black Dragon')));
+ await page.locator('.dnd-table-controls button').first().click();assert.equal(await table.locator('tbody tr:not([hidden])').count(),501);
+ await table.locator('th button').nth(2).click();let cr=await table.locator('tbody tr td:nth-child(3)').allTextContents();let val=s=>s.includes('/')?Number(s.split('/')[0])/Number(s.split('/')[1]):Number(s);assert(cr.every((v,i)=>i===0||val(v)>=val(cr[i-1])));
+ await table.locator('th input').nth(2).fill('=1/2');rows=await table.locator('tbody tr:not([hidden]) td:nth-child(3)').allTextContents();assert(rows.length>0&&rows.every(r=>r.trim()==='1/2'));
+ await page.evaluate(()=>document.querySelectorAll('table').forEach(window.enhance));assert.equal(await page.locator('.dnd-table-controls').count(),4);
+ assert(await table.locator('a').count()>501);
+ const invalid=await page.locator('table').evaluateAll(ts=>ts.flatMap(t=>[...t.tBodies].flatMap(b=>[...b.rows].filter(r=>r.cells.length!==t.tHead.rows[0].cells.length))));assert.equal(invalid.length,0);
+ await browser.close();console.log('PASS: four real book tables, 501 creatures, combined filters, fractional CR sorting and comparisons, reset, preserved links, idempotence, and table structure.');
+})().catch(e=>{console.error(e);process.exit(1)});

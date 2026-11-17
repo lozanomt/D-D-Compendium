@@ -1,0 +1,11 @@
+{
+  "id": "dndbeyond-importer-custom",
+  "name": "DnD Beyond Importer — Custom",
+  "version": "0.6.4",
+  "minAppVersion": "1.12.0",
+  "description": "Theme-aware D&D Beyond player sheet with class-aware calculations, section navigation, local spell/rest tracking, and offline character caches.",
+  "author": "Jktaisa",
+  "authorUrl": "https://github.com/Webcreator3478",
+  "fundingUrl": "https://ko-fi.com/jktaisa",
+  "isDesktopOnly": false
+}

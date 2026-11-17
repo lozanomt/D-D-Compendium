@@ -1,0 +1,22 @@
+---
+tags: [rule]
+cssclasses: [dnd-book, dnd-phb]
+entity_id: 48083280-3437-5535-8459-39a91c2e3a45
+entity_type: rule
+source_ids: ["srd-5.2.1"]
+srd_5_2_1_pages: [179]
+source_versions: ["SRD 5.2.1"]
+---
+
+# Climb Speed
+
+## SRD 5.2.1
+
+> [!info]
+> ### Climb Speed
+>
+> ![[Placeholder.png|320]]
+>
+> A [[Climb Speed|Climb Speed]] can be used in place of [[Speed|Speed]] to traverse a vertical surface without expending the extra movement normally associated with climbing. See also "[[Climbing|Climbing]]" and "[[Speed|Speed]]."
+>
+> **Source:** [[SRD_CC_v5.2.1.pdf#page=179|SRD 5.2.1, p. 179]]

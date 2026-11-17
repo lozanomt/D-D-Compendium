@@ -1,0 +1,13 @@
+---
+tags:
+  - equipment
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Scimitar [[Scimitar|(25 GP)]]
+*Martial Melee*
+
+**Mastery:** [[Nick]] **Weight:** 3 lb.
+**Damage:** 1d6 Slashing
+**Properties:** [[Finesse]], [[Rules/Properties/Light]]

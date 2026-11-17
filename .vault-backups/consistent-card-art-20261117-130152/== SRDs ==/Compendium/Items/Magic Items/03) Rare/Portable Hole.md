@@ -1,0 +1,46 @@
+---
+tags:
+  - magicitem
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+entity_id: 28faa1be-1f8e-55d6-bb9c-9ddd2012474d
+entity_type: item
+source_ids: ["dmg-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [234, 235]
+source_versions: ["Dungeon Master's Guide", "SRD 5.2.1"]
+---
+
+# Portable Hole
+
+## Dungeon Master's Guide
+
+> [!info]
+> ### Portable Hole
+>
+> This source entry has not yet been transcribed. The SRD card below is separately attributed.
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Dungeon Master's Guide/D&D 5.5E - Dungeon Master's Guide.pdf|Dungeon Master's Guide]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Portable Hole
+>
+> Wondrous Item, Rare This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+>
+> You can take a [[== SRDs ==/Compendium/Rules/Actions/Magic|Magic]] action to unfold a Portable Hole and place it on or against a solid surface, whereupon the Portable Hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane of existence, so it can't be used to create open passages. Any creature inside an open Portable Hole can exit the hole by climbing out of it.
+>
+> You can take a [[== SRDs ==/Compendium/Rules/Actions/Magic|Magic]] action to close a Portable Hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
+>
+> If the hole is folded up, a creature within the hole's extradimensional space can take an action to make a DC 10 Strength (Athletics) check. On a successful check, the creature forces its way out and appears within 5 feet of the Portable Hole . A closed Portable Hole holds enough air for 1 hour of breathing, divided by the number of breathing creatures inside.
+>
+> Placing a Portable Hole inside an extradimensional space created by a Bag of Holding, Handy Haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total [[== SRDs ==/Compendium/Rules/Common Terms/Cover|Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=234|SRD 5.2.1, p. 234–235]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Dungeon Master's Guide/Chapter 7 - Treasure/Chapter 7 - Treasure|Dungeon Master's Guide — Chapter 7 - Treasure]]

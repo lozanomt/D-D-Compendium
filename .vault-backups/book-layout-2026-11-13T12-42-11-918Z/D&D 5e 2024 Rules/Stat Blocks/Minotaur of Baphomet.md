@@ -1,0 +1,70 @@
+---
+tags:
+  - creature
+infobox:
+  title: "Minotaur of Baphomet"
+  subtitle: "Large Monstrosity, Chaotic Evil"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Creature"
+    - "Type": "Large Monstrosity, Chaotic Evil"
+    - "section": "Combat statistics"
+    - "AC": "14"
+    - "Initiative": "+0 (10)"
+    - "HP": "85 (10d10 + 30)"
+    - "Speed": "40 ft."
+    - "Skills": "[[Perception]] +7, [[Survival]] +7"
+    - "Senses": "[[Darkvision]] 60 ft.; [[Passive Perception]] 17"
+    - "Languages": "Abyssal"
+    - "CR": "3 (XP 700; PB +2)"
+    - "STR": "18 (modifier +4; save +4)"
+    - "INT": "6 (modifier -2; save -2)"
+    - "DEX": "11 (modifier +0; save +0)"
+    - "WIS": "16 (modifier +3; save +3)"
+    - "CON": "16 (modifier +3; save +3)"
+    - "CHA": "9 (modifier -1; save -1)"
+    - "section": "Traits and actions"
+    - "Actions — Abyssal Glaive.": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage."
+    - "Actions — Gore (Recharge 5-6).": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the [[Prone]] condition."
+---
+
+> [!infobox|left clean wmed static]
+> # Minotaur of Baphomet
+>
+> *Large Monstrosity, Chaotic Evil*
+>
+> | |
+> | - |
+>
+> **AC** 14
+> **Initiative** +0 (10)
+> **HP** 85 (10d10 + 30)
+> **Speed** 40 ft.
+>
+> | | | MOD | SAVE | | | MOD | SAVE |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> | **STR** | 18 | +4 | +4 | **INT** | 6 | -2 | -2 |
+> | **DEX** | 11 | +0 | +0 | **WIS** | 16 | +3 | +3 |
+> | **CON** | 16 | +3 | +3 | **CHA** | 9 | -1 | -1 |
+>
+> **Skills** [[Perception]] +7, [[Survival]] +7
+> **Senses** [[Darkvision]] 60 ft.; [[Passive Perception]] 17
+> **Languages** Abyssal
+> **CR** 3 (XP 700; PB +2)
+>
+> | |
+> | - |
+>
+> **Habitat**
+> **Treasure**
+>
+> | |
+> | - |
+> ![[Infobox Blank Space.png]]
+> ![[Infobox Blank Space.png]]
+
+### Actions
+
+***Abyssal Glaive.*** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage.
+
+***Gore (Recharge 5-6).*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the [[Prone]] condition.

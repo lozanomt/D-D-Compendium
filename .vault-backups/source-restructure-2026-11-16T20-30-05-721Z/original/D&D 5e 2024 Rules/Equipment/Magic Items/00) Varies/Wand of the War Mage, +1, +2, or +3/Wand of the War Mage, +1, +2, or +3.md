@@ -1,0 +1,22 @@
+---
+tags:
+  - magicitem
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Wand of the War Mage, +1, +2, or +3 [[Wand of the War Mage, +1, +2, or +3|(Varies)]]
+*[[Wand]], Varies*
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Dungeon Masters Guide/dmg-p325-wand-of-secrets.png|320]]
+
+
+**Attunement:** By a Spellcaster
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand’s rarity. In addition, you ignore [[Half Cover]] when making a spell attack roll.
+
+| Rarity                                   | Bonus |
+| ---------------------------------------- | :---: |
+| Uncommon  |  +1   |
+| Rare      |  +2   |
+| Very Rare |  +3   |

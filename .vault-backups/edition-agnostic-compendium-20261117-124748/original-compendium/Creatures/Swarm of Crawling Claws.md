@@ -1,0 +1,84 @@
+---
+tags:
+  - creature
+cssclasses:
+  - "dnd-book"
+  - "dnd-mm"
+entity_id: e0a25ca1-0fec-5ee3-85f5-cc2847aab68e
+entity_type: creature
+source_ids: ["mm-2025", "srd-5.2.1"]
+srd_5_2_1_pages: [278]
+source_versions: ["Monster Manual", "SRD 5.2.1"]
+---
+
+# Swarm of Crawling Claws
+
+## Monster Manual
+
+> [!statblock]
+> ### Swarm of Crawling Claws
+>
+> *Medium Swarm of Tiny Undead, Neutral Evil*
+>
+> ![[== SRDs ==/Attachments/Artwork/mm-p085-swarm-of-crawling-claws.png|320]]
+>
+> **AC:** 12  
+> **Initiative:** +2 (12)  
+> **HP:** 49 (11d8)  
+> **Speed:** 30 ft., [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Climbing|Climb]] 30 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 14 | +2 | +2 | **Dex** | 14 | +2 | +2 | **Con** | 11 | +0 | +0 |
+> | **Int** | 5 | -3 | -3 | **Wis** | 10 | +0 | +0 | **Cha** | 4 | -3 | -3 |
+>
+> **Resistances:** Bludgeoning, Piercing, Slashing  
+> **Immunities:** Necrotic, Poison; [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Exhaustion|Exhaustion]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Frightened|Frightened]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Grappled|Grappled]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Incapacitated|Incapacitated]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Paralyzed|Paralyzed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Petrified|Petrified]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Poisoned|Poisoned]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Restrained|Restrained]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Stunned|Stunned]]  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Blindsight|Blindsight]] 30 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 10  
+> **Languages:** Understands Common but can't speak  
+> **CR:** 3 (XP 700; PB +2)  
+>
+> #### Traits
+>
+> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.
+>
+> #### Actions
+>
+> ***Swarm of Grasping Hands.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]] condition.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf|Monster Manual]]
+
+## SRD 5.2.1
+
+> [!statblock]
+> ### Swarm of Crawling Claws
+>
+> *Medium Swarm of Tiny Undead, Neutral Evil*
+>
+> ![[== SRDs ==/Attachments/Artwork/mm-p085-swarm-of-crawling-claws.png|320]]
+>
+> **AC:** 12  
+> **Initiative:** +2 (12)  
+> **HP:** 49 (11d8)  
+> **Speed:** 30 ft., [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Climbing|Climb]] 30 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 14 | +2 | +2 | **Dex** | 14 | +2 | +2 | **Con** | 11 | +0 | +0 |
+> | **Int** | 5 | -3 | -3 | **Wis** | 10 | +0 | +0 | **Cha** | 4 | -3 | -3 |
+>
+> **Resistances:** Bludgeoning, Piercing, Slashing  
+> **Immunities:** Necrotic, Poison; [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Exhaustion|Exhaustion]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Frightened|Frightened]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Grappled|Grappled]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Incapacitated|Incapacitated]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Paralyzed|Paralyzed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Petrified|Petrified]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Poisoned|Poisoned]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Restrained|Restrained]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Stunned|Stunned]]  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Blindsight|Blindsight]] 30 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 10  
+> **Languages:** Understands Common but can't speak  
+> **CR:** 3 (XP 700; PB +2)  
+>
+> #### Traits
+>
+> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.
+>
+> #### Actions
+>
+> ***Swarm of Grasping Hands.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]] condition.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=278|SRD 5.2.1, p. 278]]

@@ -1,0 +1,10 @@
+---
+tags:
+  - skill
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Stealth
+
+Dexterity (Stealth) allows you to escape notice by moving quietly and hiding behind things.

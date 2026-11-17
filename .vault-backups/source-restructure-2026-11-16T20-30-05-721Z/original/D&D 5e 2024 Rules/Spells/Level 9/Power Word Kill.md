@@ -1,0 +1,20 @@
+---
+tags:
+  - spell
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+  - "dnd-spell"
+---
+# Power Word Kill
+*Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V
+**Duration:** Instantaneous
+
+You compel one creature you can see within range to die. If the target has 100 [[Hit Points]] or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.

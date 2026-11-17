@@ -1,0 +1,11 @@
+---
+tags:
+  - equipment
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Bell [[Bell|(1 GP)]] 
+When rung as a [[Utilize]] action, a Bell produces a sound that can be heard up to 60 feet away.
+
+**Weight:** -

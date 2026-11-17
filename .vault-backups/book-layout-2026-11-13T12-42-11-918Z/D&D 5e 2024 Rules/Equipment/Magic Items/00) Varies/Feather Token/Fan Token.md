@@ -1,0 +1,21 @@
+---
+tags:
+  - magicitem
+infobox:
+  title: "Fan Token"
+  subtitle: "Wondrous Item, Uncommon"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Magic Items"
+    - "Type": "Wondrous Item, Uncommon"
+    - "section": "Quick reference"
+    - "Attunement": "No"
+    - "Cost / value": "200 GP"
+    - "Effect / overview": "This object looks like a feather. If you are on a boat or ship, you can take a [[Magic]] action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action."
+---
+#### Fan Token [[Fan Token|(200 GP)]]
+*Wondrous Item, Uncommon*
+
+**Attunement:** No
+
+This object looks like a feather. If you are on a boat or ship, you can take a [[Magic]] action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a strong wind. This wind can fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as a Magic action.

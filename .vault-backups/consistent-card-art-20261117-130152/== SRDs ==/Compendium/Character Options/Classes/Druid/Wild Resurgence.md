@@ -1,0 +1,42 @@
+---
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+entity_id: 901ea4b3-6aac-53ff-94cf-9e1fcd875759
+entity_type: character-option
+source_ids: ["phb-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [43]
+source_versions: ["Player's Handbook", "SRD 5.2.1"]
+---
+
+# Wild Resurgence
+
+## Player's Handbook
+
+> [!info]
+> ### Wild Resurgence
+>
+> ![[== SRDs ==/Attachments/Artwork/phb-p081-druid.png|320]]
+>
+> Once on each of your turns, if you have no uses of [[== SRDs ==/Compendium/Character Options/Classes/Druid/Wild Shape|Wild Shape]] left, you can give yourself one use by expending a spell slot (no action required). In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a [[== SRDs ==/Compendium/Rules/Common Terms/Long Rest|Long Rest]].
+>
+> #### Handbook source
+>
+> [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf#page=82|Player’s Handbook (2024), PDF page 82]]
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf|Player's Handbook]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Wild Resurgence
+>
+> Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
+>
+> In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[== SRDs ==/Compendium/Rules/Common Terms/Long Rest|Long Rest]].
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=43|SRD 5.2.1, p. 43]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Player's Handbook/Chapter 3 - Character Classes/Chapter 3 - Character Classes|Player's Handbook — Chapter 3 - Character Classes]]

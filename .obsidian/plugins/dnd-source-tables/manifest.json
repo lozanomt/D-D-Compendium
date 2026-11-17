@@ -1,0 +1,9 @@
+{
+  "id": "dnd-source-tables",
+  "name": "D&D Source Tables",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Filter and sort creature reference tables while retaining plain Markdown source.",
+  "author": "DnD Campaign",
+  "isDesktopOnly": false
+}

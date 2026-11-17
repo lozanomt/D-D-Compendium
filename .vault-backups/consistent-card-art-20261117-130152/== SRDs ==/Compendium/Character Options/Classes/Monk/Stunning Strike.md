@@ -1,0 +1,42 @@
+---
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+entity_id: 5d55ae02-2c1a-5773-be8a-1c11a5f3072b
+entity_type: character-option
+source_ids: ["phb-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [51]
+source_versions: ["Player's Handbook", "SRD 5.2.1"]
+---
+
+# Stunning Strike
+
+## Player's Handbook
+
+> [!info]
+> ### Stunning Strike
+>
+> ![[== SRDs ==/Attachments/Artwork/phb-p103-monk.png|320]]
+>
+> Once per turn when you hit a creature with a Monk weapon or an [[== SRDs ==/Compendium/Rules/Common Terms/Unarmed Strike|Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [[== SRDs ==/Compendium/Rules/Conditions/Stunned|Stunned]] condition until the start of your next turn. On a successful save, the target’s [[== SRDs ==/Compendium/Rules/Common Terms/Speed|Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[== SRDs ==/Compendium/Rules/Common Terms/Advantage|Advantage]].
+>
+> #### Handbook source
+>
+> [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf#page=104|Player’s Handbook (2024), PDF page 104]]
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf|Player's Handbook]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Stunning Strike
+>
+> Once per turn when you hit a creature with a Monk weapon or an [[== SRDs ==/Compendium/Rules/Common Terms/Unarmed Strike|Unarmed Strike]], you can expend 1
+>
+> Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [[== SRDs ==/Compendium/Rules/Conditions/Stunned|Stunned]] condition until the start of your next turn. On a successful save, the target's [[== SRDs ==/Compendium/Rules/Common Terms/Speed|Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[== SRDs ==/Compendium/Rules/Common Terms/Advantage|Advantage]].
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=51|SRD 5.2.1, p. 51]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Player's Handbook/Chapter 3 - Character Classes/Chapter 3 - Character Classes|Player's Handbook — Chapter 3 - Character Classes]]

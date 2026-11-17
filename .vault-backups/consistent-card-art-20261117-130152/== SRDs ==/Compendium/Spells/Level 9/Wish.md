@@ -1,0 +1,97 @@
+---
+tags:
+  - spell
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+  - "dnd-spell"
+entity_id: 25d8bdbe-8bfd-5c5a-b07f-4a432b08447c
+entity_type: spell
+source_ids: ["phb-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [175]
+source_versions: ["Player's Handbook", "SRD 5.2.1"]
+---
+
+# Wish
+
+## Player's Handbook
+
+> [!info]
+> ### Wish
+> *Level 9 Conjuration (Sorcerer, Wizard)*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **Casting Time:** Action  
+> **Range:** Self  
+> **Components:** V  
+> **Duration:** Instantaneous  
+>
+> *Wish* is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
+>
+> The basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don't need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.
+>
+> Alternatively, you can create one of the following effects of your choice:
+>
+> - **Object Creation.** You create one object of up to 25,000 GP in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
+> - **Instant Health.** You allow yourself and up to twenty creatures that you can see to regain all [[== SRDs ==/Compendium/Rules/Common Terms/Hit Points|Hit Points]], and you end all effects on them listed in the *[[== SRDs ==/Compendium/Spells/Level 5/Greater Restoration|Greater Restoration]]* spell.
+> - **Resistance.** You grant up to ten creatures that you can see [[== SRDs ==/Compendium/Rules/Common Terms/Resistance|Resistance]] to one damage type that you choose. This Resistance is permanent.
+> - **Spell Immunity.** You grant up to ten creatures you can see [[== SRDs ==/Compendium/Rules/Common Terms/Immunity|Immunity]] to a single spell or other magical effect for 8 hours.
+> - **Sudden Learning.** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can't replace a feat that is a prerequisite for any of your other feats or features.
+> - **Roll Redo.** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *Wish* spell could undo an ally's failed saving throw or a foe's [[== SRDs ==/Compendium/Rules/Common Terms/Critical Hit|Critical Hit]]. You can force the reroll to be made with [[== SRDs ==/Compendium/Rules/Common Terms/Advantage|Advantage]] or [[== SRDs ==/Compendium/Rules/Common Terms/Disadvantage|Disadvantage]], and you choose whether to use the reroll or the original roll.
+> - **Reshape Reality.** You may wish for something not included in any of the other effects. To do so, state your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish would undo the multiverse itself, threaten Sigil or affect the Lady of Pain in any way, you see an image of her in your mind for a moment; she shakes her head, and your wish fails.
+>
+> The stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [[== SRDs ==/Compendium/Rules/Common Terms/Long Rest|Long Rest]], you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf|Player's Handbook]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Wish
+>
+> *Level 9 Conjuration (Sorcerer, Wizard)*
+>
+> **Casting Time:** [[== SRDs ==/Compendium/Rules/Common Terms/Action|Action]]  
+>
+> **Range:** Self  
+>
+> **Components:** V  
+>
+> **Duration:** Instantaneous  
+>
+> [[== SRDs ==/Compendium/Spells/Level 9/Wish|Wish]] is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
+>
+> The basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don't need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.
+>
+> Alternatively, you can create one of the following effects of your choice:
+>
+> [[== SRDs ==/Compendium/Rules/Common Terms/Object|Object]] [[== SRDs ==/Compendium/Spells/Level 5/Creation|Creation]].  You create one object of up to 25,000 GP in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
+>
+> Instant Health.  You allow yourself and up to twenty creatures that you can see to regain all [[== SRDs ==/Compendium/Rules/Common Terms/Hit Points|Hit Points]], and you end all effects on them listed in the [[== SRDs ==/Compendium/Spells/Level 5/Greater Restoration|Greater Restoration]]  spell.
+>
+> Resistance.  You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.
+>
+> [[== SRDs ==/Compendium/Rules/Common Terms/Spell|Spell]] [[== SRDs ==/Compendium/Rules/Common Terms/Immunity|Immunity]]. You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
+>
+> Sudden Learning. You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can't replace a feat that is a prerequisite for any of your other feats or features.
+>
+> Roll Redo. You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a [[== SRDs ==/Compendium/Spells/Level 9/Wish|Wish]] spell could undo an ally's failed saving throw or a foe's [[== SRDs ==/Compendium/Rules/Common Terms/Critical Hit|Critical Hit]]. You can force the reroll to be made with [[== SRDs ==/Compendium/Rules/Common Terms/Advantage|Advantage]] or [[== SRDs ==/Compendium/Rules/Common Terms/Disadvantage|Disadvantage]], and you choose whether to use the reroll or the original roll.
+>
+> Reshape Reality. You may wish for something not included in any of the other effects. To do so, state your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game.
+>
+> Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god's divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, your wish fails.
+>
+> The stress of casting [[== SRDs ==/Compendium/Spells/Level 9/Wish|Wish]] to produce any effect other than duplicating another spell weakens you.
+>
+> After enduring that stress, each time you cast a spell until you finish a [[== SRDs ==/Compendium/Rules/Common Terms/Long Rest|Long Rest]], you take 1d10
+>
+> Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days.
+>
+> For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast [[== SRDs ==/Compendium/Spells/Level 9/Wish|Wish]] ever again if you suffer this stress.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=175|SRD 5.2.1, p. 175]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Player's Handbook/Chapter 7 - Spells/Chapter 7 - Spells|Player's Handbook — Chapter 7 - Spells]]

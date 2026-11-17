@@ -1,0 +1,23 @@
+---
+tags:
+  - equipment
+infobox:
+  title: "Light Hammer"
+  subtitle: "Simple Melee"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Weapons"
+    - "Type": "Simple Melee"
+    - "section": "Quick reference"
+    - "Mastery": "[[Nick]]"
+    - "Weight": "2 lb."
+    - "Damage": "1d4 Bludgeoning"
+    - "Properties": "[[Rules/Properties/Light|Light]], [[Thrown]] (Range 20/60)"
+    - "Cost / value": "2 GP"
+---
+#### Light Hammer [[Light Hammer|(2 GP)]]
+*Simple Melee*
+
+**Mastery:** [[Nick]] **Weight:** 2 lb.
+**Damage:** 1d4 Bludgeoning
+**Properties:** [[Rules/Properties/Light|Light]], [[Thrown]] (Range 20/60)

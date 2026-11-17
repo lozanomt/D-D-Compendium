@@ -1,0 +1,82 @@
+---
+tags:
+  - creature
+cssclasses:
+  - "dnd-book"
+  - "dnd-mm"
+entity_id: dd8dce87-87d0-54bd-bee8-f2a3196bd444
+entity_type: creature
+source_ids: ["mm-2025", "srd-5.2.1"]
+srd_5_2_1_pages: [352]
+source_versions: ["Monster Manual", "SRD 5.2.1"]
+---
+
+# Giant Hyena
+
+## Monster Manual
+
+> [!statblock]
+> ### Giant Hyena
+>
+> *Large Beast, Unaligned*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **AC:** 12  
+> **Initiative:** +2 (12)  
+> **HP:** 45 (6d10 + 12)  
+> **Speed:** 50 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 16 | +3 | +3 | **Dex** | 14 | +2 | +2 | **Con** | 14 | +2 | +2 |
+> | **Int** | 2 | -4 | -4 | **Wis** | 12 | +1 | +1 | **Cha** | 7 | -2 | -2 |
+>
+> **Skills:** [[== SRDs ==/Compendium/5.5e/Rules/Skills/Perception|Perception]] +3  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Darkvision|Darkvision]] 60 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 13  
+> **Languages:** None  
+> **CR:** 1 (XP 200; PB +2)  
+>
+> #### Actions
+>
+> ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage.
+>
+> #### Bonus Actions
+>
+> ***Rampage (1/Day).*** Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf|Monster Manual]]
+
+## SRD 5.2.1
+
+> [!statblock]
+> ### Giant Hyena
+>
+> *Large Beast, Unaligned*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **AC:** 12  
+> **Initiative:** +2 (12)  
+> **HP:** 45 (6d10 + 12)  
+> **Speed:** 50 ft.  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 16 | +3 | +3 | **Dex** | 14 | +2 | +2 | **Con** | 14 | +2 | +2 |
+> | **Int** | 2 | -4 | -4 | **Wis** | 12 | +1 | +1 | **Cha** | 7 | -2 | -2 |
+>
+> **Skills:** [[== SRDs ==/Compendium/5.5e/Rules/Skills/Perception|Perception]] +3  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Darkvision|Darkvision]] 60 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 13  
+> **Languages:** None  
+> **CR:** 1 (XP 200; PB +2)  
+>
+> #### Actions
+>
+> ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage.
+>
+> #### Bonus Actions
+>
+> ***Rampage (1/Day).*** Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=352|SRD 5.2.1, p. 352]]

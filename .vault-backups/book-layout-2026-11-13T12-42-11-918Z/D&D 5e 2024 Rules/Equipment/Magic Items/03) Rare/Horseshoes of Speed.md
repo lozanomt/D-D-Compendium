@@ -1,0 +1,23 @@
+---
+tags:
+  - magicitem
+infobox:
+  title: "Horseshoes of Speed"
+  subtitle: "Wondrous Item, Rare"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Magic Items"
+    - "Type": "Wondrous Item, Rare"
+    - "section": "Quick reference"
+    - "Attunement": "No"
+    - "Cost / value": "4,000 GP"
+    - "Effect / overview": "These horseshoes come in a set of four. As a [[Magic]] action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a Magic action. While all four horseshoes are attached to the same creature, its [[Speed]] is increased by 30 feet."
+---
+#### Horseshoes of Speed [[Horseshoes of Speed|(4,000 GP)]]
+*Wondrous Item, Rare*
+
+**Attunement:** No
+
+These horseshoes come in a set of four. As a [[Magic]] action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a Magic action.
+
+While all four horseshoes are attached to the same creature, its [[Speed]] is increased by 30 feet.

@@ -1,0 +1,11 @@
+{
+  "autoOpenOnSend": true,
+  "savedWindowX": 70,
+  "savedWindowY": 64,
+  "savedWindowWidth": 1018,
+  "savedWindowHeight": 872,
+  "fogMaskFolder": "ZoomMap/PlayerScreen/Fog",
+  "fogMaskFiles": {
+    "image:D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png": "ZoomMap/PlayerScreen/Fog/image-D-D 5e 2024 Rules-z. Load Bearing Folders-Attachments-Placeholder.png.png"
+  }
+}

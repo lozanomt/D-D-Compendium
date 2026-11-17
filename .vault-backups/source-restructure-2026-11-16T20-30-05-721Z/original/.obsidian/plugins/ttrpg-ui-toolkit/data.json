@@ -1,0 +1,23 @@
+{
+  "statePath": ".ttrpg-ui-toolkit-state.json",
+  "selectedTheme": "forest",
+  "colorBgPrimary": "#1a2420",
+  "colorBgSecondary": "#223028",
+  "colorBgTertiary": "#2a3a30",
+  "colorBgHover": "#263428",
+  "colorBgDarker": "#1e2a24",
+  "colorBgGroup": "#203028",
+  "colorBgProficient": "#243028",
+  "colorTextPrimary": "#c8dcd0",
+  "colorTextSecondary": "#82a892",
+  "colorTextSublabel": "#78a088",
+  "colorTextBright": "#e0f0e8",
+  "colorTextMuted": "#98b8a4",
+  "colorTextGroup": "#6ec490",
+  "colorBorderPrimary": "#2e4438",
+  "colorBorderActive": "#4a8a66",
+  "colorBorderFocus": "rgba(74, 138, 102, 0.5)",
+  "colorAccentTeal": "#4cd8a0",
+  "colorAccentRed": "#e07060",
+  "colorAccentPurple": "#a08cd0"
+}

@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "21aba3099a900273",
+    "type": "split",
+    "children": [
+      {
+        "id": "572809195f9763b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3d114af4928cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Creatures/Aboleth.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aboleth"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb73d3651c08ec17",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db67698d603b871",
+        "type": "tabs",
+        "dimension": 67.86961583236321,
+        "children": [
+          {
+            "id": "9e7a66c04f3f53f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d5c54868d1f9bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d18b47ab48d10e19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2fd2c75ee31ec09",
+        "type": "tabs",
+        "dimension": 32.130384167636784,
+        "children": [
+          {
+            "id": "3a9e46a802c2bf69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "d258f72e80fd7a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f70ffe5f0f9415b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0083e0f16faf843",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "יִדְרֹשׁ־אֵל (YiḏrōšʾĒl)"
+            }
+          },
+          {
+            "id": "c4e3710547d69c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab0d354fe893e4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e71a9ffedc36cfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec26f6e44a08ed59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3242c24b21fb8d85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 534.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dndbeyond-importer-custom:Custom: Open Dice Roller": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "bases:Create new base": true,
+      "templates:Insert template": true,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "dndbeyond-importer-custom:Custom: Import D&D Beyond character": false,
+      "daily-notes:Open today's daily note": true
+    }
+  },
+  "floating": {
+    "id": "55fb97b885fabb69",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe49b7753e6e754a",
+        "type": "window",
+        "children": [
+          {
+            "id": "73ba3ebd223eb7a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "619c3a2c593e3525",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "יִדְרֹשׁ־אֵל (YiḏrōšʾĒl)"
+                }
+              },
+              {
+                "id": "3de280b3de24ac1c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "D&D 5.5E - Monster Manual"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 78,
+        "y": 560,
+        "width": 1002,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8b3d114af4928cc7",
+  "lastOpenFiles": [
+    "Sources/5.5e/Player's Handbook/Chapter 1 - Playing the Game/Chapter 1 - Playing the Game.md",
+    "Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf",
+    "Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.md",
+    "== SRDs ==/Sources/Sources.md",
+    "Compendium/Compendium.md",
+    "== SRDs ==/Sources",
+    "== SRDs ==",
+    "Compendium/Creatures/Adult Black Dragon.md",
+    "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+    "Sources/5.5e/Player's Handbook/Appendix A - The Multiverse/Appendix A - The Multiverse.md",
+    "Sources/5.5e/Player's Handbook/Chapter 5 - Feats/Chapter 5 - Feats.md",
+    "Vault Guide.md",
+    "Untitled",
+    "Sources/5.5e/System Reference Document/Tables/srd-p005-table-1.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/System Reference Document.md",
+    "Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf",
+    "Sources/5.5e/System Reference Document/01 - Playing the Game/Playing the Game.md",
+    "Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf",
+    "== SRDs ==/Sources/5.5e/Player's Handbook/Player's Handbook.md",
+    "Attachments/Artwork/phb-p345-multiverse.png",
+    "Sources/5.5e/Player's Handbook/Appendix C - Rules Glossary/Appendix C - Rules Glossary.md",
+    "Sources/5.5e/Player's Handbook/Appendix B - Creature Stat Blocks/Appendix B - Creature Stat Blocks.md",
+    "Compendium/Lore/Abyss.md",
+    "Sources/5.5e/Dungeon Master's Guide/Chapter 7 - Treasure/Chapter 7 - Treasure.md",
+    "Sources/5.5e/Dungeon Master's Guide/Chapter 8 - Bastions/Chapter 8 - Bastions.md",
+    "Sources/5.5e/Dungeon Master's Guide/Appendix A - Lore Glossary/Appendix A - Lore Glossary.md",
+    "== SRDs ==/Sources/5.5e/Monster Manual/Monster Manual.md",
+    "== SRDs ==/Sources/5.5e/Dungeon Master's Guide/Dungeon Master’s Guide (2024).md",
+    "== SRDs ==/Sources/5.5e/Dungeon Master's Guide/Dungeon Master's Guide - Contents.md",
+    "== SRDs ==/Sources/5.5e/Dungeon Master's Guide/Dungeon Master's Guide.md",
+    "Audits/Card-Formatting.md",
+    "Audits/Inline-SRD-Tables.md",
+    "Sources/5.5e/System Reference Document/Tables/srd-p026-table-1-inline-1.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p019-table-2-inline-1.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p207-table-1-inline-2.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p204-table-1-inline-1.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p021-table-1-inline-2.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p204-table-1-inline-2.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p207-table-1-inline-1.png",
+    "Sources/5.5e/System Reference Document/Tables/srd-p021-table-1-inline-1.png",
+    "Sources/5.5e/System Reference Document/08 - Rules Glossary/Rules Glossary.md",
+    "Compendium/Spells/PHB References",
+    "Compendium/Spells/Level 9",
+    "Compendium/Spells/Level 8",
+    "Compendium/Spells/Level 7"
+  ]
+}

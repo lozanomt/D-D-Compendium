@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "chassis_callouts",
+    "TabsInObsidian"
+  ],
+  "accentColor": "#958bac",
+  "theme": "obsidian"
+}

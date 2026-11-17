@@ -1,0 +1,88 @@
+---
+tags:
+  - creature
+cssclasses:
+  - "dnd-book"
+  - "dnd-mm"
+entity_id: f78df83a-9749-5313-b1a3-67f9fa4aa857
+entity_type: creature
+source_ids: ["mm-2025", "srd-5.2.1"]
+srd_5_2_1_pages: [361]
+source_versions: ["Monster Manual", "SRD 5.2.1"]
+---
+
+# Swarm of Insects
+
+## Monster Manual
+
+> [!statblock]
+> ### Swarm of Insects
+>
+> *Medium Swarm of Tiny Beasts, Unaligned*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **AC:** 11  
+> **Initiative:** +1 (11)  
+> **HP:** 19 (3d8 + 6)  
+> **Speed:** 20 ft., [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Climbing|Climb]] or [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Flying|Fly]] 20 ft. (GM's choice)  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 3 | -4 | -4 | **Dex** | 13 | +1 | +1 | **Con** | 14 | +2 | +2 |
+> | **Int** | 1 | -5 | -5 | **Wis** | 7 | -2 | -2 | **Cha** | 1 | -5 | -5 |
+>
+> **Resistances:** Bludgeoning, Piercing, Slashing  
+> **Immunities:** [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Frightened|Frightened]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Grappled|Grappled]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Paralyzed|Paralyzed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Petrified|Petrified]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Restrained|Restrained]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Stunned|Stunned]]  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Blindsight|Blindsight]] 30 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 8  
+> **Languages:** None  
+> **CR:** 1/2 (XP 100; PB +2)  
+>
+> #### Traits
+>
+> ***Spider Climb.*** If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+>
+> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
+>
+> #### Actions
+>
+> ***Bites.*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf|Monster Manual]]
+
+## SRD 5.2.1
+
+> [!statblock]
+> ### Swarm of Insects
+>
+> *Medium Swarm of Tiny Beasts, Unaligned*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **AC:** 11  
+> **Initiative:** +1 (11)  
+> **HP:** 19 (3d8 + 6)  
+> **Speed:** 20 ft., [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Climbing|Climb]] or [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Flying|Fly]] 20 ft. (GM's choice)  
+>
+> | | | MOD | SAVE | | | MOD | SAVE | | | MOD | SAVE |
+> |:--|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|
+> | **Str** | 3 | -4 | -4 | **Dex** | 13 | +1 | +1 | **Con** | 14 | +2 | +2 |
+> | **Int** | 1 | -5 | -5 | **Wis** | 7 | -2 | -2 | **Cha** | 1 | -5 | -5 |
+>
+> **Resistances:** Bludgeoning, Piercing, Slashing  
+> **Immunities:** [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Charmed|Charmed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Frightened|Frightened]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Grappled|Grappled]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Paralyzed|Paralyzed]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Petrified|Petrified]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Prone|Prone]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Restrained|Restrained]], [[== SRDs ==/Compendium/5.5e/Rules/Conditions/Stunned|Stunned]]  
+> **Senses:** [[== SRDs ==/Compendium/5.5e/Rules/Senses/Blindsight|Blindsight]] 30 ft.; [[== SRDs ==/Compendium/5.5e/Rules/Common Terms/Passive Perception|Passive Perception]] 8  
+> **Languages:** None  
+> **CR:** 1/2 (XP 100; PB +2)  
+>
+> #### Traits
+>
+> ***Spider Climb.*** If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+>
+> ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
+>
+> #### Actions
+>
+> ***Bites.*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=361|SRD 5.2.1, p. 361]]

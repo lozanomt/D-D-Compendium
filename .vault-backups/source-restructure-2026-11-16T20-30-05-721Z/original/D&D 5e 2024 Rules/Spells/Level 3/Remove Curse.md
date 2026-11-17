@@ -1,0 +1,20 @@
+---
+tags:
+  - spell
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+  - "dnd-spell"
+---
+# Remove Curse
+*Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+
+**Casting Time:** Action
+**Range:** Touch
+**Components:** V, S
+**Duration:** Instantaneous
+
+At your touch, all [[curses]] affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's [[Attunement]] to the object so it can be removed or discarded.

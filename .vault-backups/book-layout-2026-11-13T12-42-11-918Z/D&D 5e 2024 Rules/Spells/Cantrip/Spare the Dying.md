@@ -1,0 +1,33 @@
+---
+tags:
+  - spell
+infobox:
+  title: "Spare the Dying"
+  subtitle: "Necromancy Cantrip (Artificer, Cleric, Druid)"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Spell"
+    - "Level": "Cantrip"
+    - "School": "Necromancy"
+    - "Classes": "Artificer, Cleric, Druid"
+    - "section": "Quick reference"
+    - "Casting Time": "Action"
+    - "Range": "15 feet"
+    - "Components": "V, S"
+    - "Duration": "Instantaneous"
+    - "Effect / overview": "Choose a creature within range that has 0 Hit Points and isn't [[Dead|dead]]. The creature becomes [[Stable]]."
+    - "section": "Features and benefits"
+    - "Cantrip Upgrade.": "The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet)."
+    - "Concentration": "Not required by the recorded duration."
+---
+#### Spare the Dying
+*Necromancy Cantrip (Artificer, Cleric, Druid)*
+
+**Casting Time:** Action
+**Range:** 15 feet
+**Components:** V, S
+**Duration:** Instantaneous
+
+Choose a creature within range that has 0 Hit Points and isn't [[Dead|dead]]. The creature becomes [[Stable]].
+
+***Cantrip Upgrade.*** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).

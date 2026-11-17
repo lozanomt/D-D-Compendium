@@ -1,0 +1,10 @@
+---
+tags:
+  - skill
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Medicine
+
+Wisdom (Medicine) allows you to diagnose an illness, or determine what killed the recently slain.

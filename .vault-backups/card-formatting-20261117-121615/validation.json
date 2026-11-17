@@ -1,0 +1,12 @@
+{
+  "statistics": {
+    "source_lines_removed": 4082,
+    "field_rows": 9799,
+    "joined_field_lines_split": 887,
+    "cards": 3270
+  },
+  "files": 62,
+  "errors": [],
+  "text_preservation": "All non-citation text unchanged after removing formatting",
+  "ability_tables": "All original rows unchanged"
+}

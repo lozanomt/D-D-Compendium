@@ -1,0 +1,159 @@
+{
+  "style": "Watercolor underpainting and textured oil brushwork",
+  "aspect_ratio": "1:1",
+  "canvas": [
+    1254,
+    1254
+  ],
+  "fade": "Bottom only",
+  "installed": [
+    {
+      "name": "Aboleth",
+      "note": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Aboleth.md",
+      "file": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/GeneratedArtwork/Creatures/aboleth.png",
+      "sourceReference": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Monster Manual/mm-p013-aboleth.png",
+      "sha256": "f5ff3b51dc5283901c94414190307e84dcb7cdba437376ae90af053d9e58279b",
+      "verified": {
+        "square": true,
+        "validPNG": true,
+        "rgba": true,
+        "alphaFadesTowardBottom": true
+      }
+    },
+    {
+      "name": "Ancient Gold Dragon",
+      "category": "Stat Blocks",
+      "note": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Gold Dragon.md",
+      "notes": [
+        "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Ancient Gold Dragon.md"
+      ],
+      "file": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/GeneratedArtwork/Creatures/ancient-gold-dragon.png",
+      "sourceReference": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Monster Manual/mm-p149-ancient-gold-dragon.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "099d35f2fc03be79cf6454b9a37285255f4adf8215e5ba7b90c1ba80d1c72c82",
+      "verified": {
+        "square": true,
+        "validPNG": true,
+        "rgba": true,
+        "sourceAlpha": {
+          "file": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Load Bearing Folders\\Attachments\\GeneratedArtwork\\Creatures\\ancient-gold-dragon.png",
+          "width": 1254,
+          "height": 1254,
+          "mode": "RGBA",
+          "square": true,
+          "top_alpha": 245.91,
+          "bottom_alpha": 133.93,
+          "valid": true
+        },
+        "bottomFadeEnforcedByCSS": true
+      }
+    },
+    {
+      "name": "Bag of Holding",
+      "category": "Equipment",
+      "note": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\02) Uncommon\\Bag of Holding.md",
+      "notes": [
+        "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Equipment\\Magic Items\\02) Uncommon\\Bag of Holding.md"
+      ],
+      "file": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/GeneratedArtwork/Items/bag-of-holding.png",
+      "sourceReference": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Dungeon Masters Guide/dmg-p238-bag-of-tricks.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "5df83c32389d674136359366641de7e3e5ac61ba3dc825ae55cbe79acfe9b009",
+      "verified": {
+        "square": true,
+        "validPNG": true,
+        "rgba": true,
+        "sourceAlpha": {
+          "file": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Load Bearing Folders\\Attachments\\GeneratedArtwork\\Items\\bag-of-holding.png",
+          "width": 1254,
+          "height": 1254,
+          "mode": "RGBA",
+          "square": true,
+          "top_alpha": 246.63,
+          "bottom_alpha": 123.36,
+          "valid": true
+        },
+        "bottomFadeEnforcedByCSS": true
+      }
+    },
+    {
+      "name": "Adult Bronze Dragon",
+      "category": "Stat Blocks",
+      "note": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Bronze Dragon.md",
+      "notes": [
+        "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Bronze Dragon.md"
+      ],
+      "file": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/GeneratedArtwork/Creatures/adult-bronze-dragon.png",
+      "sourceReference": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Monster Manual/mm-p061-adult-bronze-dragon.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "eee4ff2446a5e602ce826b98036e09840202eb1170ca288c8f2d934d87bf82e1",
+      "verified": {
+        "square": true,
+        "validPNG": true,
+        "rgba": true,
+        "sourceAlpha": {
+          "file": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Load Bearing Folders\\Attachments\\GeneratedArtwork\\Creatures\\adult-bronze-dragon.png",
+          "width": 1254,
+          "height": 1254,
+          "mode": "RGBA",
+          "square": true,
+          "top_alpha": 246.54,
+          "bottom_alpha": 65,
+          "valid": true
+        },
+        "bottomFadeEnforcedByCSS": true
+      }
+    },
+    {
+      "name": "Adult Copper Dragon",
+      "category": "Stat Blocks",
+      "note": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Copper Dragon.md",
+      "notes": [
+        "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\Stat Blocks\\Adult Copper Dragon.md"
+      ],
+      "file": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/GeneratedArtwork/Creatures/adult-copper-dragon.png",
+      "sourceReference": "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Artwork/Monster Manual/mm-p081-adult-copper-dragon.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "183a67e321814c96b0003c402de96256dca214a0502207f6e469a703c12f94bc",
+      "verified": {
+        "square": true,
+        "validPNG": true,
+        "rgba": true,
+        "sourceAlpha": {
+          "file": "C:\\_Projects\\DnD Campaigns\\D&D 5e 2024 Rules\\z. Load Bearing Folders\\Attachments\\GeneratedArtwork\\Creatures\\adult-copper-dragon.png",
+          "width": 1254,
+          "height": 1254,
+          "mode": "RGBA",
+          "square": true,
+          "top_alpha": 247.8,
+          "bottom_alpha": 1.21,
+          "valid": true
+        },
+        "bottomFadeEnforcedByCSS": true
+      }
+    }
+  ],
+  "sourceEntryCount": 829,
+  "sourceImageCount": 507,
+  "status": "in_progress",
+  "pendingDownload": [
+    "Adult Black Dragon",
+    "Adult Blue Dragon",
+    "Adult Brass Dragon"
+  ],
+  "blocker": "Browser original PNG exports timed out; the current conversation then failed to load. Three paintings generated, awaiting complete original PNG retrieval. Partial transfer files are kept outside installed artwork.",
+  "queueSubjects": 1557,
+  "eligibleEntries": 1727
+}

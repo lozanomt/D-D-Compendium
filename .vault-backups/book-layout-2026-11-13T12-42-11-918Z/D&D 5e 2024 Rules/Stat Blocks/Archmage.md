@@ -1,0 +1,108 @@
+---
+tags:
+  - creature
+infobox:
+  title: "Archmage"
+  subtitle: "Medium or Small Humanoid (Wizard), Neutral"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Creature"
+    - "Type": "Medium or Small Humanoid (Wizard), Neutral"
+    - "section": "Combat statistics"
+    - "AC": "17"
+    - "Initiative": "+7 (17)"
+    - "HP": "170 (31d8 + 31)"
+    - "Speed": "30 ft."
+    - "Skills": "[[Arcana]] +13, [[History]] +9, [[Perception]] +6"
+    - "Immunities": "Psychic; [[Charmed]] (with *Mind Blank*)"
+    - "Gear": "Wand"
+    - "Senses": "[[Passive Perception]] 16"
+    - "Languages": "Common plus five other languages"
+    - "CR": "12 (XP 8,000; PB +4)"
+    - "STR": "10 (modifier +0; save +0)"
+    - "INT": "20 (modifier +5; save +9)"
+    - "DEX": "14 (modifier +2; save +2)"
+    - "WIS": "15 (modifier +2; save +6)"
+    - "CON": "12 (modifier +1; save +1)"
+    - "CHA": "16 (modifier +3; save +3)"
+    - "section": "Traits and actions"
+    - "Magic Resistance.": "The archmage has Advantage on saving throws against spells and other magical effects."
+    - "Actions — Multiattack.": "The archmage makes four Arcane Burst attacks."
+    - "Actions — Arcane Burst.": "*Melee or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. *Hit:* 27 (4d10 + 5) Force damage."
+    - "Actions — Spellcasting.": "The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17): - At Will: *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor* (included in AC), *Mage Hand*, *Prestidigitation* - 2/Day Each: *Fly*, *Lightning Bolt* (level 7 version) - 1/Day Each: *Cone of Cold* (level 9 version), *Mind Blank* (cast before combat), *Scrying*, *Teleport*"
+    - "Bonus Actions — Misty Step (3/Day).": "The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting."
+    - "Reactions — Protective Magic (3/Day).": "The archmage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+---
+
+> [!infobox|left clean wmed static]
+> # Archmage
+>
+> *Medium or Small Humanoid (Wizard), Neutral*
+>
+> | |
+> | - |
+>
+> **AC** 17
+> **Initiative** +7 (17)
+> **HP** 170 (31d8 + 31)
+> **Speed** 30 ft.
+>
+> | | | MOD | SAVE | | | MOD | SAVE |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> | **STR** | 10 | +0 | +0 | **INT** | 20 | +5 | +9 |
+> | **DEX** | 14 | +2 | +2 | **WIS** | 15 | +2 | +6 |
+> | **CON** | 12 | +1 | +1 | **CHA** | 16 | +3 | +3 |
+>
+> **Skills** [[Arcana]] +13, [[History]] +9, [[Perception]] +6
+> **Immunities** Psychic; [[Charmed]] (with *Mind Blank*)
+> **Gear** Wand
+> **Senses** [[Passive Perception]] 16
+> **Languages** Common plus five other languages
+> **CR** 12 (XP 8,000; PB +4)
+>
+> | |
+> | - |
+>
+> **Habitat**
+> **Treasure**
+>
+> | |
+> | - |
+> ![[Infobox Blank Space.png]]
+> ![[Infobox Blank Space.png]]
+
+### Traits
+
+***Magic Resistance.*** The archmage has Advantage on saving throws against spells and other magical effects.
+
+### Actions
+
+***Multiattack.*** The archmage makes four Arcane Burst attacks.
+
+***Arcane Burst.*** *Melee or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. *Hit:* 27 (4d10 + 5) Force damage.
+
+***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+
+- **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor* (included in AC), *Mage Hand*, *Prestidigitation*
+- **2/Day Each:** *Fly*, *Lightning Bolt* (level 7 version)
+- **1/Day Each:** *Cone of Cold* (level 9 version), *Mind Blank*  (cast before combat), *Scrying*, *Teleport*
+
+### Bonus Actions
+
+***Misty Step (3/Day).*** The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting.
+
+> [!checks|no-title]
+> -
+>  - [ ] %% %%
+>  - [ ] %% %%
+>  - [ ] %% %%
+
+### Reactions
+
+***Protective Magic (3/Day).*** The archmage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+> [!checks|no-title]
+> -
+>  - [ ] %% %%
+>  - [ ] %% %%
+>  - [ ] %% %%
+

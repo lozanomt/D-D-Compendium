@@ -1,0 +1,37 @@
+---
+cssclasses: [dnd-book, dnd-phb]
+source_id: srd-5.2.1
+source_pages: [87, 89]
+---
+
+# Feats
+
+Source: [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=87|SRD 5.2.1, p. 87]].
+
+### Feat Descriptions
+
+The feats that follow are organized by category— Origin, General, Fighting Style, or Epic Boon—and alphabetized in each category.
+
+#### Parts of a Feat
+
+The description of a feat contains the following parts, which are presented after the feat's name.
+
+Category.  A feat is a member of a category, which is noted in the feat. If you're instructed to choose a feat from a specific category, such as the Origin category, that category must appear under the feat's name. If you're instructed to choose a feat and no category is specified, you can choose from any category.
+
+Prerequisite.  To take a feat, you must meet any prerequisite in its description unless a feature allows you to take the feat without the prerequisite.
+
+If a prerequisite includes a class, you must have at least 1 level in that class to take the feat.
+
+Benefit. The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.
+
+Repeatable. A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
+
+## Tables and Boxed Reference Material
+
+These extracts preserve the PDF’s table layout alongside the text above.
+
+### Page 89 — srd-p089-table-1.png
+
+![[== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p089-table-1.png]]
+
+[[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=89|Open source page 89]]

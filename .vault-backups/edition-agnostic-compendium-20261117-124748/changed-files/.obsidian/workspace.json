@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "21aba3099a900273",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a011da2a9923d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399ed97088c63c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "== SRDs ==/Compendium/5.5e/Creatures/Adult Black Dragon.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adult Black Dragon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb73d3651c08ec17",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db67698d603b871",
+        "type": "tabs",
+        "dimension": 67.86961583236321,
+        "children": [
+          {
+            "id": "9e7a66c04f3f53f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d5c54868d1f9bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d18b47ab48d10e19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2fd2c75ee31ec09",
+        "type": "tabs",
+        "dimension": 32.130384167636784,
+        "children": [
+          {
+            "id": "3a9e46a802c2bf69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "d258f72e80fd7a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f70ffe5f0f9415b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0083e0f16faf843",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "יִדְרֹשׁ־אֵל (YiḏrōšʾĒl)"
+            }
+          },
+          {
+            "id": "c4e3710547d69c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab0d354fe893e4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e71a9ffedc36cfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec26f6e44a08ed59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3242c24b21fb8d85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 534.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dndbeyond-importer-custom:Custom: Open Dice Roller": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "bases:Create new base": true,
+      "templates:Insert template": true,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "dndbeyond-importer-custom:Custom: Import D&D Beyond character": false,
+      "daily-notes:Open today's daily note": true
+    }
+  },
+  "active": "9e7a66c04f3f53f3",
+  "lastOpenFiles": [
+    "== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf",
+    "== SRDs ==/Compendium/5.5e/Creatures/Adult Black Dragon.md",
+    "== SRDs ==/Sources/5.5e/Monster Manual/D&D 5.5E - Monster Manual.pdf",
+    "== SRDs ==/Compendium/5.5e/Creatures/Aboleth.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Adult Brass Dragon.md",
+    "== SRDs ==/Audits/Catalogue-Removal.md",
+    "Homebrew/Player Characters/יִדְרֹשׁ־אֵל (YiḏrōšʾĒl).md",
+    "== SRDs ==/Compendium/5.5e/Rules/Conditions/Blinded.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/09 - Gameplay Toolbox/Gameplay Toolbox.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/10 - Magic Items/Magic Items.md",
+    "== SRDs ==/Compendium/5.5e/Items/Magic Items/05) Legendary/Apparatus of the Crab.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/11 - Monsters/Monsters.md",
+    "== SRDs ==/Audits/Source-Review.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/12 - Monsters A-Z/Monsters A-Z.md",
+    "== SRDs ==/Audits/Card-Formatting.md",
+    "== SRDs ==/Sources/5.5e/Monster Manual/Appendix B - Monster Lists/Appendix B - Monsters.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/13 - Animals/Animals.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Blue Dragon Wyrmling.md",
+    "== SRDs ==/Compendium/5.5e/Character Options/Feats/01) Origin Feats/Alert.md",
+    "== SRDs ==/Compendium/5.5e/Character Options/Backgrounds/Criminal.md",
+    "== SRDs ==/Compendium/5.5e/Character Options/Backgrounds/Acolyte.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Adult Blue Dragon.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Ape.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Animated Armor.md",
+    "== SRDs ==/Audits/Source-Card-Structure.md",
+    "== SRDs ==/Compendium/5.5e/Creatures/Allosaurus.md",
+    "== SRDs ==/Sources/5.5e/Monster Manual/Appendix A - Animals/Appendix A - Animals.md",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p020-table-2.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p006-table-2.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p006-table-1.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p005-table-2.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p005-table-1.png",
+    "== SRDs ==/Sources/5.5e/Placeholder.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/source-manifest.json",
+    "== SRDs ==/Sources/5.5e/System Reference Document/11 - Monsters",
+    "== SRDs ==/Sources/5.5e/System Reference Document/10 - Magic Items",
+    "== SRDs ==/Sources/5.5e/System Reference Document/09 - Gameplay Toolbox",
+    "== SRDs ==/Sources/5.5e/System Reference Document/08 - Rules Glossary",
+    "== SRDs ==/Sources/5.5e/System Reference Document/07 - Spells",
+    "== SRDs ==/Sources/5.5e/System Reference Document/06 - Equipment",
+    "== SRDs ==/Sources/5.5e/System Reference Document/05 - Feats",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p256-table-2.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p256-table-1.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p255-table-1.png",
+    "== SRDs ==/Sources/5.5e/System Reference Document/Tables/srd-p252-table-1.png"
+  ]
+}

@@ -1,0 +1,61 @@
+---
+tags:
+  - spell
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+  - "dnd-spell"
+entity_id: aabdfb98-42f6-548b-9914-a2ba1190d1e8
+entity_type: spell
+source_ids: ["phb-2024", "srd-5.2.1"]
+srd_5_2_1_pages: [144]
+source_versions: ["Player's Handbook", "SRD 5.2.1"]
+---
+
+# Levitate
+
+## Player's Handbook
+
+> [!info]
+> ### Levitate
+> *Level 2 Transmutation (Sorcerer, Wizard)*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **Casting Time:** Action  
+> **Range:** 60 feet  
+> **Components:** V, S, M (a metal spring)  
+> **Duration:** [[== SRDs ==/Compendium/Rules/Common Terms/Concentration|Concentration]], up to 10 minutes  
+>
+> One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
+>
+> The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were [[== SRDs ==/Compendium/Rules/Common Terms/Climbing|Climbing]]. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic action to move the target, which must remain within the spell's range.
+>
+> When the spell ends, the target floats gently to the ground if it is still aloft.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/Player's Handbook/D&D 5.5E - Player's Handbook.pdf|Player's Handbook]]
+
+## SRD 5.2.1
+
+> [!info]
+> ### Levitate
+> *Level 2 Transmutation (Sorcerer, Wizard)*
+>
+> ![[== SRDs ==/Sources/5.5e/Placeholder.png|320]]
+>
+> **Casting Time:** Action  
+> **Range:** 60 feet  
+> **Components:** V, S, M (a metal spring)  
+> **Duration:** [[== SRDs ==/Compendium/Rules/Common Terms/Concentration|Concentration]], up to 10 minutes  
+>
+> One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
+>
+> The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were [[== SRDs ==/Compendium/Rules/Common Terms/Climbing|Climbing]]. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic action to move the target, which must remain within the spell's range.
+>
+> When the spell ends, the target floats gently to the ground if it is still aloft.
+>
+> **Source:** [[== SRDs ==/Sources/5.5e/System Reference Document/SRD_CC_v5.2.1.pdf#page=144|SRD 5.2.1, p. 144]]
+
+## Source References
+
+- [[== SRDs ==/Sources/5.5e/Player's Handbook/Chapter 7 - Spells/Chapter 7 - Spells|Player's Handbook — Chapter 7 - Spells]]

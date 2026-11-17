@@ -1,0 +1,16 @@
+---
+cssclasses:
+  - "dnd-book"
+  - "dnd-phb"
+---
+# Seeking Spell
+
+![[D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png|320]]
+
+*Cost:* 1 Sorcery Points
+
+If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you’ve already used a different Metamagic option during the casting of the spell.
+
+## Handbook source
+
+[[D&D 5.5E - Player's Handbook.pdf#page=142|Player’s Handbook (2024), PDF page 142]]

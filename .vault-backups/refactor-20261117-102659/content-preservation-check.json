@@ -1,0 +1,10 @@
+{
+  "changed_lines": [
+    {
+      "original": "== SRDs ==/5.5e/Player's Handbook/Appendix B - Creature Stat Blocks/Shared-Creature-Index.md",
+      "destination": "== SRDs ==/Sources/5.5e/Player's Handbook/Appendix B - Creature Stat Blocks/Shared-Creature-Index.md",
+      "text": "All 51 creatures now have complete PHB stat blocks. The links below keep the book versions distinct; matching names do not imply identical statistics."
+    }
+  ],
+  "unexpected": []
+}

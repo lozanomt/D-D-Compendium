@@ -1,0 +1,14 @@
+---
+tags:
+  - action
+infobox:
+  title: "Opportunity Attacks"
+  subtitle: "Actions"
+  image: "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png"
+  fields:
+    - "Entry": "Actions"
+    - "section": "Quick reference"
+    - "Effect / overview": "You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its Bonus Action, its Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or an [[Unarmed Strike]] against the provoking creature. The attack occurs right before the creature leaves your reach."
+---
+
+You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its Bonus Action, its Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or an [[Unarmed Strike]] against the provoking creature. The attack occurs right before the creature leaves your reach.

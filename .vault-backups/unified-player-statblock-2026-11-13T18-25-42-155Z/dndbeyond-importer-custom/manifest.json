@@ -1,0 +1,11 @@
+{
+  "id": "dndbeyond-importer-custom",
+  "name": "DnD Beyond Importer — Custom",
+  "version": "0.3.0",
+  "minAppVersion": "1.12.0",
+  "description": "Personal editable fork of DnD Beyond Importer, with independent notes and compact theme-aware styling.",
+  "author": "Jktaisa",
+  "authorUrl": "https://github.com/Webcreator3478",
+  "fundingUrl": "https://ko-fi.com/jktaisa",
+  "isDesktopOnly": false
+}
