@@ -33,7 +33,7 @@
       {
         "id": "1db67698d603b871",
         "type": "tabs",
-        "dimension": 67.85370548604426,
+        "dimension": 67.85370548604428,
         "children": [
           {
             "id": "9e7a66c04f3f53f3",
@@ -216,14 +216,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dndbeyond-importer-custom:Custom: Open Dice Roller": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "bases:Create new base": true,
       "templates:Insert template": true,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "dndbeyond-importer-custom:Custom: Import D&D Beyond character": false,
       "daily-notes:Open today's daily note": true
     }
   },
