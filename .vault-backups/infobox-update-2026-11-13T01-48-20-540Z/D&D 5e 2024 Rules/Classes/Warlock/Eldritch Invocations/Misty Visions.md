@@ -1,8 +1,0 @@
-#### Misty Visions
-*Prerequisite: Level 2+ Warlock*
-
-You can cast *[[Silent Image]]* without expending a spell slot.
-
-## Handbook source
-
-[[D&D 5.5E - Player's Handbook.pdf#page=156|Player’s Handbook (2024), PDF page 156]]

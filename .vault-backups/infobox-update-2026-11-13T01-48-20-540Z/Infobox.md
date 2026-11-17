@@ -1,5 +1,0 @@
----
-infobox:
-  title: Infobox
-  fields: []
----
